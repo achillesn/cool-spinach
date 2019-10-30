@@ -2,7 +2,7 @@
 title: Contact
 layout: contact
 subtitle: ''
-img_path: "/images/Hocus Photus logo-1.png"
+img_path: "/images/Hocus-Photus-logoWHITE-LOW.jpg"
 menu:
   main:
     weight: 5
