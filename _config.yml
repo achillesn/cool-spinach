@@ -5,8 +5,8 @@ permalink: "/:title/"
 layout_style: overflow
 palette: blue
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: Hocus Photus
+  tagline: Art and Science Network
   profile_img: "/images/logo-home.jpg"
   bg: dark
   has_nav: true
