@@ -7,7 +7,7 @@ palette: blue
 header:
   title: Stackbit Fresh
   tagline: Header Tagline
-  profile_img: "/images/Hocus Photus logo.png"
+  profile_img: "/images/logo-home.jpg"
   bg: dark
   has_nav: true
   has_social: true
