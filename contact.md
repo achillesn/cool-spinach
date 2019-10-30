@@ -2,7 +2,7 @@
 title: Contact
 layout: contact
 subtitle: ''
-img_path: "/images/3.jpg"
+img_path: "/images/contactluna.jpg"
 menu:
   main:
     weight: 5
