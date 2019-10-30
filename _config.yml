@@ -8,7 +8,7 @@ header:
   title: Hocus Photus
   tagline: Art and Science Network
   profile_img: "/images/logo-white.jpg"
-  bg: light
+  bg: dark
   has_nav: true
   has_social: true
 footer:
