@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our vision.
-img_path: "/images/_MG_9441.jpg"
+img_path: "/images/articel 1.jpg"
 layout: page
 menu:
   main:
