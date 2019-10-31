@@ -1,5 +1,5 @@
 ---
-title: Η επαναφορά της ζωής
+title: Επαναφέροντας τη ζωή στη ζωή
 date: 2019-10-30 23:00:00 +0000
 thumb_img_path: "/images/articel 1.jpg"
 content_img_path: "/images/articel 1.jpg"
