@@ -24,5 +24,5 @@ fields:
   config:
     required: true
 pages:
-- about.md
 - style-guide.md
+- about.md
