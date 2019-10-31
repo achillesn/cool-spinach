@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our vision.
+subtitle: A short page about us.
 img_path: "/images/articel 1.jpg"
 layout: page
 menu:
