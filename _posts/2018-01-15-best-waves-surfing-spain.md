@@ -19,8 +19,7 @@ Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-sur
 
 Synchronised surfing, Manly Beach, New South Wales, 1938–46 The term surfing refers to the act of riding a wave, regardless of whether the wave is ridden with a board or without a board, and regardless of the stance used. The native peoples of the Pacific, for instance, surfed waves on alaia, paipo, and other such craft, and did so on their belly and knees. The modern-day definition of surfing, however, most often refers to a surfer riding a wave standing up on a surfboard; this is also referred to as stand-up surfing.
 
-<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<a href="https://vimeo.com/31830780">Hey Ho Let's Go Surfing</a> from <a href="https://vimeo.com/nathanoldfield">Nathan Oldfield</a> on <a href="https://vimeo.com">Vimeo</a>.
+<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <a href="https://vimeo.com/354326405">Inside Out</a> from <a href="https://vimeo.com/hocusphotus">Hocus Photus</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 Another prominent form of surfing is body boarding, when a surfer rides a wave on a bodyboard, either lying on their belly, drop knee, or sometimes even standing up on a body board. Other types of surfing include knee boarding, surf matting (riding inflatable mats), and using foils. Body surfing, where the wave is surfed without a board, using the surfer's own body to catch and ride the wave, is very common and is considered by some to be the purest form of surfing.
 
