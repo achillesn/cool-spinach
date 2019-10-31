@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: A short page about us.
-img_path: "/images/articel 1.jpg"
+img_path: "/images/_MG_9441.jpg"
 layout: page
 menu:
   main:
