@@ -21,3 +21,5 @@ menu:
 Από το **2015**, άρχισε να εξελίσσει σε βάθος τα **Φωτογραφικά Παιχνίδια**. Εναν βιωματικό τρόπο προσέγγισης της φωτογραφίας που βασίζεται στο παιχνίδι.
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+<iframe src="[https://player.vimeo.com/video/354326405](https://player.vimeo.com/video/354326405 "https://player.vimeo.com/video/354326405")" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
