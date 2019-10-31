@@ -3,9 +3,10 @@ title: Η επαναφορά της ζωής
 date: 2019-10-30 23:00:00 +0000
 thumb_img_path: "/images/articel 1.jpg"
 content_img_path: "/images/articel 1.jpg"
-excerpt: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi), making
-  it the most sparsely populated country in Europe.
+excerpt: Ο κόσμος που παρουσιάζεται σε μια φωτογραφία, είναι τελείως διαφορετικός
+  από τον κόσμο από τον οποίον εκείνη προέρχεται. Η ψευδαίσθηση του πραγματικού που
+  απεικονίζεται στις δύο διαστάσεις της όμως, έχει τη δύναμη να ταξιδέψει τον θεατή
+  σ’ έναν κόσμο εντελώς δικό του
 layout: post
 subtitle: ''
 canonical_url: ''
