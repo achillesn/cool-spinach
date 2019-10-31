@@ -3,7 +3,7 @@ title: Hocus Photus
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: blue
+palette: violet
 header:
   title: Hocus Photus
   tagline: Art and Science Network
