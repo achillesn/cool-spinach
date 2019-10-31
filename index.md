@@ -32,6 +32,13 @@ sections:
     url: blog/index.html
   component: posts_block.html
   num_posts_displayed: 4
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  title: ''
+  section_id: ''
+  actions: []
+  content: ''
 layout: home
 menu:
   main:
