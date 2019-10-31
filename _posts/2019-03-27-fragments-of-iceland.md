@@ -1,5 +1,5 @@
 ---
-title: Fragments of Iceland
+title: Η επαναφορά της ζωής
 date: 2019-03-27
 thumb_img_path: "/images/articel 1.jpg"
 content_img_path: "/images/articel 1.jpg"
