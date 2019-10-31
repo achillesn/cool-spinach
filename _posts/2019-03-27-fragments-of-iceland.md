@@ -1,6 +1,6 @@
 ---
 title: Η επαναφορά της ζωής
-date: 2019-03-27
+date: 2019-10-30 23:00:00 +0000
 thumb_img_path: "/images/articel 1.jpg"
 content_img_path: "/images/articel 1.jpg"
 excerpt: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
