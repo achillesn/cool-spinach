@@ -1,11 +1,10 @@
 ---
 title: 'Iconic Hacks # 1'
-subtitle: "...to eternity"
+subtitle: ''
 date: 2019-10-31 23:00:00 +0000
 thumb_img_path: "/images/33540443_10215978395595100_1630847757155565568_o.jpg"
 content_img_path: "/images/33540443_10215978395595100_1630847757155565568_o.jpg"
-excerpt: 'The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing
-  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
+excerpt: Εικονικός ύμνος στην ανυπαρξία
 layout: post
 canonical_url: ''
 
