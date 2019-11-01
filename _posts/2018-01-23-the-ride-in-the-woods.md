@@ -9,6 +9,6 @@ layout: post
 canonical_url: ''
 
 ---
-Photo and text by [Achilles Nasios](https://anikon.org/)
-
 A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds.
+
+Photo and text by [Achilles Nasios](https://anikon.org/)
