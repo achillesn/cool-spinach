@@ -6,7 +6,7 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: Contact Me
+  - label: Contact Us
     url: "/contact"
   component: content_block.html
   content: Το Δίκτυο Τεχνών κι Επιστημών-Hocus Photus, είναι μια αστική μη κερδοσκοπική
