@@ -11,4 +11,4 @@ canonical_url: ''
 ---
 A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds.
 
-![](/images/nasiosa_PG_01.jpg)
+![myself](/images/nasiosa_PG_01.jpg "me")
