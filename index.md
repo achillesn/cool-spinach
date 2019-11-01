@@ -1,14 +1,6 @@
 ---
 title: Home
 sections:
-- type: heroblock
-  template: heroblock
-  section_id: hero
-  component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
-  title: ''
-  actions: []
 - type: contentblock
   template: contentblock
   title: About
@@ -22,7 +14,7 @@ sections:
     ερασιτεχνών και επιστημόνων σε παγκόσμια κλίμακα. Προτείνει ειδικά σχεδιασμένες
     δράσεις οι οποίες αποβλέπουν στη δημιουργία πρωτοτύπων ομαδικών εικαστικών έργων
     τα οποία διαμορφώνονται και ολοκληρώνονται συνεργατικά.
-  image: ''
+  image: "/images/Hocus-Photus-logo-front-1.jpg"
 - type: postsblock
   template: postsblock
   title: Recent Posts
