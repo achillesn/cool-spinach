@@ -6,10 +6,10 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: Subscribe
-    url: ''
   - label: Contact Us
     url: "/contact"
+  - label: Subscribe
+    url: ''
   component: content_block.html
   content: Το Δίκτυο Τεχνών κι Επιστημών-Hocus Photus, είναι μια αστική μη κερδοσκοπική
     εταιρία, της οποίας το όραμα είναι η δημιουργία ενός πλαισίου συνένωσης και σύμπραξης
