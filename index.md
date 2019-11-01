@@ -6,6 +6,8 @@ sections:
   title: About
   section_id: about
   actions:
+  - label: Subscribe
+    url: ''
   - label: Contact Us
     url: "/contact"
   component: content_block.html
