@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: A short page about us and our vision.
-img_path: "/images/about-1.jpg"
+img_path: "/images/about2.jpg"
 layout: page
 menu:
   main:
