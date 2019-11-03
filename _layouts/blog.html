@@ -6,7 +6,7 @@ layout: body
 
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% for post in display_posts %}
-    {% if page.categories == 'News' %}
+    {% if site.categories.News %}
     <article class="post">
       <div class="post-inside">
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
