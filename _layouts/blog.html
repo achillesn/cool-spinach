@@ -3,7 +3,7 @@ layout: body
 ---
 
   <div class="post-feed">
-    {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
+    {% assign display_posts = '/news' | get_pages | sort: 'date' | reverse %}
     {% for post in display_posts %}
     <article class="post">
       <div class="post-inside">

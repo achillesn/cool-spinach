@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Επικοινωνία
 layout: contact
 subtitle: ''
 img_path: "/images/contactluna.jpg"
