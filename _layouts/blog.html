@@ -3,7 +3,7 @@ layout: body
 ---
 
   <div class="post-feed">
-    {% if site.categories == 'News' %}
+    {% if page.categories == 'News' %}
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% for post in display_posts %}
     <article class="post">
