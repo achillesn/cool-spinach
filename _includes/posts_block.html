@@ -4,8 +4,7 @@
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% assign slice_length = include.section.num_posts_displayed | minus: 0 %}
     {% assign recent_posts = display_posts | slice: 0, slice_length %}
-    {% for post in recent_posts %}
-    {% if page.categories.Post %}
+    {% for post in site.categories.Post %}
     <article class="post">
       <div class="post-inside">
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
@@ -25,7 +24,6 @@
         </footer>
       </div><!-- .post-inside -->
     </article><!-- .post -->
-    {% endif %}
     {% endfor %}
   </div><!-- .post-feed -->
   {% assign actions_is_not_empty = include.section.actions | is_not_empty %}
