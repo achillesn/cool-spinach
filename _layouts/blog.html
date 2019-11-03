@@ -5,8 +5,7 @@ layout: body
   <div class="post-feed">
 
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
-    {% for post in display_posts %}
-    {% if site.categories.News %}
+    {% for post in site.categories.News %}
     <article class="post">
       <div class="post-inside">
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
@@ -27,7 +26,6 @@ layout: body
         </footer>
       </div><!-- .post-inside -->
     </article><!-- .post -->
-    {% endif %}
     {% endfor %}
 
   </div><!-- .post-feed -->
