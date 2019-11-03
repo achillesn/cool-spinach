@@ -3,9 +3,10 @@ layout: body
 ---
 
   <div class="post-feed">
-    {% if page.categories == 'News' %}
+
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% for post in display_posts %}
+    {% if page.categories == 'News' %}
     <article class="post">
       <div class="post-inside">
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
@@ -26,8 +27,9 @@ layout: body
         </footer>
       </div><!-- .post-inside -->
     </article><!-- .post -->
-    {% endfor %}
     {% endif %}
+    {% endfor %}
+
   </div><!-- .post-feed -->
 
   <!-- Pagination TBD -->
