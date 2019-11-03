@@ -3,6 +3,7 @@ layout: body
 ---
 
   <div class="post-feed">
+    {% if site.categories == 'news' %}
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% for post in display_posts %}
     <article class="post">
@@ -26,6 +27,7 @@ layout: body
       </div><!-- .post-inside -->
     </article><!-- .post -->
     {% endfor %}
+    {% endif %}
   </div><!-- .post-feed -->
 
   <!-- Pagination TBD -->
