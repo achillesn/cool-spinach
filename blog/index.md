@@ -1,5 +1,5 @@
 ---
-title: Hocus Blogus
+title: Blogus
 layout: blog
 menu:
   main:
