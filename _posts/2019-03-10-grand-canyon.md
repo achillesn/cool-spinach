@@ -9,6 +9,7 @@ excerpt: >-
   miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
   meters).
 layout: post
+categories: News
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)

@@ -8,6 +8,7 @@ excerpt: Listen to presences inside poems. Let them take you where they will. Fo
   those private hints, and never leave the premises.  (Presences. Jalal Al-Din Rumi)
 layout: post
 canonical_url: ''
+categories: News
 
 ---
 A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds.

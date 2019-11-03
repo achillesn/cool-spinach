@@ -9,6 +9,7 @@ excerpt: Surfing is a surface water sport in which the wave rider, referred to a
   the surfer towards the shore.
 layout: post
 canonical_url: ''
+categories: News
 
 ---
 Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)

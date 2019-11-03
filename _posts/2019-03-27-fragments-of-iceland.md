@@ -10,7 +10,7 @@ excerpt: Για ν’ αποκτήσουν οι εικόνες το λόγο π�
 layout: post
 subtitle: ''
 canonical_url: ''
-
+categories: Post
 ---
 Photo and text by [Achilles Nasios](https://anikon.org/)
 
