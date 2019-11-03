@@ -17,3 +17,7 @@ Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
 ![](/images/_MG_6362.jpg)
 
 > Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+
+![](/images/_MG_6364.jpg)
+
+![](/images/_MG_6370.jpg)
