@@ -1,6 +1,6 @@
 ---
 title: Hocus Blogus
-layout: blog
+layout: tag_index
 menu:
   main:
     weight: 2
