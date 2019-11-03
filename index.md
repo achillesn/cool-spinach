@@ -6,7 +6,7 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: Contact Us
+  - label: ContactUs
     url: "/contact"
   - label: Subscribe
     url: ''
