@@ -1,5 +1,5 @@
 ---
-title: Domus
+title: Hocus Domus
 sections:
 - type: contentblock
   template: contentblock
