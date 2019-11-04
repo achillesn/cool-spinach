@@ -1,6 +1,6 @@
 ---
-title: Επαναφέροντας τη ζωή στη ζωή
-date: 2019-10-30 23:00:00 +0000
+title: 'Ακολουθώντας την εποχή #1'
+date: 2019-10-30T23:00:00.000+00:00
 thumb_img_path: "/images/articel 1.jpg"
 content_img_path: "/images/articel 1.jpg"
 excerpt: Για ν’ αποκτήσουν οι εικόνες το λόγο που τους αρμόζει, είναι απαραίτητη η
@@ -8,9 +8,10 @@ excerpt: Για ν’ αποκτήσουν οι εικόνες το λόγο π�
   καταστάσεις πραγμάτων. Ο φωτογράφος τους χάρισε την παγωμένη τους αθανασία. Ο θεατής,
   καλείται να τις επαναφέρει στη ζωή.
 layout: post
-subtitle: ''
+subtitle: Επαναφέροντας τη ζωή στη ζωή
 canonical_url: ''
 categories: Post
+
 ---
 Photo and text by [Achilles Nasios](https://anikon.org/)
 
