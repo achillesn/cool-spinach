@@ -1,5 +1,5 @@
 ---
-title: AboutUs
+title: Hocus AboutUs
 subtitle: ''
 img_path: "/images/about2.jpg"
 layout: page
