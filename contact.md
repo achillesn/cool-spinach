@@ -1,5 +1,5 @@
 ---
-title: ContactUs
+title: Hocus ContactUs
 layout: contact
 subtitle: ''
 img_path: "/images/contactluna.jpg"
