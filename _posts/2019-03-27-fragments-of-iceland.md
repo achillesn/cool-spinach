@@ -1,5 +1,5 @@
 ---
-title: Η Ανάγνωση του Κύκλωπα
+title: Η Αναγνώσεις του Κύκλωπα
 date: 2019-10-30T23:00:00.000+00:00
 thumb_img_path: "/images/articel 1.jpg"
 content_img_path: "/images/articel 1.jpg"
