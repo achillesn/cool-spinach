@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/οι-αναγνώσεις-του-κύκλωπα.md
 - _posts/2019-03-27-fragments-of-iceland.md
 - _posts/news/01.md
 - _posts/2019-03-24-japan.md
