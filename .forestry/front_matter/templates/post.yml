@@ -45,8 +45,8 @@ fields:
   default: []
   label: Category
 pages:
-- _posts/2019-11-01-το-τελευταίο-παιχνίδι.md
 - _posts/φωτογραφικό-παιχνίδι-στο-κεεπεα-ορίζοντες.md
+- _posts/2019-11-01-το-τελευταίο-παιχνίδι.md
 - _posts/οι-αναγνώσεις-του-κύκλωπα.md
 - _posts/2018-01-23-the-ride-in-the-woods.md
 - _posts/2019-03-24-japan.md
