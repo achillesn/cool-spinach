@@ -9,7 +9,7 @@ excerpt: Listen to presences inside poems. Let them take you where they will. Fo
 layout: post
 canonical_url: ''
 categories:
-- Post
+- News
 
 ---
 A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds.
