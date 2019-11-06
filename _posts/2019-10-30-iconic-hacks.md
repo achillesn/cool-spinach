@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Iconic Hacks
 subtitle: Photo and text by Achilles Nasios
 date: 2019-10-30 23:00:00 +0000
