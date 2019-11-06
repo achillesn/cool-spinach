@@ -11,7 +11,7 @@ layout: post
 subtitle: Έκθεση Φωτογραφίας (Σεπτέμβριος 2017)
 canonical_url: ''
 categories:
-- News
+- Post
 
 ---
 Cover-photo by Panos Diamantis
