@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/το-9ο-φωτογραφικό-παιχνίδι.md
 - _posts/φωτογραφικό-παιχνίδι-στο-κεεπεα-ορίζοντες.md
 - _posts/2019-11-01-το-τελευταίο-παιχνίδι.md
 - _posts/2019-10-31-ωκεανίς-the-8th-photo-game.md
