@@ -4,7 +4,7 @@ categories:
 - Post
 title: Ωκεανίς (The 8th Photo Game)
 subtitle: Αθήνα, Φεβρουάριος 2019
-date: 2019-10-31 23:00:00 +0000
+date: 2019-10-29 23:00:00 +0000
 thumb_img_path: "/images/P1110356.JPG"
 content_img_path: "/images/P1110356.JPG"
 excerpt: ''
