@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- Post
 title: 'Inside Out '
 subtitle: Φωτογραφική Εγκατάσταση (Σεπτέμβριος 2019)
 date: 2019-11-03 23:00:00 +0000
