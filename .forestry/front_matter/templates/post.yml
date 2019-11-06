@@ -45,11 +45,11 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/φωτογραφικό-παιχνίδι-στο-κεεπεα-ορίζοντες.md
 - _posts/2019-11-01-το-τελευταίο-παιχνίδι.md
 - _posts/2019-10-31-ωκεανίς-the-8th-photo-game.md
 - _posts/iconic-hacks.md
 - _posts/inside-out.md
-- _posts/φωτογραφικό-παιχνίδι-στο-κεεπεα-ορίζοντες.md
 - _posts/οι-αναγνώσεις-του-κύκλωπα.md
 - _posts/news/01.md
 - _posts/2018-01-11-fox-village-in-japan.md
