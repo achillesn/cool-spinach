@@ -10,7 +10,8 @@ excerpt: Το έργο που τελικά φανερώθηκε στο «ΤΕΛ�
 layout: post
 subtitle: Έκθεση Φωτογραφίας (Σεπτέμβριος 2017)
 canonical_url: ''
-categories: Post
+categories:
+- News
 
 ---
 Cover-photo by Panos Diamantis
