@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/news/φωτογραφικό-παιχνίδι-στην-κύπρο.md
 - _posts/iconic-hacks.md
 - _posts/news/το-μυστήριο-της-φοα-1.md
 - _posts/οι-αναγνώσεις-του-κύκλωπα.md
