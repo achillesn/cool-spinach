@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/news/01.md
 - _posts/iconic-hacks.md
 - _posts/οι-αναγνώσεις-του-κύκλωπα.md
 - _posts/το-9ο-φωτογραφικό-παιχνίδι.md
@@ -53,5 +54,4 @@ pages:
 - _posts/εισαγωγή-στο-φωτογραφικό-παιχνίδι.md
 - _posts/φωτογραφικό-παιχνίδι-στο-κεεπεα-ορίζοντες.md
 - _posts/2019-10-31-ωκεανίς-the-8th-photo-game.md
-- _posts/news/01.md
 - _posts/2018-01-15-best-waves-surfing-spain.md
