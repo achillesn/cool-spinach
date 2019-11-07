@@ -12,6 +12,6 @@ excerpt: Listen to presences inside poems. Let them take you where they will. Fo
 canonical_url: ''
 
 ---
-_A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds._
+_Ένα στολίδι λαμπυρίζει στην έρημο του σκοταδιού των αγρών,          ενώ τα φώτα της πόλης χαϊδεύουν τα σύννεφα._
 
-_Ένα στολίδι λαμπυρίζει στην έρημο του σκοταδιού των αγρών,ενώ τα φώτα της πόλης χαϊδεύουν τα σύννεφα._
+_A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds._

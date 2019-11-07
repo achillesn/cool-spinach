@@ -45,9 +45,9 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/iconic-hacks.md
 - _posts/news/το-μυστήριο-της-φοα-1.md
 - _posts/οι-αναγνώσεις-του-κύκλωπα.md
-- _posts/iconic-hacks.md
 - _posts/το-9ο-φωτογραφικό-παιχνίδι.md
 - _posts/inside-out.md
 - _posts/2019-11-01-το-τελευταίο-παιχνίδι.md
