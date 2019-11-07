@@ -14,4 +14,4 @@ canonical_url: ''
 ---
 _Ένα στολίδι λαμπυρίζει στην έρημο του σκοταδιού των αγρών,          καθώς τα φώτα της πόλης χαϊδεύουν τα σύννεφα._
 
-_A jewel shimmers in the deserted darkness of the fields while city lights caress the clouds._
+_A jewel shimmers in the deserted darkness of the fields, while city lights caress the clouds._
