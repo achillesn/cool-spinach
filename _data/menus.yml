@@ -1,1 +1,7 @@
---- {}
+---
+main:
+- weight: 4
+  url: https://photogames.tk/
+  title: Photo Games
+- weight: 3
+  title: Photogames
