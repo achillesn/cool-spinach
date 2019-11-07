@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/THE CYCLOP's EYE/το-μάτι-του-κύκλωπα.md
 - _posts/οι-αναγνώσεις-του-κύκλωπα.md
 - _posts/news/φωτογραφικό-παιχνίδι-στην-κύπρο.md
 - _posts/iconic-hacks.md
