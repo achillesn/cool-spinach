@@ -20,13 +20,13 @@ sections:
   image: ''
 - type: postsblock
   template: postsblock
-  title: Recent Posts
-  section_id: recent-posts
+  title: Our Actions
+  section_id: Our Actions
   actions:
   - label: View Blog
     url: blog/index.html
   component: posts_block.html
-  num_posts_displayed: '8'
+  num_posts_displayed: '20'
 - template: heroblock
   component: hero_block.html
   type: heroblock
