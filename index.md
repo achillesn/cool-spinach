@@ -7,7 +7,7 @@ sections:
   section_id: about
   actions:
   - label: View Blog
-    url: Hocus Blogus
+    url: https://cool-spinach-98452.netlify.com/blog/
   - label: ContactUs
     url: "/contact"
   - label: Subscribe
