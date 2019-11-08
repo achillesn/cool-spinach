@@ -12,7 +12,7 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; Hocus Photus. All rights reserved."
+  content: "&copy; 2019 - Hocus Photus. All rights reserved."
   links: []
 sass:
   indentWidth: 4
