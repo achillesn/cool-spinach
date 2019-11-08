@@ -12,7 +12,7 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; All rights reserved."
+  content: "&copy; Hocus Photus. All rights reserved."
   links:
   - text: Made with Stackbit
     url: https://www.stackbit.com
