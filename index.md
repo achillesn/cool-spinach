@@ -8,10 +8,10 @@ sections:
   actions:
   - label: View Blog
     url: https://cool-spinach-98452.netlify.com/blog/
-  - label: ContactUs
-    url: "/contact"
   - label: Subscribe
     url: ''
+  - label: ContactUs
+    url: "/contact"
   component: content_block.html
   content: Με την πεποίθηση ότι η Τέχνη λειτουργεί ενωτικά για τους ανθρώπους, προχωρήσαμε
     στην ίδρυση του Δικτύου Τεχνών κι Επιστημών **Hocus Photus**. Tο όραμά μας είναι
