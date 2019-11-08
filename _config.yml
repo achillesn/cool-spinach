@@ -13,10 +13,7 @@ header:
   has_social: true
 footer:
   content: "&copy; Hocus Photus. All rights reserved."
-  links:
-  - text: Made with Stackbit
-    url: https://www.stackbit.com
-    new_window: true
+  links: []
 sass:
   indentWidth: 4
   style: nested
