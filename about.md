@@ -12,6 +12,8 @@ menu:
 
 ![](/images/14_aravantinoue_IMG_2906.jpg)
 
+photo ©[Eugenia Aravantinou](https://www.facebook.com/profile.php?id=100008207979795)
+
 Ο **Αχιλλέας Νάσιος** είναι εικαστικός φωτογράφος και video-artist γεννημένος στην Ελλάδα.
 
 Στην **FAMU Prague**, σπούδασε φωτογραφία και αρχές κινηματογράφου.Στην **HDK Berlin,** οπτική επικοινωνία και σχεδίαση εκθέσεων. Στην **ASFA Athens,** ψηφιακά μέσα και στην **KKH Stockholm,** εμβάθυνε στον τομέα της βιντεο-τεχνης.
