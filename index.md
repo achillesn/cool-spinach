@@ -6,6 +6,8 @@ sections:
   title: About
   section_id: about
   actions:
+  - label: View Blog
+    url: ''
   - label: ContactUs
     url: "/contact"
   - label: Subscribe
