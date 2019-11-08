@@ -7,7 +7,7 @@ sections:
   section_id: about
   actions:
   - label: View Blog
-    url: ''
+    url: Hocus Blogus
   - label: ContactUs
     url: "/contact"
   - label: Subscribe
