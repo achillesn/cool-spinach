@@ -12,6 +12,8 @@ menu:
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
+![](/images/14_aravantinoue_IMG_2906.jpg)
+
 Ο **Αχιλλέας Νάσιος** είναι εικαστικός φωτογράφος και video-artist γεννημένος στην Ελλάδα.
 
 Στην **FAMU Prague**, σπούδασε φωτογραφία και αρχές κινηματογράφου.Στην **HDK Berlin,** οπτική επικοινωνία και σχεδίαση εκθέσεων. Στην **ASFA Athens,** ψηφιακά μέσα και στην **KKH Stockholm,** εμβάθυνε στον τομέα της βιντεο-τεχνης.
