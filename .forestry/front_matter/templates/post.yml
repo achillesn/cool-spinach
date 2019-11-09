@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/THE CYCLOP's EYE/το-μάτι-του-κύκλωπα.md
 - _posts/news/το-μυστήριο-της-φοα-1.md
 - _posts/news/2019-11-03-το-10ο-φωτογραφικό-παιχνίδι.md
 - _posts/το-9ο-φωτογραφικό-παιχνίδι.md
