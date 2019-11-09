@@ -24,6 +24,8 @@ Eimai o <a href="anikon.com" target="blank">achilleas</a>
 <iframe src="https://player.vimeo.com/video/14533840" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/14533840">Memory #14/ Storgatan</a> from <a href="https://vimeo.com/hocusphotus">Hocus Photus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <a href="https://vimeo.com/354326405">Inside Out</a> from <a href="https://vimeo.com/hocusphotus">Hocus Photus</a> on <a href="https://vimeo.com">Vimeo</a>.
+
 ![](/images/Inside Out 1.jpg)
 
 Στην έκθεση συμμετείχαν οι:
