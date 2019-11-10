@@ -19,7 +19,7 @@ canonical_url: ''
 
 <iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Με τον τρόπο αυτό 19 φωτογράφοι και μια ζωγράφος, διαμόρφωσαν ο καθένας τη δική του οπτική πρόταση, συμβάλλοντας στη δημιουργία της φωτογραφικής εγκατάστασης INSIDE OUT. Ενός έργου δομημένου από κοινού.
+Με τον τρόπο αυτό 19 φωτογράφοι και μια ζωγράφος, διαμόρφωσαν ο καθένας τη δική του οπτική πρόταση, συμβάλλοντας στη δημιουργία της φωτογραφικής εγκατάστασης **INSIDE OUT**. 
 
 ![](/images/Inside Out 1.jpg)
 
