@@ -14,7 +14,7 @@ menu:
 
 ![](/images/14_aravantinoue_IMG_2906.jpg)
 
-photo ©[Eugenia Aravantinou](https://www.facebook.com/profile.php?id=100008207979795)
+photo ©<a href="https://www.facebook.com/profile.php?id=100008207979795" target="blank">Eugenia Aravantinou</a>
 
 Ο **Αχιλλέας Νάσιος** είναι εικαστικός φωτογράφος και video-artist γεννημένος στην Ελλάδα.
 
@@ -28,4 +28,4 @@ photo ©[Eugenia Aravantinou](https://www.facebook.com/profile.php?id=1000082079
 
 Από το **2015**, άρχισε να εξελίσσει σε βάθος τα **Φωτογραφικά Παιχνίδια**. Εναν βιωματικό τρόπο προσέγγισης της φωτογραφίας που βασίζεται στο παιχνίδι.
 
-> 
+>
