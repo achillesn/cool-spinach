@@ -17,8 +17,7 @@ iFocus Photo Gallery - Athens 2019
 
 Αντιμέτωποι με το χρόνο, με το σκοτάδι και το φως, με τη σκέψη και τη δράση τους, καθώς και με τους περιορισμούς του παιχνιδιού, βάλθηκαν ν’ ανακαλύψουν έναν τρόπο ν’ αφηγηθούν οπτικά το βίωμά τους. Με τον τρόπο αυτό 19 φωτογράφοι και μια ζωγράφος, διαμόρφωσαν ο καθένας τη δική του οπτική πρόταση, συμβάλλοντας στη δημιουργία της φωτογραφικής εγκατάστασης INSIDE OUT. Ενός έργου δομημένου από κοινού.
 
-<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <a href="https://vimeo.com/354326405">Inside Out</a> from <a href="https://vimeo.com/hocusphotus">Hocus Photus</a> on <a href="https://vimeo.com">Vimeo</a>.
-
+<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 ![](/images/Inside Out 1.jpg)
 
 Στην έκθεση συμμετείχαν οι:
