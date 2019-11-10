@@ -33,6 +33,8 @@ canonical_url: ''
 
 Παραγωγή: Hocus Photus
 
+![](/images/Inside Out 6.jpg)
+
 ![](/images/Inside Out 3.jpg)
 
 ![](/images/Inside Out 4.jpg)
