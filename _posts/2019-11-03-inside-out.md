@@ -13,11 +13,11 @@ excerpt: Τον Σεπτέμβριο του 2019, 19 φωτογράφοι και
 canonical_url: ''
 
 ---
-iFocus Photo Gallery - Athens 2019
+**iFocus Photo Gallery** - Athens 2019
 
-Αντιμέτωποι με το χρόνο, με το σκοτάδι και το φως, με τη σκέψη και τη δράση τους, καθώς και με τους περιορισμούς του παιχνιδιού, βάλθηκαν ν’ ανακαλύψουν έναν τρόπο ν’ αφηγηθούν οπτικά το βίωμά τους. 
+Αντιμέτωποι με το χρόνο, με το σκοτάδι και το φως, με τη σκέψη και τη δράση τους, καθώς και με τους περιορισμούς του παιχνιδιού, βάλθηκαν ν’ ανακαλύψουν έναν τρόπο ν’ αφηγηθούν οπτικά το βίωμά τους.
 
-<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/354326405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Με τον τρόπο αυτό 19 φωτογράφοι και μια ζωγράφος, διαμόρφωσαν ο καθένας τη δική του οπτική πρόταση, συμβάλλοντας στη δημιουργία της φωτογραφικής εγκατάστασης INSIDE OUT. Ενός έργου δομημένου από κοινού.
 
