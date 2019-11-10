@@ -17,6 +17,6 @@ canonical_url: ''
 
 Στο παιχνίδι αυτό ταξίδεψαν από διάφορα μέρη της Ελλάδας για να παρευρεθούν, άτομα τα οποία είχαν ήδη συμμετέχει για μεγαλύτερο χρονικό διάστημα στα [INTERGAMES](https://photogames.tk/intergames/) (Διαδραστικά παιχνίδια σχεδιασμένα για το διαδύκτιο).
 
-<iframe src="https://player.vimeo.com/video/371424671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <a href="https://vimeo.com/371424671">Inside Out</a> from <a href="https://vimeo.com/hocusphotus">Hocus Photus</a> on <a href="https://vimeo.com">Vimeo</a>.
+<iframe src="https://player.vimeo.com/video/371424671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <a href="https://vimeo.com/371424671"
 
 Στις διαδικτυακές μας συναντήσεις μάθαμε σταδιακά να παίζουμε ένα διπλό παιχνίδι. Κάναμε εξάσκηση στη φωτογράφιση του “τίποτα” που μας περιβάλλει, μέχρι που τέλος είδαμε πόσο είναι δύσκολο να αρνηθεί κανείς τη θέλησή του, αλλά και τι γίνεται όταν συμβεί κάτι τέτοιο. Στην ΩΚΕΑΝΙΔΑ πλέον, συμφωνημένα, δεν είχαμε το μάτι μας στον φακό. Φωτογραφίζαμε μέρα και νύχτα με το σώμα.
