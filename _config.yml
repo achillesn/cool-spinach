@@ -2,7 +2,7 @@
 title: Hocus Photus
 name: Hocus Photus
 description:  Art and Science Network
-url: https://cool-spinach-98452.netlify.com/
+url: https://hocusphotus.com/
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
