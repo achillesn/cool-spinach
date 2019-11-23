@@ -22,8 +22,8 @@ sections:
   image: ''
 - type: postsblock
   template: postsblock
-  title: Our Actions
-  section_id: Our Actions
+  title: Previous Actions
+  section_id: Previous Actions
   actions:
   - label: View Blog
     url: "/blog"
