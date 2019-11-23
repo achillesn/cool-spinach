@@ -11,7 +11,7 @@ sections:
   - label: Subscribe
     url: ''
   - label: ContactUs
-    url: "/contact"
+    url: https://hocusphotus.com/contact/
   component: content_block.html
   content: Με την πεποίθηση ότι η Τέχνη λειτουργεί ενωτικά για τους ανθρώπους, προχωρήσαμε
     στην ίδρυση του Δικτύου Τεχνών κι Επιστημών **Hocus Photus**. Tο όραμά μας είναι
