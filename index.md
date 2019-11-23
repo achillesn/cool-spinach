@@ -7,7 +7,7 @@ sections:
   section_id: about
   actions:
   - label: View Blog
-    url: https://cool-spinach-98452.netlify.com/blog/
+    url: https://hocusphotus.com/blog/
   - label: Subscribe
     url: ''
   - label: ContactUs
