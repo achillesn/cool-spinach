@@ -26,7 +26,7 @@ sections:
   section_id: Our Actions
   actions:
   - label: View Blog
-    url: blog/index.html
+    url: https://hocusphotus.com/blog
   component: posts_block.html
   num_posts_displayed: '20'
 - template: heroblock
