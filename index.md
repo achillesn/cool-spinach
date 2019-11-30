@@ -9,7 +9,7 @@ sections:
   - label: View Blog
     url: https://hocusphotus.com/blog/
   - label: Subscribe
-    url: ''
+    url: http://eepurl.com/giP7OT
   - label: ContactUs
     url: https://hocusphotus.com/contact/
   component: content_block.html
