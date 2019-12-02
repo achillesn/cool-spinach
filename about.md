@@ -14,7 +14,7 @@ menu:
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-Τα ιδρυτικά μέλη του Δικτύου Τεχνών κι Επιστημών Hocus Photus είναι οι:
+Τα ιδρυτικά μέλη του Δικτύου Τεχνών κι Επιστημών **Hocus Photus** είναι οι:
 
 ![](/images/RITA2-FXT21493.jpg)
 
