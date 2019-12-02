@@ -11,3 +11,4 @@ excerpt: 'Μια συνργατική εικαστική προσέγγιση π
 canonical_url: "/images/TIME-IMG.jpg"
 
 ---
+<iframe src="https://player.vimeo.com/video/376815436" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
