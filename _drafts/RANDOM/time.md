@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: TIME
 subtitle: 'Τραγούδι: Ρίτα Αντωνοπούλου - Φωτογραφία: Άκης Χρήστου'
 date: 2019-12-02 23:00:00 +0000
