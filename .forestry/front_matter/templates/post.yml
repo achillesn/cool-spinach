@@ -45,6 +45,7 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/NEVI/συνοδευτική-επιστολή.md
 - _posts/ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ/2019-12-03-συλλογικές-αναπτύξεις.md
 - _posts/RANDOM/2019-12-02-time.md
 - _posts/news/2019-11-02-φωτογραφικό-παιχνίδι-στην-κύπρο.md
