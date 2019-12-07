@@ -10,3 +10,4 @@ excerpt: ''
 canonical_url: "/images/01.1.jpg"
 
 ---
+Whilst the forest seals gates, windows celebrate the living.
