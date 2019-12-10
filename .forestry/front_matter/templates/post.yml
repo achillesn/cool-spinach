@@ -45,9 +45,9 @@ fields:
   default: []
   label: Category
 pages:
+- _posts/ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ/συλλογικές-αναπτύξεις.md
 - _posts/NEVI/2019-12-09-συνοδευτική-επιστολή.md
 - _posts/THE CYCLOP's EYE/2019-11-08-το-μάτι-του-κύκλωπα.md
-- _posts/ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ/συλλογικές-αναπτύξεις.md
 - _posts/THE CYCLOP's EYE/το-μάτι-του-κύκλωπα-1.md
 - _posts/ICONIC HACKS/2019-12-07-iconic-hacks.md
 - _posts/RANDOM/2019-12-06-2ω-και-26λ-με-τον-χρόνο.md
