@@ -17,7 +17,7 @@ canonical_url: "/images/STORGATAN.jpg"
 ![](/images/bwok-2.jpg)
 
 <iframe src="https://player.vimeo.com/video/12129593" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/12129593">Storgatan (memory #14)</a> from <a href="https://vimeo.com/achilles">Achilles N.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 Music by © <a href="https://www.facebook.com/ragnhild.mao" target="blank">Ragnhild Mao - </a>Film by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
