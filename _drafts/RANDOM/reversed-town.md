@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Jarna Town.movie
+title: Järna Town.movie
 subtitle: 'Storgatan (Memory #14)'
 date: 2019-12-12 23:00:00 +0000
 thumb_img_path: "/images/STORGATAN.jpg"
