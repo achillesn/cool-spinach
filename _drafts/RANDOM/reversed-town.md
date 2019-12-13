@@ -7,7 +7,10 @@ subtitle: 'Storgatan (Memory #14)'
 date: 2019-12-12 23:00:00 +0000
 thumb_img_path: "/images/STORGATAN.jpg"
 content_img_path: "/images/STORGATAN.jpg"
-excerpt: ''
+excerpt: 'Η ταινία αυτή έγινε στα πλαίσια ενός καλέσματος των μελών του Συλλόγου Εικαστικών
+  της περιοχής. Ζητήθηκε από τους καλλιτέχνες ν'' αποδώσουν, καθένας με το δικό του
+  μέσο, το πορτραίτο της Järna (Γίάρνα), μιας μικρής κωμόπολης στην περιφέρεια της
+  Στοκχόλμης. '
 canonical_url: "/images/STORGATAN.jpg"
 
 ---
