@@ -4,10 +4,10 @@ categories: []
 title: 'common developments #1'
 subtitle: 1. Σταύρος Σταματίου - Αχιλλέας Νάσιος
 date: 2019-12-01 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/10.jpg"
+content_img_path: "/images/10.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/10.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
