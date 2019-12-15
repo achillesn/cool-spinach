@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: the cyclop's eye
+title: 'Το μάτι του Κύκλωπα #1'
 subtitle: 'Επαναφέροντας τη ζωή στη ζωή '
 date: 2019-11-30 23:00:00 +0000
 thumb_img_path: "/images/articel 1-1.jpg"
