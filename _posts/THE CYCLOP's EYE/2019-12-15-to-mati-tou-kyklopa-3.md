@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'To mati tou kyklopa #3'
+title: 'Το μάτι του Κύκλωπα #3'
 subtitle: Ακολουθώντας τους προσδιορισμούς
 date: 2019-12-15 23:00:00 +0000
 thumb_img_path: "/images/73180609_748452645627569_9181154535559659520_n.jpg"
