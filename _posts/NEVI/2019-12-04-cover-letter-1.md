@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'cover letter #1'
+title: 'Συνοδευτική επιστολή #1'
 subtitle: ''
 date: 2019-12-04 23:00:00 +0000
 thumb_img_path: "/images/01_MG_5743.jpg"
