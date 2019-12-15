@@ -16,6 +16,8 @@ canonical_url: "/images/01_MG_5743.jpg"
 ---
 Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
+![](/images/bwok-2.jpg)
+
 Έμαθα να πετάω με τα μάτια κλειστά.  
 Υπνοβατούσα από μικρός και η μητέρα μου έδενε ένα κουδουνάκι στου ποδιού το μεγάλο δάχτυλο.  
 Με κυνηγούσε με ένα μπλε νυχτικό σε όλο το σπίτι.  
