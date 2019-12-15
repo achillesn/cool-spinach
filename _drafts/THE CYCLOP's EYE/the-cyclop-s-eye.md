@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: the cyclop's eye
-subtitle: ''
+subtitle: 'Επαναφέροντας τη ζωή στη ζωή '
 date: 2019-11-30 23:00:00 +0000
 thumb_img_path: "/images/articel 1-1.jpg"
 content_img_path: "/images/articel 1-1.jpg"
