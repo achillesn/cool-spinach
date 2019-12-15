@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Common developments #1'
+title: 'Συλλογικές Αναπτύξεις #1'
 subtitle: Σταύρος Σταματίου - Αχιλλέας Νάσιος
 date: 2019-12-03 23:00:00 +0000
 thumb_img_path: "/images/10.jpg"
