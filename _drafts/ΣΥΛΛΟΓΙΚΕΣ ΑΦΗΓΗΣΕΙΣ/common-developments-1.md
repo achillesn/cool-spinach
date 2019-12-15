@@ -1,0 +1,35 @@
+---
+layout: post
+categories: []
+title: 'common developments #1'
+subtitle: ''
+date: 2019-12-01 23:00:00 +0000
+thumb_img_path: ''
+content_img_path: ''
+excerpt: ''
+canonical_url: ''
+
+---
+![](/images/bwok-2.jpg)
+
+![](/images/01_MG_3539-ok.jpg)
+
+![](/images/02.jpg)
+
+![](/images/03_MG_6013.jpeg)
+
+![](/images/04.jpg)
+
+![](/images/05_MG_8150.jpg)
+
+![](/images/06.jpg)
+
+![](/images/07_MG_0910.jpg)
+
+![](/images/08.jpg)
+
+![](/images/09_MG_9288.jpg)
+
+![](/images/10.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=1537524844" target="blank">Stavros Stamatiou</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
