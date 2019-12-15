@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'common developments #1'
 subtitle: 1. Σταύρος Σταματίου - Αχιλλέας Νάσιος
 date: 2019-12-01 23:00:00 +0000
