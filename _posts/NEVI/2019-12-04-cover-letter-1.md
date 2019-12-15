@@ -35,3 +35,5 @@ Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 Σε έπιασα,  
 βγάλε μου το κουδουνάκι.  
 Θα μας ξυπνήσει.
+
+![](/images/bwok-2.jpg)
