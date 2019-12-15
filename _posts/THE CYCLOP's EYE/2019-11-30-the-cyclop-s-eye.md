@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: the cyclop's eye
 subtitle: 'Επαναφέροντας τη ζωή στη ζωή '
 date: 2019-11-30 23:00:00 +0000
