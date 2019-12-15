@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Iconic Hacks
+title: 'Iconic Hack #2'
 subtitle: Photo and Text by Achilles Nasios
 date: 2019-12-07 23:00:00 +0000
 thumb_img_path: "/images/01.1.jpg"
