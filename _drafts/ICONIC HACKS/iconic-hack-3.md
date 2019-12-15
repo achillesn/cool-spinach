@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Iconic Hack #3'
 subtitle: Photo and Text by Achilles Nasios
 date: 2019-12-15 23:00:00 +0000
