@@ -25,4 +25,5 @@ fields:
     required: true
 pages:
 - about.md
+- hocus-contents.md
 - style-guide.md
