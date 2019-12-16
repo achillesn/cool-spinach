@@ -10,6 +10,8 @@ excerpt: ''
 canonical_url: "/images/03_MG_5064.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Πάτησε κάμπους και βουνά, παντού ήταν μαζί.  
 Τη νύχτα, της έλεγε ιστορίες στα σκοτάδια μην τη χάσει.  
   
