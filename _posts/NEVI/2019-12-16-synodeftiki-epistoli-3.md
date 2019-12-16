@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Synodeftiki epistoli #3'
+title: 'Συνοδευτική Επιστολή #3'
 subtitle: Η σκιά
 date: 2019-12-16 23:00:00 +0000
 thumb_img_path: "/images/03_MG_5064.jpg"
