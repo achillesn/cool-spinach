@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: 'Synodeftiki epistoli #3'
-subtitle: ''
+subtitle: Η σκιά
 date: 2019-12-16 23:00:00 +0000
 thumb_img_path: "/images/03_MG_5064.jpg"
 content_img_path: "/images/03_MG_5064.jpg"
@@ -15,9 +15,9 @@ canonical_url: "/images/03_MG_5064.jpg"
 ---
 Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
-Πάτησε κάμπους και βουνά, παντού ήταν μαζί.  
-Τη νύχτα, της έλεγε ιστορίες στα σκοτάδια μην τη χάσει.  
-  
+Πάτησαν κάμπους και βουνά. Παντού ήταν μαζί.  
+Τη νύχτα, της έλεγε ιστορίες στα σκοτάδια, μην τη χάσει.
+
 Μία μέρα που ο ήλιος έλαμπε, την είδε στη λεωφόρο να φεύγει προς την αντίθετη κατεύθυνση.
 
 \-Πώς γίνεται αυτό;
