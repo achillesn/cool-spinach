@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Synodeftiki epistoli #3'
 subtitle: Η σκιά
 date: 2019-12-16 23:00:00 +0000
