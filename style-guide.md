@@ -1,5 +1,5 @@
 ---
-title: Hocus ActUs
+title: Hocus Contents
 subtitle: The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment and
   styles for your content.
@@ -15,7 +15,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is 
 
 ## This is an H2
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Lorem ipsum dolor sit amet, [consectetuer]() adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
 ### This is an H3
 
