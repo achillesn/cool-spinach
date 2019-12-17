@@ -6,7 +6,6 @@ img_path: ''
 menu:
   main:
     weight: 6
-    title: ''
 
 ---
 > #### Το Μάτι του Κύκλωπα
