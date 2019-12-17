@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hocus Contents
+title: Hocus Contentus
 subtitle: ''
 img_path: ''
 
