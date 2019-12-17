@@ -17,3 +17,8 @@ published: false
 \#1.<a href="https://hocusphotus.com/posts/cover-letter-1/" target="blank">Ο Υπνοβάτης</a>  
 \#2.<a href="https://hocusphotus.com/posts/cover-letter-1/" target="blank">Ο Υπνοβάτης</a>  
 \#3. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BD%CE%BF%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%BF%CE%BB%CE%AE/" target="blank">Η Σκιά</a>
+
+### Συλλογικές Αναπτύξεις
+
+#1 <a href="https://hocusphotus.com/posts/common-developments-1/" target="blank">Σταματίου-Νάσιος</a>
+#2 <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B1%CF%80%CF%84%CF%8D%CE%BE%CE%B5%CE%B9%CF%82/">Μακρυγιαννάκης-Νάσιος</a>
