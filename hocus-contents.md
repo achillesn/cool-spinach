@@ -2,7 +2,7 @@
 layout: page
 title: Blogus Contents
 subtitle: Περιεχόμενα
-img_path: "/images/_MG_6023.jpg"
+img_path: "/images/c1_MG_6023.jpg"
 menu:
   main:
     weight: 5
