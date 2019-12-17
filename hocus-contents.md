@@ -29,9 +29,7 @@ menu:
 
 ### Iconic Hacs
 
-<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a>
-<a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a>
-<a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a>
+<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a>
 
 ### Διάφορα
 
