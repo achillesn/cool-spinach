@@ -9,7 +9,7 @@ published: false
 ### Το Μάτι του Κύκλωπα
 
 \#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Επαναφέροντας τη Ζωή στη Ζωή</a>
-\#2. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
+\#2. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
 \#3. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Ακολουθώντας τους προσδιορισμούς</a>
 
 ### Συνοδευτική Επιστολή
@@ -37,4 +37,3 @@ published: false
 <a href="https://hocusphotus.com/posts/2%CF%89-%CE%BA%CE%B1%CE%B9-26%CE%BB-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CF%87%CF%81%CF%8C%CE%BD%CE%BF/" target="blank">2ω και 26λ με τον Χρόνο</a>
 <a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town.movie</a>
 <a href="https://hocusphotus.com/posts/%CF%83%CF%84%CE%B1-%CE%AF%CF%87%CE%BD%CE%B7-%CF%84%CE%B7%CF%82-%CF%86%CE%B1%CE%BD%CF%84%CE%B1%CF%83%CE%AF%CE%B1%CF%82/" target="blank">Στα ίχνη της Φαντασίας</a>
-
