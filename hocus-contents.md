@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogus Contents
-subtitle: Περιεχόμενα blog
+subtitle: ''
 img_path: "/images/c1_MG_6023.jpg"
 menu:
   main:
