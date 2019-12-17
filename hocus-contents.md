@@ -3,6 +3,9 @@ layout: page
 title: Blogus Contents
 subtitle: Περιεχόμενα
 img_path: "/images/_MG_6023.jpg"
+menu:
+  main:
+    weight: 5
 published: false
 
 ---
