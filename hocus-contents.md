@@ -8,7 +8,6 @@ menu:
     weight: 5
 
 ---
-![](/images/bwok-2.jpg)
 
 ### Το Μάτι του Κύκλωπα
 
