@@ -3,7 +3,6 @@ layout: page
 title: Hocus Contents
 subtitle: ''
 img_path: ''
-published: false
 
 ---
 > #### Το Μάτι του Κύκλωπα
