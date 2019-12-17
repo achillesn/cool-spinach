@@ -31,3 +31,5 @@ published: false
 <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a>
 
 ### Διάφορα
+
+<a href="https://hocusphotus.com/posts/time/" target="blank">Time</a>
