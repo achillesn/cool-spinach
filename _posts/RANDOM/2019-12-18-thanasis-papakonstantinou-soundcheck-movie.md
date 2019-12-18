@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: Thanasis Papakonstantinou sound-check.movie
+title: Thanasis Papakonstantinou.sound-check.movie
 subtitle: Από τη συναυλία του Θανάση στο Πέτα της Άρτας τον Ιούλιο 2010
 date: 2019-12-18 23:00:00 +0000
 thumb_img_path: "/images/Thanasis.jpg"
