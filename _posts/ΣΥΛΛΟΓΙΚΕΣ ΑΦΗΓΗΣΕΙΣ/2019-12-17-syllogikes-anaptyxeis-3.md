@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Virtual Connection #3'
-subtitle: Efthymis Ntelis - Achilles Nasios
+subtitle: NaNte
 date: 2019-12-17 23:00:00 +0000
 thumb_img_path: "/images/efth10.jpg"
 content_img_path: ''
