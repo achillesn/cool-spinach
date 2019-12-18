@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Συλλογικές Αναπτύξεις #3'
+title: 'Virtual Connection #3'
 subtitle: Ευθύμης Ντελής - Αχιλλέας Νάσιος
 date: 2019-12-17 23:00:00 +0000
 thumb_img_path: "/images/efth10.jpg"
