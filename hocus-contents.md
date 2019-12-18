@@ -5,7 +5,7 @@ subtitle: ''
 img_path: "/images/05_MG_3417.jpg"
 menu:
   main:
-    weight: 5
+    weight: 4
 
 ---
 ![](/images/white-strap.jpg)
