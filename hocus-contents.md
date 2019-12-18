@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogus Contents
+title: Blogus Contentus
 subtitle: ''
 img_path: "/images/05_MG_3417.jpg"
 menu:
