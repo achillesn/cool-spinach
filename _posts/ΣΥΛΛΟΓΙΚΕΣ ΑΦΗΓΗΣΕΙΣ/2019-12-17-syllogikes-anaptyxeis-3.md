@@ -37,4 +37,4 @@ canonical_url: "/images/efth10.jpg"
 
 ![](/images/efth10.jpg)
 
-Photo series: © Photo series: © <a href="https://www.facebook.com/profile.php?id=100006985305065" target="blank">Efthymis Ntelis</a> and  <a href="[https://anikon.org/](https://anikon.org/"  target="blank">Achilles Nasios</a>
+Photo series: © <a href="https://www.facebook.com/profile.php?id=100006985305065" target="blank">Efthymis Ntelis</a> and  <a href="[https://anikon.org/](https://anikon.org/"  target="blank">Achilles Nasios</a>
