@@ -42,6 +42,8 @@ Image + Text (EN)
 
 ### Διάφορα
 
+Various...
+
 <a href="https://hocusphotus.com/posts/time/" target="blank">Time</a>  
 <a href="https://hocusphotus.com/posts/%CE%B7-%CF%80%CE%B5%CE%BD%CF%84%CE%AC%CE%BC%CE%BF%CF%81%CF%86%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%84%CE%BF-%CF%84%CE%AD%CF%81%CE%B1%CF%82/" target="blank">Η Πεντάμορφη και το Τέρας</a>  
 <a href="https://hocusphotus.com/posts/2%CF%89-%CE%BA%CE%B1%CE%B9-26%CE%BB-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CF%87%CF%81%CF%8C%CE%BD%CE%BF/" target="blank">2ω και 26λ με τον Χρόνο</a>  
