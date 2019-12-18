@@ -10,7 +10,7 @@ menu:
 ---
 ### Το Μάτι του Κύκλωπα
 
-\#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">**Επαναφέροντας τη Ζωή στη Ζωή**</a>  
+\#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Επαναφέροντας τη Ζωή στη Ζωή</a>  
 \#2. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
 \#3. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-3/" target="blank">Ακολουθώντας τους προσδιορισμούς</a>
 
@@ -22,8 +22,9 @@ menu:
 
 ### Virtual Connections
 
-\#1. <a href="https://hocusphotus.com/posts/common-developments-1/" target="blank">**Stamatiou - Nasios**</a>  
-\#2. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B1%CF%80%CF%84%CF%8D%CE%BE%CE%B5%CE%B9%CF%82/">**Makrygiannakis - Nasios**</a> #3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">**Ntelis - Nasios**</a>
+\#1. <a href="https://hocusphotus.com/posts/common-developments-1/" target="blank">Stamatiou - Nasios</a>  
+\#2. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B1%CF%80%CF%84%CF%8D%CE%BE%CE%B5%CE%B9%CF%82/">Makrygiannakis - Nasios</a>  
+\#3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">Ntelis - Nasios</a>
 
 ### Iconic Hacs
 
