@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogus Contentus
-subtitle: Γρήγορη αναζήτηση προηγούμενων δημοσιεύσεων
+subtitle: ''
 img_path: "/images/05_MG_3417.jpg"
 menu:
   main:
