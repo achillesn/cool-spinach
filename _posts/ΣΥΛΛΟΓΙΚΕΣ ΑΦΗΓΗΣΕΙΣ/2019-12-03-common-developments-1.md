@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Virtual Connection #1'
-subtitle: Σταύρος Σταματίου - Αχιλλέας Νάσιος
+subtitle: Stavros Stamatiou - Achilles Nasios
 date: 2019-12-03 23:00:00 +0000
 thumb_img_path: "/images/10.jpg"
 content_img_path: ''
