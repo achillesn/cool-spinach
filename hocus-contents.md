@@ -8,6 +8,8 @@ menu:
     weight: 5
 
 ---
+![](/images/white-strap.jpg)
+
 ### Το Μάτι του Κύκλωπα
 
 \#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Επαναφέροντας τη Ζωή στη Ζωή</a>  
