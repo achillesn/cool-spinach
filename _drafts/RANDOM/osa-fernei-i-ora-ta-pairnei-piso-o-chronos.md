@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: osa fernei i ora ta pairnei piso o chronos
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2019-12-20 23:00:00 +0000
