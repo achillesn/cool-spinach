@@ -18,7 +18,7 @@ canonical_url: "/images/Thanasis.jpg"
 
 <iframe src="https://player.vimeo.com/video/14535360" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Music by © <a href="https://www.facebook.com/ThanasisPapakonstantinou/ " target="blank">Thanasis Papakonstantinou </a> - Film by © <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a>
+Music by © <a href="https://www.facebook.com/ThanasisPapakonstantinou/ " target="blank">Thanasis Papakonstantinou </a> - Film and text by © <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a>
 
 Ήταν θυμάμαι μια καλοκαιρινή μέρα επιφορτισμένη με την έλειψη βενζίνης, λόγω της απεργίας των βενζινάδικων. Το ταξίδι μέχρι το Πέτα, σημαντικά επιβαρυμένο με την αγωνία του αν κάποιος θα τα καταφέρει να φτάσει δίχως να μείνει στο δρόμο λόγω έλλειψης καυσίμων. Ένα βενζινάδικο κάπου στο ενδιάμεσο έκανε χρυσές δουλειές. Ευτυχώς, βρήκαμε βενζίνη.
 
