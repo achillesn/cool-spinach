@@ -13,3 +13,7 @@ canonical_url: ''
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HDSKaYv5-XQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Film and text by © <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a>
+
+2004. Απρόσμενη νίκη της Εθνικής Ελλάδος στο ποδόσφαιρο. Ποιός δε χάρηκε τότε; Προσωπικά, μόλις άκουσα τους πανηγυρισμούς, πήρα κι εγώ τους δρόμους, που ήτανε κλειστοί. Κατέβηκα στο κέντρο με τα πόδια.
+
+Εκείνη την εποχή
