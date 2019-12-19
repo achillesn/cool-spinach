@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Mad or Bad
-subtitle: ''
+subtitle: Η πρώτη φορά...
 date: 2019-12-19 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
