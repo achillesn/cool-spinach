@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: osa fernei i ora ta pairnei piso o chronos
+title: Όσα φέρνει η ώρα τα παίρνει πίσω ο Χρόνος
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2019-12-20 23:00:00 +0000
 thumb_img_path: "/images/img089.jpg"
