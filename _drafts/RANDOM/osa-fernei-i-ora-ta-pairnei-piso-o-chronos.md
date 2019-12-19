@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: osa fernei i ora ta pairnei piso o chronos
-subtitle: ''
+subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2019-12-20 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
