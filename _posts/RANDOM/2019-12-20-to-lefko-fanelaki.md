@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Λευκό Φανελάκι
 subtitle: ''
 date: 2019-12-20 23:00:00 +0000
