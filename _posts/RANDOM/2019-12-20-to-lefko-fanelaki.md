@@ -20,7 +20,7 @@ canonical_url: "/images/rita.jpg"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D7T6Jsmsw90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Song and text: <a href="https://www.facebook.com/rita.antonopoulou/" target="blank">Rita Antonopoulou </a> - Photography-Direction: <a href="https://www.facebook.com/akis.christou.7" target="blank">Akis Christou</a> - 
-Production: <a href="https://www.facebook.com/1minute.project/" target="blank">Hocus Photus</a>
+Co-Production: <a href="https://www.facebook.com/1minute.project/" target="blank">Hocus Photus</a>
 
 Όταν ένα τραγούδι οπτικοποιείται υπάρχει πάντα κίνδυνος. Η εικόνα μπορεί είτε να το "καπελώσει", ή να πει μια ιστορία συγκεκριμένη η οποία να σου αφαιρεί από τη φαντασία σου και το τι θα σήμαινε για σένα η ιστορία του τραγουδιού. Υπάρχει φυσικά κι ο ευτυχής δρόμος της συμπλευσης όπου η εικόνα γεννιέται από την ιστορία με ουσία και αλήθεια και χαρά. Κάπως έτσι ευτύχησε το 'Λευκό μου φανελάκι' πριν λίγα χρόνια. Ένα τραγούδι πολύ "δικό μου", που από την πρώτη στιγμή που το άκουσα με πήγε πολύ πίσω στα παιδικά μου χρόνια. Αν δεν έρθουμε σε επαφή με το παιδί μέσα μας, δε θα είμαστε ποτέ καλά και σίγουρα δε μπορούμε να εκφραστουμε με την ψυχή μας όταν τραγουδάμε κι αυτό προσπαθώ να περάσω στους μαθητές μου.
 
