@@ -1,13 +1,13 @@
 ---
 layout: post
 categories: []
-title: To lefko fanelaki
+title: Λευκό Φανελάκι
 subtitle: ''
 date: 2019-12-20 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/rita.jpg"
+content_img_path: "/images/rita.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/rita.jpg"
 
 ---
 
