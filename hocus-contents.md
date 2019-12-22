@@ -38,7 +38,8 @@ _Visual Poetry_
 
 _Image + Text (EN)_
 
-<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a>
+<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a><a href="https://hocusphotus.com/posts/iconic-hack-4/" target="blank">#4</a>
+
 
 ### Various
 
@@ -51,3 +52,4 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>  
 <a href="https://hocusphotus.com/posts/osa-fernei-i-ora-ta-pairnei-piso-o-chronos/" target="blank">Όσα φέρνει η Ώρα τα παίρνει πίσω ο Χρόνος</a>
 <a href="https://hocusphotus.com/posts/to-lefko-fanelaki/" target="blank">Λευκό φανελάκι</a>
+
