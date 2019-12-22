@@ -40,7 +40,6 @@ _Image + Text (EN)_
 
 <a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a><a href="https://hocusphotus.com/posts/iconic-hack-4/" target="blank">#4</a>
 
-
 ### Various
 
 <a href="https://hocusphotus.com/posts/time/" target="blank">Time.**movie**</a>  
@@ -50,6 +49,4 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/%CF%83%CF%84%CE%B1-%CE%AF%CF%87%CE%BD%CE%B7-%CF%84%CE%B7%CF%82-%CF%86%CE%B1%CE%BD%CF%84%CE%B1%CF%83%CE%AF%CE%B1%CF%82/" target="blank">Στα ίχνη της Φαντασίας.**text.gr**</a>  
 <a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check.**movie**</a>  
 <a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>  
-<a href="https://hocusphotus.com/posts/osa-fernei-i-ora-ta-pairnei-piso-o-chronos/" target="blank">Όσα φέρνει η Ώρα τα παίρνει πίσω ο Χρόνος</a>
-<a href="https://hocusphotus.com/posts/to-lefko-fanelaki/" target="blank">Λευκό φανελάκι</a>
-
+<a href="https://hocusphotus.com/posts/osa-fernei-i-ora-ta-pairnei-piso-o-chronos/" target="blank">Όσα φέρνει η Ώρα τα παίρνει πίσω ο Χρόνος.**text**</a> <a href="https://hocusphotus.com/posts/to-lefko-fanelaki/" target="blank">Λευκό φανελάκι.**music**</a>
