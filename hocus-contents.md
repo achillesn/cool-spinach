@@ -48,4 +48,5 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town.**movie**</a>  
 <a href="https://hocusphotus.com/posts/%CF%83%CF%84%CE%B1-%CE%AF%CF%87%CE%BD%CE%B7-%CF%84%CE%B7%CF%82-%CF%86%CE%B1%CE%BD%CF%84%CE%B1%CF%83%CE%AF%CE%B1%CF%82/" target="blank">Στα ίχνη της Φαντασίας.**text.gr**</a>  
 <a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check.**movie**</a>  
-<a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>
+<a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>  
+<a href="https://hocusphotus.com/posts/osa-fernei-i-ora-ta-pairnei-piso-o-chronos/" target="blank">Όσα φέρνει η Ώρα τα παίρνει πίσω ο Χρόνος</a>
