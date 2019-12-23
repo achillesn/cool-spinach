@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: 'To mati tou kyklopa #4'
-subtitle: ''
+subtitle: Υποθετικές διαπιστώσεις
 date: 2019-12-22 23:00:00 +0000
 thumb_img_path: "/images/02_MG_8132.jpg"
 content_img_path: "/images/02_MG_8132.jpg"
