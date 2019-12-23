@@ -14,8 +14,7 @@ excerpt: Δεν είχα ιδέα ούτε ο ίδιος τι εννοούσα �
 canonical_url: "/images/02_MG_8132.jpg"
 
 ---
-
-Photo and text by Achilles Nasios
+Photo and text by <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
 Το πικραμένο του βλέμμα, καθώς γύρισε και με κοίταξε, θαρρώ δε θα το ξεχάσω ποτέ. Η παγωνιά του που επηρέασε άμεσα την καρδιά μου, με προετοίμασε για την αλήθεια που δε λέγεται συχνά. Για εκείνη την αλήθεια που τρομάζει.
 
