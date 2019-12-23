@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική Επιστολή #4'
 subtitle: Ο Άγγελος
 date: 2019-12-23 23:00:00 +0000
