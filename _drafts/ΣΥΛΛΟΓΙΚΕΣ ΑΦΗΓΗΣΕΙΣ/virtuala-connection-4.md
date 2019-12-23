@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtuala Connection #4'
 subtitle: BiNa
 date: 2019-12-24 23:00:00 +0000
