@@ -33,3 +33,5 @@ canonical_url: "/images/01.BIR.jpg"
 ![](/images/09.BIR.jpg)
 
 ![](/images/10.BIR_MG_6409PAINT.jpg)
+
+Photo series: © <a href="https://www.facebook.com/tasos.biris.108" target="blank">Tasos Biris</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
