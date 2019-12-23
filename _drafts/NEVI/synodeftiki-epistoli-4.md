@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'Synodeftiki epistoli #4'
+title: 'Συνοδευτική Επιστολή #4'
 subtitle: Ο Άγγελος
 date: 2019-12-23 23:00:00 +0000
 thumb_img_path: "/images/01_MG_5875.jpg"
