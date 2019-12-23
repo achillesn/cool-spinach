@@ -5,14 +5,14 @@ categories:
 title: 'Το Μάτι του Κύκλωπα #4'
 subtitle: Υποθετικές διαπιστώσεις
 date: 2019-12-22 23:00:00 +0000
-thumb_img_path: "/images/02_MG_8132.jpg"
-content_img_path: "/images/02_MG_8132.jpg"
+thumb_img_path: "/images/03_MG_8133.jpg"
+content_img_path: "/images/03_MG_8133.jpg"
 excerpt: Δεν είχα ιδέα ούτε ο ίδιος τι εννοούσα από τις εικόνες που κοιτούσα. Μόλις
   είχα αρχίσει να καταλαβαίνω, ότι, μάλλον η ανάγνωση είναι αυτή που τελικά καθορίζει
   το νόημα των εικόνων και όχι η ίδια τους η δημιουργία. Με άλλα λόγια, κανένας δεν
   ενδιαφέρονταν γι αυτό που ήθελα εγώ. Όλοι ενδιαφέρονταν για εκείνο που ήθελαν οι
   ίδιοι. Για εκείνο που είχε τη δύναμη ν’ αγγίζει.
-canonical_url: "/images/02_MG_8132.jpg"
+canonical_url: "/images/03_MG_8133.jpg"
 
 ---
 Photo and text by <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
