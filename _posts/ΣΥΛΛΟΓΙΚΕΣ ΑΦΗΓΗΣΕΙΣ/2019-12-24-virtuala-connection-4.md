@@ -6,7 +6,7 @@ title: 'Virtual Connection #4'
 subtitle: BiNa
 date: 2019-12-24 23:00:00 +0000
 thumb_img_path: "/images/01.BIR.jpg"
-content_img_path: "/images/01.BIR.jpg"
+content_img_path: "/images/bwok-2.jpg"
 excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η καλύτερη απάντηση στα ερωτήματα που
   θέτει μια εικόνα, είναι μια άλλη εικόνα. Η αγάπη δεν είναι ζήτημα ατομικό, αλλά
   κοινό. Είναι σπουδαίο να μπορεί να μοιραστεί. Εδώ παρουσιάζονται συνδέσεις φίλων,
