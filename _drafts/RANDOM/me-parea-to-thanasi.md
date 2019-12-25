@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Me parea to Thanasi
+title: Με παρέα το Θανάση.movie
 subtitle: 'Memory #15b - sound check'
 date: 2019-12-25 23:00:00 +0000
 thumb_img_path: "/images/than-2.jpg"
