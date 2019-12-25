@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Με παρέα το Θανάση.movie
-subtitle: 'Memory #15b - sound check'
+subtitle: 'Πέτα - Άρτα - Ιούλιος 2010 '
 date: 2019-12-25 23:00:00 +0000
 thumb_img_path: "/images/than-2.jpg"
 content_img_path: "/images/than-2.jpg"
