@@ -11,3 +11,5 @@ canonical_url: "/images/than-2.jpg"
 
 ---
 <iframe src="https://player.vimeo.com/video/14932879" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Music by © <a href="https://www.facebook.com/ThanasisPapakonstantinou/ " target="blank">Thanasis Papakonstantinou </a> - Film and text by © <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a>
