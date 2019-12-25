@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Me parea to Thanasi
 subtitle: 'Memory #15b - sound check'
 date: 2019-12-25 23:00:00 +0000
