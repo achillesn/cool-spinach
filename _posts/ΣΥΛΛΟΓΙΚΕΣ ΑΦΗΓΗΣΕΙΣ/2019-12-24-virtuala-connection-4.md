@@ -6,7 +6,7 @@ title: 'Virtual Connection #4'
 subtitle: BiNa
 date: 2019-12-24 23:00:00 +0000
 thumb_img_path: "/images/01.BIR.jpg"
-content_img_path: "/images/bwok-2.jpg"
+content_img_path: ''
 excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η καλύτερη απάντηση στα ερωτήματα που
   θέτει μια εικόνα, είναι μια άλλη εικόνα. Η αγάπη δεν είναι ζήτημα ατομικό, αλλά
   κοινό. Είναι σπουδαίο να μπορεί να μοιραστεί. Εδώ παρουσιάζονται συνδέσεις φίλων,
@@ -15,6 +15,8 @@ excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η κ�
 canonical_url: "/images/01.BIR.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 ![](/images/01.BIR.jpg)
 
 ![](/images/02.BIR_MG_0907.jpg)
@@ -35,4 +37,4 @@ canonical_url: "/images/01.BIR.jpg"
 
 ![](/images/10.BIR_MG_6409PAINT.jpg)
 
-Photo series: © <a href="https://www.facebook.com/tasos.biris.108" target="blank">Tasos Biris</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
+Photo series: © <a href="https://www.facebook.com/tasos.biris.108" target="blank">Tasos Biris</a> and  <a href="\[https://anikon.org/"  target="blank">Achilles Nasios</a>
