@@ -7,7 +7,9 @@ subtitle: 'Memory #15b - sound check'
 date: 2019-12-25 23:00:00 +0000
 thumb_img_path: "/images/than-2.jpg"
 content_img_path: "/images/than-2.jpg"
-excerpt: ''
+excerpt: Το πρώτο τραγούδι που ακούστηκε ολοκληρωμένο ήταν και το τέλος του μαραθώνιου
+  sound check και ταυτόχρονα η αρχή της συναυλίας, θυμίζοντάς μου το γιαπωνέζικο θέατρο,
+  όπου η παράσταση αρχίζει καθώς οι ηθοποιοί βγαίνουν στη σκηνή κι αρχίζουν να μακιγιάρονται.
 canonical_url: "/images/than-2.jpg"
 
 ---
