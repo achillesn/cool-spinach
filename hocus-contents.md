@@ -32,7 +32,8 @@ _Visual Poetry_
 
 \#1. <a href="https://hocusphotus.com/posts/common-developments-1/" target="blank">Stamatiou - Nasios</a>  
 \#2. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B1%CF%80%CF%84%CF%8D%CE%BE%CE%B5%CE%B9%CF%82/">Makrygiannakis - Nasios</a>  
-\#3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">Ntelis - Nasios</a>
+\#3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">Ntelis - Nasios</a>  
+\#4. <a href="https://hocusphotus.com/posts/virtuala-connection-4/">Biris - Nasios</a>
 
 ### Iconic Hacs
 
