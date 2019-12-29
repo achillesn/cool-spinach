@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: " O apoxeraitismos tou Thanou"
-subtitle: ''
+title: Ο Αποχαιρετισμός του Θάνου
+subtitle: 'Θέατρο Βράχων Βύρωνα. Ιούνιος 2018 '
 date: 2019-12-28 23:00:00 +0000
 thumb_img_path: "/images/THANOS-ΑΠΟΧΑΙΡΕΤΙΣΜΟΣ.jpg"
 content_img_path: "/images/THANOS-ΑΠΟΧΑΙΡΕΤΙΣΜΟΣ.jpg"
