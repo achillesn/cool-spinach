@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Το μάτι του Κύκλωπα #5'
-subtitle: ''
+subtitle: Για μια ποιότητα της Σημασίας
 date: 2019-12-29 23:00:00 +0000
 thumb_img_path: "/images/05_MG_9931.jpg"
 content_img_path: "/images/05_MG_9931.jpg"
