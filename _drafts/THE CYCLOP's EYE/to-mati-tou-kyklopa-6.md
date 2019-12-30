@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Το μάτι του Κύκλωπα #5'
 subtitle: ''
 date: 2019-12-29 23:00:00 +0000
