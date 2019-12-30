@@ -4,10 +4,13 @@ categories: []
 title: 'Το μάτι του Κύκλωπα #5'
 subtitle: ''
 date: 2019-12-29 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/05_MG_9931.jpg"
+content_img_path: "/images/05_MG_9931.jpg"
+excerpt: Το παγωμένο χρονο-φώς μιλάει στην αίσθησή μας, ενώ ταυτόχρονα μας παραδίδεται
+  και σαν ολοκληρωμένη πρόθεση του δημιουργού του κόσμου που απεικονίζεται. Για κάποιο
+  λόγο έχει καμωθεί. Μάλλον θα ήταν αδύνατο να δούμε αντικειμενικά μιαν εικόνα, αν
+  δεν δώσουμε σημασία σ’ αυτή την πρόθεση.
+canonical_url: "/images/05_MG_9931.jpg"
 
 ---
 Photo and text by <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
