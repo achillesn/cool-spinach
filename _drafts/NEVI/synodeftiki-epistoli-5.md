@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: synodeftiki epistoli 5
 subtitle: ''
 date: 2019-12-30 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/kaninia05_MG_0767.jpg"
+content_img_path: "/images/kaninia05_MG_0767.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/kaninia05_MG_0767.jpg"
 
 ---
 Κάθισα κάτω από τη μηλιά,   
