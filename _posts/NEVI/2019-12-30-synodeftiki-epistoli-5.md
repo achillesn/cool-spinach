@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: synodeftiki epistoli 5
-subtitle: ''
+subtitle: Ο Κότσυφας
 date: 2019-12-30 23:00:00 +0000
 thumb_img_path: "/images/kaninia05_MG_0767.jpg"
 content_img_path: "/images/kaninia05_MG_0767.jpg"
