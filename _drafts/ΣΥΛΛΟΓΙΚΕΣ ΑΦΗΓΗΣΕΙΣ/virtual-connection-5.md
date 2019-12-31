@@ -10,6 +10,7 @@ excerpt: ''
 canonical_url: ''
 
 ---
+
 ![](/images/01. MAKIS.jpg)
 
 ![](/images/02.MAKIS_MG_5122-copy.jpg)
@@ -27,5 +28,7 @@ canonical_url: ''
 ![](/images/08.MAKIS_MG_0014.jpg)
 
 ![](/images/09.MAKIS.jpg)
+
+![](/images/10.MAKIS.jpg)
 
 Photo series: © <a href="https://https://www.facebook.com/makis.makris.54" target="blank">Makis Makris</a> and  <a href="\[https://anikon.org/"  target="blank">Achilles Nasios</a>
