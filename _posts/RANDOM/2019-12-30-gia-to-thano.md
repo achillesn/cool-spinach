@@ -17,7 +17,7 @@ canonical_url: "/images/Mikrokosmos.jpg"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tghs7nufdnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Music by Thanos Mikroutsikos, song by Rita Antonopoulou
+Music by <a href="https://www.facebook.com/mikroutsikos.thanos/" target="blank">Thanos Mikroutsikos </a> , song by <a href="https://www.facebook.com/rita.antonopoulou/" target="blank">Rita Antonopoulou </a>
 
 "...Για μένα το λοιπόν, το πιο εκπληκτικό,  
 πιο επιβλητικό, πιο μυστηριακό και πιο μεγάλο,
