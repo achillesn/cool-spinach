@@ -14,7 +14,7 @@ excerpt: Η συγκεκριμένη Συνοδευτική Επιστολή π�
 canonical_url: "/images/kaninia05_MG_0767.jpg"
 
 ---
-![](/images/bwok-2.jpg)
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
 Κάθισα κάτω απ' τη μηλιά,  
 την αγριομηλίτσα  
@@ -31,7 +31,7 @@ canonical_url: "/images/kaninia05_MG_0767.jpg"
 Θέλεις να έχεις τα φτερά  
 τη μοίρα σου ν’αλλάζεις;
 
-\- Θέλω το χιόνι να γενεί   
+\- Θέλω το χιόνι να γενεί  
 ζεστό σαν μια κουβέρτα  
 κι ο ήλιος τότε πάνω μας  
 να κάνει σούρτα φέρτα.
