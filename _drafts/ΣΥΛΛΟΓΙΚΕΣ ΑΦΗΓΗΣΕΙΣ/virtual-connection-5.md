@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #5'
 subtitle: MaNa
 date: 2019-12-31 23:00:00 +0000
