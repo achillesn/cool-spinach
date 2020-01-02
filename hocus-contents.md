@@ -54,6 +54,7 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town.**movie**</a>
 <a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check.**movie**</a>
 <a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>
+<a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>
   
 
 **_Texts.gr_**
@@ -77,6 +78,6 @@ _Image + Text (EN)_
   
   
   
-<a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>
+
 <a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου.**music**</a>
 <a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο.**music**</a>
