@@ -7,7 +7,7 @@ subtitle: Antimatter
 date: 2020-01-01 23:00:00 +0000
 thumb_img_path: "/images/antimatter.jpg"
 content_img_path: "/images/antimatter.jpg"
-excerpt: Αυτοπορτρέτο καμωμένο επάνω στο ποίημα "Αντιύλη" του Russel Edson
+excerpt: Αυτοπορτρέτο βασισμένο στο ποίημα "Αντιύλη" του Russel Edson
 canonical_url: "/images/antimatter.jpg"
 
 ---
