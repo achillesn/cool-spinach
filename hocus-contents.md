@@ -17,7 +17,7 @@ _Image + text (GR)_
 \#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Επαναφέροντας τη Ζωή στη Ζωή</a>  
 \#2. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
 \#3. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-3/" target="blank">Ακολουθώντας τους προσδιορισμούς</a>  
-\#4. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-4/" target="blank">Υποθετικές Διαπιστώσεις</a>
+\#4. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-4/" target="blank">Υποθετικές Διαπιστώσεις</a>  
 \#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-6/" target="blank">Για μια Ποιότητα της Σημασίας</a>
 
 ### Συνοδευτική Επιστολή
@@ -27,7 +27,7 @@ _Image + poetry (GR)_
 \#1. <a href="https://hocusphotus.com/posts/cover-letter-1/" target="blank">Ο Υπνοβάτης</a>  
 \#2. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BD%CE%BF%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%BF%CE%BB%CE%AE/" target="blank">Το Παγώνι</a>  
 \#3. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-3/" target="blank">Η Σκιά</a>  
-\#4. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-4/" target="blank">Ο Άγγελος</a>
+\#4. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-4/" target="blank">Ο Άγγελος</a>  
 \#5. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-5/" target="blank">Ο Κότσυφας</a>
 
 ### Virtual Connections
@@ -57,8 +57,6 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>
 <a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη.**movie**</a>
 
-  
-
 **_Texts.gr_**
 
 <a href="https://hocusphotus.com/posts/%CE%B7-%CF%80%CE%B5%CE%BD%CF%84%CE%AC%CE%BC%CE%BF%CF%81%CF%86%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%84%CE%BF-%CF%84%CE%AD%CF%81%CE%B1%CF%82/" target="blank">Η Πεντάμορφη και το Τέρας.**text.gr**</a>
@@ -68,7 +66,7 @@ _Image + Text (EN)_
 
 **_Music_**
 
- <a href="https://hocusphotus.com/posts/2%CF%89-%CE%BA%CE%B1%CE%B9-26%CE%BB-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CF%87%CF%81%CF%8C%CE%BD%CE%BF/" target="blank">2ω και 26λ με τον Χρόνο.music</a>
+<a href="https://hocusphotus.com/posts/2%CF%89-%CE%BA%CE%B1%CE%B9-26%CE%BB-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CF%87%CF%81%CF%8C%CE%BD%CE%BF/" target="blank">2ω και 26λ με τον Χρόνο.music</a>
 <a href="https://hocusphotus.com/posts/to-lefko-fanelaki/" target="blank">Λευκό φανελάκι.**music**</a>  
 <a href="https://hocusphotus.com/posts/me-parea-to-thanasi/" target="blank">Με παρέα το Θανάση.**music**</a>
 <a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου.**music**</a>
