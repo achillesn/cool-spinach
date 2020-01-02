@@ -29,4 +29,4 @@ Lovers cry because they are a day younger,
 and soon childhood robs them of their pleasure.
 
 In such a world there is much sadness which, of course,  
-is joy.
+is Joy.
