@@ -48,8 +48,8 @@ _Image + Text (EN)_
 
 ### Various
 
-**_  
-Movies_**
+  
+**_Movies_**
 
 <a href="https://hocusphotus.com/posts/time/" target="blank">Time</a>  
 <a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town</a>  
