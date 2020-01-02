@@ -51,11 +51,11 @@ _Image + Text (EN)_
 **_Movies_**
 
 <a href="https://hocusphotus.com/posts/time/" target="blank">Time</a>  
-<a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town.**movie**</a>  
-<a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check.**movie**</a>  
-<a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>  
-<a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>  
-<a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη.**movie**</a>
+<a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town</a>  
+<a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check</a>  
+<a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?</a>  
+<a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance</a>  
+<a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη</a>
 
 **_Texts.gr_**
 
