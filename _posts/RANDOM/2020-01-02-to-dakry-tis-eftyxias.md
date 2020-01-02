@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Το δάκρυ της ευτυχίας
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2020-01-02 23:00:00 +0000
