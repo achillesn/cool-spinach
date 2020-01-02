@@ -57,3 +57,5 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/me-parea-to-thanasi/" target="blank">Με παρέα το Θανάση.**music**</a>  
 <a href="https://hocusphotus.com/posts/%CE%BC%CE%BD%CE%AE%CE%BC%CE%B5%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7%CE%BD-%CE%B1%CE%BD%CE%B1%CE%B3%CE%B1%CE%BA%CE%B1%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CF%84%CE%BF%CF%85-%CE%AD%CF%81%CF%89%CF%84%CE%B1/" target="blank">Μνήμες από την αναγκαιότητα του Έρωτα.**text**</a>  
 <a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>
+<a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου.**music**</a>
+
