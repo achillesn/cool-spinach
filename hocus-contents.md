@@ -53,8 +53,8 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/time/" target="blank">Time</a>  
 <a href="https://hocusphotus.com/posts/reversed-town/" target="blank">Järna town.**movie**</a>  
 <a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check.**movie**</a>  
-<a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>
-<a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>
+<a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?.**movie**</a>  
+<a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance.**movie**</a>  
 <a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη.**movie**</a>
 
 **_Texts.gr_**
