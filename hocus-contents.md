@@ -69,6 +69,8 @@ _Image + Text (EN)_
  <a href="https://hocusphotus.com/posts/2%CF%89-%CE%BA%CE%B1%CE%B9-26%CE%BB-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CF%87%CF%81%CF%8C%CE%BD%CE%BF/" target="blank">2ω και 26λ με τον Χρόνο.music</a>
 <a href="https://hocusphotus.com/posts/to-lefko-fanelaki/" target="blank">Λευκό φανελάκι.**music**</a>  
 <a href="https://hocusphotus.com/posts/me-parea-to-thanasi/" target="blank">Με παρέα το Θανάση.**music**</a>
+<a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου.**music**</a>
+<a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο.**music**</a>
   
   
  
@@ -79,5 +81,3 @@ _Image + Text (EN)_
   
   
 
-<a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου.**music**</a>
-<a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο.**music**</a>
