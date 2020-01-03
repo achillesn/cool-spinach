@@ -4,7 +4,7 @@ categories:
 - News
 title: Το δάκρυ της ευτυχίας
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
-date: 2020-01-02 23:00:00 +0000
+date: 2020-01-01 23:00:00 +0000
 thumb_img_path: "/images/dakry eftyxias.jpg"
 content_img_path: "/images/dakry eftyxias.jpg"
 excerpt: Το δάκρυ της ευτυχίας, είναι μάλλον ο μεγαλύτερος θησαυρός που θα μπορούσε
