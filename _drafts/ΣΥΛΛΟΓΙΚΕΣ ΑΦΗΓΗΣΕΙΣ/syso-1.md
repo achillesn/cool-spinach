@@ -11,7 +11,8 @@ excerpt: ''
 canonical_url: "/images/syso1crop.jpg"
 
 ---
+Text: <a href="https://www.facebook.com/rita.antonopoulou/" target="blank">Rita Antonopoulou </a> - Photography: <a href="https://www.facebook.com/akis.christou.7" target="blank">Akis Christou</a>
 
-Η απόλυτη απεικόνιση του πώς ο αληθινός καλλιτέχνης πάνω στη σκηνή, καταθέτει την ψυχή του... φεύγει και ταυτόχρονα υπάρχει με όλο του το είναι. 
+Η απόλυτη απεικόνιση του πώς ο αληθινός καλλιτέχνης πάνω στη σκηνή, καταθέτει την ψυχή του... φεύγει και ταυτόχρονα υπάρχει με όλο του το είναι.
 
 Ο Θάνος στους 7 νάνους. Για πάντα εκεί στο πιάνο του, με τη λαχτάρα μικρού παιδιού.
