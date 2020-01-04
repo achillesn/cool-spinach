@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: 'Iconic Hack #6'
-subtitle: ''
+subtitle: Photo and Text by Achilles Nasios
 date: 2020-01-03 23:00:00 +0000
 thumb_img_path: "/images/01.1-1.jpg"
 content_img_path: "/images/01.1-1.jpg"
