@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'to mati tou kyklopa #6'
 subtitle: 'Δημιουργώντας ένα κόσμο από τον κόσμο '
 date: 2020-01-05 23:00:00 +0000
