@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Iconic Hack #6'
 subtitle: Photo and Text by Achilles Nasios
-date: 2020-01-03 23:00:00 +0000
+date: 2020-01-04 23:00:00 +0000
 thumb_img_path: "/images/01.1-1.jpg"
 content_img_path: "/images/01.1-1.jpg"
 excerpt: Listen to presences inside poems. Let them take you where they will. Follow
