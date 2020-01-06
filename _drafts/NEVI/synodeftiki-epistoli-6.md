@@ -14,6 +14,8 @@ excerpt: 'Η Συνοδευτική Επιστολή προσδοκά ν'' αν�
 canonical_url: "/images/07_MG_7339.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Bγάζω τα δάχτυλα μου, να μπορέσω να σε αγγίξω.  
 Μετά με φωνάζουν από Κάτω.
 
