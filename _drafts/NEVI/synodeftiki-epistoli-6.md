@@ -1,12 +1,16 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'synodeftiki epistoli #6'
 subtitle: ''
 date: 2020-01-05 23:00:00 +0000
 thumb_img_path: "/images/07_MG_7339.jpg"
 content_img_path: "/images/07_MG_7339.jpg"
-excerpt: ''
+excerpt: 'Η Συνοδευτική Επιστολή προσδοκά ν'' ανακαλύψει τις προεκτάσεις της εικόνας
+  μέσα στα βάθη του υποσυνειδήτου. Λόγος που προτείνεται σαν ταπεινό απαύγασμα του
+  βιώματος του θεατή που καταφέρνει ν’ αφηθεί στη μαγεία της εικόνας, επαναδημιουργώντας
+  την. '
 canonical_url: "/images/07_MG_7339.jpg"
 
 ---
