@@ -18,7 +18,8 @@ _Image + text (GR)_
 \#2. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
 \#3. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-3/" target="blank">Ακολουθώντας τους προσδιορισμούς</a>  
 \#4. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-4/" target="blank">Υποθετικές Διαπιστώσεις</a>  
-\#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kylopa-5/" target="blank">Για μια Ποιότητα της Σημασίας</a>
+\#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kylopa-5/" target="blank">Για μια Ποιότητα της Σημασίας</a>  
+\#6. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-6/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο</a>
 
 ### Συνοδευτική Επιστολή
 
@@ -45,8 +46,6 @@ _Visual Poetry_
 _Image + music + text(GR)_
 
 <a href="https://hocusphotus.com/posts/syso-1/">SYSO #1</a>
-
-
 
 ### Iconic Hacs
 
