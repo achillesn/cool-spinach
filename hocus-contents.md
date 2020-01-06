@@ -40,6 +40,14 @@ _Visual Poetry_
 \#4. <a href="https://hocusphotus.com/posts/virtuala-connection-4/">Biris - Nasios</a>  
 \#5. <a href="https://hocusphotus.com/posts/virtual-connection-5/">Makris - Nasios</a>
 
+### Sing Your Soul Out
+
+_Image + music + text(GR)_
+
+<a href="https://hocusphotus.com/posts/syso-1/">SYSO #1</a>
+
+
+
 ### Iconic Hacs
 
 _Image + Text (EN)_
