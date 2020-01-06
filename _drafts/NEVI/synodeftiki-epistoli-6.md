@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Συνοδευτική Επιστολή #6'
-subtitle: Περσεφόνη
+subtitle: Το χιόνι της Περσεφόνης
 date: 2020-01-05 23:00:00 +0000
 thumb_img_path: "/images/07_MG_7339.jpg"
 content_img_path: "/images/07_MG_7339.jpg"
