@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'synodeftiki epistoli #6'
-subtitle: ''
+subtitle: Περσεφόνη
 date: 2020-01-05 23:00:00 +0000
 thumb_img_path: "/images/07_MG_7339.jpg"
 content_img_path: "/images/07_MG_7339.jpg"
