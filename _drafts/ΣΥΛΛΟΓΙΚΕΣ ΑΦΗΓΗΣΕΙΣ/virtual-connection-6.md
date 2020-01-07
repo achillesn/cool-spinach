@@ -36,3 +36,5 @@ canonical_url: "/images/09. LOU.jpg"
 ![](/images/09. LOU.jpg)
 
 ![](/images/10.LOU_ACHILLES_N.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=100002601821074" target="blank">Louloudia Gredi</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
