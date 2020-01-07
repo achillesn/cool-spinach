@@ -1,17 +1,18 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #6'
 subtitle: GreNa
 date: 2020-01-07 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/09. LOU.jpg"
 content_img_path: ''
 excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η καλύτερη απάντηση στα ερωτήματα που
   θέτει μια εικόνα, είναι μια άλλη εικόνα. Η αγάπη δεν είναι ζήτημα ατομικό, αλλά
   κοινό. Είναι σπουδαίο να μπορεί να μοιραστεί. Εδώ παρουσιάζονται συνδέσεις φίλων,
   άγνωστων και γνωστών, που έχουν μαζί κάτι να πουν, αγγίζοντας ο ένας τον άλλον με
   εικόνες...
-canonical_url: ''
+canonical_url: "/images/09. LOU.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
