@@ -4,10 +4,10 @@ categories: []
 title: 'KENKELIBA '
 subtitle: Barcelona 2013
 date: 2020-01-08 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/kenkeliba.jpg"
+content_img_path: "/images/kenkeliba.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/kenkeliba.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
