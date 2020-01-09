@@ -8,7 +8,7 @@ date: 2020-01-08 23:00:00 +0000
 thumb_img_path: "/images/kenkeliba.jpg"
 content_img_path: "/images/kenkeliba.jpg"
 excerpt: 'Kenkeliba: Seydou Traore, Membal Sane, Francesco Rizzo, Anny Pavlidou. Barcelona
-  2013.'
+  2013. Video by: Achilles Nasios.'
 canonical_url: "/images/kenkeliba.jpg"
 
 ---
