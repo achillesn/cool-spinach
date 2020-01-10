@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: []
-title: Stin aggalia tis amnisias
-subtitle: ''
+title: Στην Αγγαλιά της Αμνησίας
+subtitle: Απόσπασμα απο "Το καπάκι της Αβύσσου"
 date: 2020-01-09 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
