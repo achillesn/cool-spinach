@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: ermaio sta xnaria tis empnefsis
+title: Έρμαιο στα Χνάρια της Έμπνευσης
 subtitle: Απόσπασμα από το "Σπήλαιο του Κύκλωπα"
 date: 2020-01-10 23:00:00 +0000
 thumb_img_path: "/images/STA-XNARIAimg578.jpg"
