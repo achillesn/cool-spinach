@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Στην Αγγαλιά της Αμνησίας
+title: Στην Αγκαλιά της Αμνησίας
 subtitle: Απόσπασμα απο "Το καπάκι της Αβύσσου"
 date: 2020-01-09 23:00:00 +0000
 thumb_img_path: "/images/kapaki17_img177s.jpg"
