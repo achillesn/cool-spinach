@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #7'
+title: 'Συνοδευτική Επιστολή #7'
 subtitle: Επτά
 date: 2020-01-13 23:00:00 +0000
 thumb_img_path: "/images/06_MG_4533.jpg"
