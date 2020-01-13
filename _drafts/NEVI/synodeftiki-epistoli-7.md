@@ -14,6 +14,8 @@ excerpt: 'Η Συνοδευτική Επιστολή προσδοκά ν'' αν�
 canonical_url: "/images/06_MG_4533.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Είχα ξαπλώσει στο φως που με ζέσταινε  
 και από μέσα μου   
 υμνούσα τη σκόνη του χρόνου.
