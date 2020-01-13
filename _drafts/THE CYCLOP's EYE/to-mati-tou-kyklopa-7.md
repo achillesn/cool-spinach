@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'to mati tou kyklopa #7'
+title: 'Το Μάτι του Κύκλωπα #7'
 subtitle: ''
 date: 2020-01-12 23:00:00 +0000
 thumb_img_path: "/images/43490610_10217016731912859_42774927920594944_o.jpg"
