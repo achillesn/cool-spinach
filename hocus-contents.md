@@ -75,7 +75,8 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/%CF%83%CF%84%CE%B1-%CE%AF%CF%87%CE%BD%CE%B7-%CF%84%CE%B7%CF%82-%CF%86%CE%B1%CE%BD%CF%84%CE%B1%CF%83%CE%AF%CE%B1%CF%82/" target="blank">Στα ίχνη της Φαντασίας</a>  
 <a href="https://hocusphotus.com/posts/osa-fernei-i-ora-ta-pairnei-piso-o-chronos/" target="blank">Όσα φέρνει η Ώρα τα παίρνει πίσω ο Χρόνος</a>  
 <a href="https://hocusphotus.com/posts/%CE%BC%CE%BD%CE%AE%CE%BC%CE%B5%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7%CE%BD-%CE%B1%CE%BD%CE%B1%CE%B3%CE%B1%CE%BA%CE%B1%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CF%84%CE%BF%CF%85-%CE%AD%CF%81%CF%89%CF%84%CE%B1/" target="blank">Μνήμες από την αναγκαιότητα του Έρωτα</a>  
-<a href="https://hocusphotus.com/posts/to-dakry-tis-eftyxias/" target="blank">Το δάκρυ της ευτυχίας</a>
+<a href="https://hocusphotus.com/posts/to-dakry-tis-eftyxias/" target="blank">Το δάκρυ της ευτυχίας</a>  
+<a href="https://hocusphotus.com/posts/stin-aggalia-tis-amnisias/" target="blank">Στην αγκαλιά της Αμνησίας</a>
 
 **_Music_**
 
