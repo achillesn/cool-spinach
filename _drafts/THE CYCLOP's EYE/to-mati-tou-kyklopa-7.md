@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Το Μάτι του Κύκλωπα #7'
 subtitle: 'Δημιουργώντας έναν κόσμο από τον κόσμο (Μέρος 2) '
 date: 2020-01-12 23:00:00 +0000
