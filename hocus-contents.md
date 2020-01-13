@@ -54,7 +54,7 @@ _Image + music + text(GR)_
 
 _Image + Text (EN)_
 
-<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a> - <a href="https://hocusphotus.com/posts/iconic-hack-4/" target="blank">#4</a> - <a href="https://hocusphotus.com/posts/iconic-hack-5/" target="blank">#5</a> - <a href="https://hocusphotus.com/posts/iconic-hack-6/" target="blank">#6</a>
+<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a> - <a href="https://hocusphotus.com/posts/iconic-hack-4/" target="blank">#4</a> - <a href="https://hocusphotus.com/posts/iconic-hack-5/" target="blank">#5</a> - <a href="https://hocusphotus.com/posts/iconic-hack-6/" target="blank">#6</a><a href="https://hocusphotus.com/posts/iconic-hack-7/" target="blank">#7</a>
 
 ### Various
 
