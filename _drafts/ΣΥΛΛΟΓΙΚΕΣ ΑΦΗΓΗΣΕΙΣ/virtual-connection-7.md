@@ -4,9 +4,9 @@ categories: []
 title: 'Virtual Connection #7'
 subtitle: MiNa
 date: 2020-01-14 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/01.MiTR.jpg"
 content_img_path: ''
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/01.MiTR.jpg"
 
 ---
