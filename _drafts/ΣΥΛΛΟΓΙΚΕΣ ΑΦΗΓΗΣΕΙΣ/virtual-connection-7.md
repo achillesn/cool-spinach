@@ -35,3 +35,5 @@ canonical_url: "/images/01.MiTR.jpg"
 ![](/images/09.MITR.jpg)
 
 ![](/images/10.MITR_MG_8495.jpg)
+
+Photo series: © <a href="https://www.facebook.com/nikos.mitrakas" target="blank">Nikos Mitrakas</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
