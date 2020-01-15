@@ -11,6 +11,8 @@ excerpt: ''
 canonical_url: "/images/P1030275.1.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Κοιτάζω πίσω από το φως...
 
 κρυφές εικόνες σχηματίζονται στο νου μου  
