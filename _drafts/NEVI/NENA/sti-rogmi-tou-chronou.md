@@ -4,10 +4,10 @@ categories: []
 title: sti rogmi tou chronou
 subtitle: Ταξίδι του μυαλού...
 date: 2020-01-15 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/P1030275.1.jpg"
+content_img_path: "/images/P1030275.1.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/P1030275.1.jpg"
 
 ---
 Κοιτάζω πίσω από το φως...
