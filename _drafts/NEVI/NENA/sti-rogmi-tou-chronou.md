@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: sti rogmi tou chronou
+title: Στη Ρωγμή του Χρόνου
 subtitle: Ταξίδι του μυαλού...
 date: 2020-01-15 23:00:00 +0000
 thumb_img_path: "/images/P1030275.1.jpg"
