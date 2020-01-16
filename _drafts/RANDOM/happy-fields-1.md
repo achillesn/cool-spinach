@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Happy Fields
 subtitle: India 2010
 date: 2020-01-16 23:00:00 +0000
