@@ -4,10 +4,14 @@ categories: []
 title: Happy Fields
 subtitle: India 2010
 date: 2020-01-16 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/happy-fields.jpg"
+content_img_path: "/images/happy-fields.jpg"
+excerpt: 'Σε ένα από τα ταξίδια μου, βρέθηκα στο χωριό των γυναικών. Όχι, δεν ήταν
+  μέρος κάποιου φεμινιστικού κινήματος όλο αυτό, παρά μια αναγκαιότητα. Στο χωριό
+  αυτό είχαν απομείνει σχεδόν μόνο γυναίκες, επειδή οι άντρες, αγρότες όλοι, είχαν
+  αυτοκτονήσει, επειδή δε μπορούσαν να πληρώσουν τα χρέη τους στην Monsanto, που υποτίθεται
+  ότι θα έφερνε την "Πράσινη Επανάσταση". '
+canonical_url: "/images/happy-fields.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
