@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'SYSO #2'
 subtitle: Τα νησιά
 date: 2020-01-17 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/NHSIA.jpg"
+content_img_path: "/images/NHSIA.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/NHSIA.jpg"
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4N2sXUES_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
