@@ -7,7 +7,7 @@ subtitle: Τα νησιά
 date: 2020-01-17 23:00:00 +0000
 thumb_img_path: "/images/NHSIA.jpg"
 content_img_path: "/images/NHSIA.jpg"
-excerpt: ''
+excerpt: '"Sing Your Soul Out" κάθε Σάββατο με τη Ρίτα Αντωνοπούλου.'
 canonical_url: "/images/NHSIA.jpg"
 
 ---
