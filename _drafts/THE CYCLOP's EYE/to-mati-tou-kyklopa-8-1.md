@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'to mati tou kyklopa #8'
-subtitle: ''
+subtitle: Μεταμορφώνοντας την πραγματικότητα
 date: 2020-01-19 23:00:00 +0000
 thumb_img_path: "/images/01_MG_4919.jpg"
 content_img_path: "/images/01_MG_4919.jpg"
