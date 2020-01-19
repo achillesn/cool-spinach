@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'to mati tou kyklopa #8'
 subtitle: ''
 date: 2020-01-19 23:00:00 +0000
