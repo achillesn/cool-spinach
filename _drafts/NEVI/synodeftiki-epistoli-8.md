@@ -13,6 +13,8 @@ excerpt: 'Η Συνοδευτική Επιστολή προσδοκά ν'' αν�
 canonical_url: "/images/04_MG_3870.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Όσο περπατούσαμε   
 το χρώμα του χορταριού  
 έρχονταν πάνω μας.  
