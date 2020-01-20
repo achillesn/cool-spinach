@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική Επιστολή #8'
 subtitle: Το Χρώμα του Χορταριού
-date: 2020-01-21 23:00:00 +0000
+date: 2020-01-20 23:00:00 +0000
 thumb_img_path: "/images/04_MG_3870.jpg"
 content_img_path: "/images/04_MG_3870.jpg"
 excerpt: 'Η Συνοδευτική Επιστολή προσδοκά ν'' ανακαλύψει τις προεκτάσεις της εικόνας
