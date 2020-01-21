@@ -35,3 +35,5 @@ canonical_url: "/images/02-3.jpg"
 ![](/images/09.SAR.nasiosa_PG_10.jpg)
 
 ![](/images/10-1.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=100004147575145" target="blank">Corneliu Sarion</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
