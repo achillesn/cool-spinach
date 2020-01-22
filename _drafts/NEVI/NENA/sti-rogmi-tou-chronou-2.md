@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Στη Ρωγμή του Χρόνου #2'
 subtitle: Βαδίζοντας προς το φως
 date: 2020-01-22 23:00:00 +0000
