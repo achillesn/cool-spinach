@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: 'Στη Ρωγμή του Χρόνου #2'
-subtitle: ''
+subtitle: Βαδίζοντας προς το φως
 date: 2020-01-22 23:00:00 +0000
 thumb_img_path: "/images/ΕΜ2.jpg"
 content_img_path: "/images/ΕΜ2.jpg"
