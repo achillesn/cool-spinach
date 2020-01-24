@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: Stin epikrateia tou vlematos
+title: Στην επικράτεια του βλέμματος
 subtitle: Απόσπασμα απο "Το Καπάκι της Αβύσσου"
 date: 2020-01-24 23:00:00 +0000
 thumb_img_path: "/images/img437.jpg"
