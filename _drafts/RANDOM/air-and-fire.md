@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Air and Fire
-subtitle: ''
+subtitle: Maroco - Marrakech 2004
 date: 2020-01-23 23:00:00 +0000
 thumb_img_path: "/images/maroco.jpg"
 content_img_path: "/images/maroco.jpg"
