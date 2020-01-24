@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Stin epikrateia tou vlematos
-subtitle: ''
+subtitle: Απόσπασμα απο "Το Καπάκι της Αβύσσου"
 date: 2020-01-24 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
