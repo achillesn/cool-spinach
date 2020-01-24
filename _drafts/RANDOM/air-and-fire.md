@@ -4,10 +4,10 @@ categories: []
 title: Air and Fire
 subtitle: ''
 date: 2020-01-23 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/maroco.jpg"
+content_img_path: "/images/maroco.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/maroco.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
