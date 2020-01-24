@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Air and Fire
 subtitle: Morocco - Marrakech 2004
 date: 2020-01-23 23:00:00 +0000
