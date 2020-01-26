@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Το Μάτι του Κύκλωπα #9'
 subtitle: Μεταμορφώνοντας την εικόνα
 date: 2020-01-26 23:00:00 +0000
