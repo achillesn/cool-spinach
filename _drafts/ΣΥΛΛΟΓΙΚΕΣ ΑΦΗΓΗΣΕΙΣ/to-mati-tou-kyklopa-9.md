@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'To mati tou kyklopa #9'
+title: 'Το Μάτι του Κύκλωπα #9'
 subtitle: Μεταμορφώνοντας την εικόνα
 date: 2020-01-26 23:00:00 +0000
 thumb_img_path: "/images/_MG_4919.bw2.jpg"
