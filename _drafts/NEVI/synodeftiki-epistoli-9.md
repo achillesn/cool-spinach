@@ -13,6 +13,8 @@ excerpt: 'Η Συνοδευτική Επιστολή προσδοκά ν'' αν�
 canonical_url: "/images/10_MG_9246.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 \-Και πότε θα φύγεις;
 
 \-Όταν φτάσουμε στο Τέλος του Κόσμου
