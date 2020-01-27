@@ -46,7 +46,9 @@ _Visual Poetry_
 \#3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">Ntelis - Nasios</a>  
 \#4. <a href="https://hocusphotus.com/posts/virtuala-connection-4/">Biris - Nasios</a>  
 \#5. <a href="https://hocusphotus.com/posts/virtual-connection-5/">Makris - Nasios</a>  
-\#6. <a href="https://hocusphotus.com/posts/virtual-connection-6/">Gredi - Nasios</a>
+\#6. <a href="https://hocusphotus.com/posts/virtual-connection-6/">Gredi - Nasios</a>  
+\#7. <a href="https://hocusphotus.com/posts/virtual-connection-7/">Mitrakas - Nasios</a>  
+\#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>
 
 ### Sing Your Soul Out
 
