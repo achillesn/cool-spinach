@@ -33,7 +33,9 @@ _Image + poetry (GR)_
 \#3. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-3/" target="blank">Η Σκιά</a>  
 \#4. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-4/" target="blank">Ο Άγγελος</a>  
 \#5. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-5/" target="blank">Ο Κότσυφας</a>  
-\#6. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-6/" target="blank">Το χιόνι της Περσεφόνης</a>
+\#6. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-6/" target="blank">Το χιόνι της Περσεφόνης</a>  
+\#7. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-7/" target="blank">Επτά</a>  
+\#8. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-8/" target="blank">Το χρώμα του χορταριού</a>
 
 ### Virtual Connections
 
