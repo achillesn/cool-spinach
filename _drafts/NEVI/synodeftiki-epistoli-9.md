@@ -4,10 +4,10 @@ categories: []
 title: 'synodeftiki epistoli #9'
 subtitle: Στο τέλος του κόσμου
 date: 2020-01-27 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/10_MG_9246.jpg"
+content_img_path: "/images/10_MG_9246.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/10_MG_9246.jpg"
 
 ---
 \-Και πότε θα φύγεις;
