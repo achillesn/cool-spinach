@@ -52,6 +52,8 @@ _Visual Poetry_
 
 ### Στη Ρωγμή του Χρόνου
 
+_Image + poetry (GR)_
+
 \#1. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou/" target="blank">Ταξίδι του Μυαλού</a>  
 \#2. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-2/" target="blank">Βαδίζοντας προς το φως</a>
 
