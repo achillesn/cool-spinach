@@ -20,7 +20,9 @@ _Image + text (GR)_
 \#4. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-4/" target="blank">Υποθετικές Διαπιστώσεις</a>  
 \#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kylopa-5/" target="blank">Για μια Ποιότητα της Σημασίας</a>  
 \#6. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-6/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.1</a>  
-\#7. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-7/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.2</a>
+\#7. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-7/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.2</a>  
+\#8. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-8/" target="blank">Μεταμορφώνοντας την πραγματικότητα</a>  
+\#9. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-9/" target="blank">Μεταμορφώνοντας την εικόνα</a>
 
 ### Συνοδευτική Επιστολή
 
