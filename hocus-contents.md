@@ -54,7 +54,8 @@ _Visual Poetry_
 
 _Image + music + text(GR)_
 
-<a href="https://hocusphotus.com/posts/syso-1/">SYSO #1</a>
+<a href="https://hocusphotus.com/posts/syso-1/">SYSO #1</a>  
+<a href="https://hocusphotus.com/posts/syso-2/">SYSO #2</a>
 
 ### Iconic Hacs
 
