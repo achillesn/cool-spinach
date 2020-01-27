@@ -61,7 +61,7 @@ _Image + music + text(GR)_
 
 _Image + Text (EN)_
 
-<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a> - <a href="https://hocusphotus.com/posts/iconic-hack-4/" target="blank">#4</a> - <a href="https://hocusphotus.com/posts/iconic-hack-5/" target="blank">#5</a> - <a href="https://hocusphotus.com/posts/iconic-hack-6/" target="blank">#6</a> - <a href="https://hocusphotus.com/posts/iconic-hack-7/" target="blank">#7</a> - <a href="https://hocusphotus.com/posts/iconic-hack-8/" target="blank">#8</a> 
+<a href="https://hocusphotus.com/posts/iconic-hack-1/" target="blank">#1</a> - <a href="https://hocusphotus.com/posts/iconic-hacks/">#2</a> - <a href="https://hocusphotus.com/posts/iconic-hack-3/" target="blank">#3</a> - <a href="https://hocusphotus.com/posts/iconic-hack-4/" target="blank">#4</a> - <a href="https://hocusphotus.com/posts/iconic-hack-5/" target="blank">#5</a> - <a href="https://hocusphotus.com/posts/iconic-hack-6/" target="blank">#6</a> - <a href="https://hocusphotus.com/posts/iconic-hack-7/" target="blank">#7</a> - <a href="https://hocusphotus.com/posts/iconic-hack-8/" target="blank">#8</a>
 
 ### Various
 
@@ -74,7 +74,9 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/thanasis-papakonstantinou-soundcheck-movie/" target="blank">Thanasis Papakonstantinou. sound-check</a>  
 <a href="https://hocusphotus.com/posts/mad-or-bad/" target="blank">Mad or Bad?</a>  
 <a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance</a>  
-<a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη</a>
+<a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη</a>  
+<a href="https://hocusphotus.com/posts/happy-fields-1/" target="blank">Happy Fields</a>  
+<a href="https://hocusphotus.com/posts/air-and-fire/" target="blank">Air and Fire</a>
 
 **_Texts.gr_**
 
