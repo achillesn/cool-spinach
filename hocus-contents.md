@@ -50,6 +50,11 @@ _Visual Poetry_
 \#7. <a href="https://hocusphotus.com/posts/virtual-connection-7/">Mitrakas - Nasios</a>  
 \#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>
 
+### Στη Ρωγμή του Χρόνου
+
+\#1. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou/" target="blank">Ταξίδι του Μυαλού</a>  
+\#2. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-2/" target="blank">Βαδίζοντας προς το φως</a>
+
 ### Sing Your Soul Out
 
 _Image + music + text(GR)_
