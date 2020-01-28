@@ -34,3 +34,5 @@ canonical_url: "/images/01.DAZ.jpg"
 ![](/images/09.DAZ.jpg)
 
 ![](/images/10.DAZ.jpg)
+
+Photo series: © <a href="https://www.facebook.com/Sakis.Da" target="blank">Sakis Dazanis</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
