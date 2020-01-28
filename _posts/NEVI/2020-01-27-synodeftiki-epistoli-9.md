@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'synodeftiki epistoli #9'
-subtitle: Tο τέλος του κόσμου
+subtitle: Το τέλος του κόσμου
 date: 2020-01-27 23:00:00 +0000
 thumb_img_path: "/images/10_MG_9246.jpg"
 content_img_path: "/images/10_MG_9246.jpg"
