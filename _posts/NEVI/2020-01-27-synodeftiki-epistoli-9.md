@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'synodeftiki epistoli #9'
 subtitle: Στο τέλος του κόσμου
 date: 2020-01-27 23:00:00 +0000
