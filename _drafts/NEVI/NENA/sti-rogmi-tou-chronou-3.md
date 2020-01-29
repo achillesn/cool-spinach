@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: 'Sti rogmi tou chronou #3'
-subtitle: ''
+title: 'Στη Ρωγμή του Χρόνου #3'
+subtitle: Στα Άκρα
 date: 2020-01-29 23:00:00 +0000
 thumb_img_path: "/images/EM3.jpg"
 content_img_path: "/images/EM3.jpg"
