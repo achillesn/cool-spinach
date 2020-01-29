@@ -49,7 +49,8 @@ _Visual Poetry_
 \#5. <a href="https://hocusphotus.com/posts/virtual-connection-5/">Makris - Nasios</a>  
 \#6. <a href="https://hocusphotus.com/posts/virtual-connection-6/">Gredi - Nasios</a>  
 \#7. <a href="https://hocusphotus.com/posts/virtual-connection-7/">Mitrakas - Nasios</a>  
-\#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>
+\#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>  
+\#9. <a href="https://hocusphotus.com/posts/virtual-connection-9/"> Dazanis - Nasios</a>
 
 ### Στη Ρωγμή του Χρόνου
 
