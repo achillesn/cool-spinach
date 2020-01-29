@@ -29,7 +29,9 @@ canonical_url: "/images/01.DAZ.jpg"
 
 ![](/images/06.DAZ_MG_2639.jpg)
 
-![](/images/07.DAZ.jpg)![](/images/08.DAZ_MG_7547.jpg)
+![](/images/07.DAZ.jpg)
+
+![](/images/08.DAZ_MG_7547.jpg)
 
 ![](/images/09.DAZ.jpg)
 
