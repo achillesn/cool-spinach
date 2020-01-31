@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Cross Covariances
 subtitle: Video-Art
 date: 2020-01-30 23:00:00 +0000
