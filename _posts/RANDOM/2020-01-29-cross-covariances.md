@@ -25,4 +25,3 @@ canonical_url: "/images/cross-covariations.jpg"
 
 <iframe src="https://player.vimeo.com/video/158936852" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="[https://vimeo.com/158936852](https://vimeo.com/158936852 "https://vimeo.com/158936852")">CROSS COVARIANCES #1 (documentation)</a> 
