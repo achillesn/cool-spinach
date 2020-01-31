@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Sta dyxtia tis afairesis
-subtitle: ''
+subtitle: Απόσπασμα απο "Το καπάκι της Αβύσσου"
 date: 2020-01-31 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
