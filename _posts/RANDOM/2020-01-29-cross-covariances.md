@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Cross Covariances
-subtitle: Video-Art
+subtitle: Video-Art by Achilles Nasios
 date: 2020-01-29 23:00:00 +0000
 thumb_img_path: "/images/cross-covariations.jpg"
 content_img_path: ''
