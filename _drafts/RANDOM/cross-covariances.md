@@ -4,10 +4,12 @@ categories: []
 title: Cross Covariances
 subtitle: Video-Art
 date: 2020-01-30 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/cross-covariations.jpg"
+content_img_path: "/images/cross-covariations.jpg"
+excerpt: Η ιδέα αυτή ξεκίνησε αρχικά φωτογραφικά, σε μια προσπάθεια απόδωσης της Πυθαγόρειας
+  θεωρίας της μουσικής αρμονίας. Αργότερα οι μορφές που φανερώθηκαν στις φωτογραφίες,
+  απόκτησαν κίνηση προσδοκώντας να αποδώσουν οπτικά τη μουσική.
+canonical_url: "/images/cross-covariations.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
