@@ -4,7 +4,7 @@ categories:
 - News
 title: Στα Δύχτια της Αφαίρεσης
 subtitle: Απόσπασμα απο "Το καπάκι της Αβύσσου"
-date: 2020-01-30 23:00:00 +0000
+date: 2020-01-31 23:00:00 +0000
 thumb_img_path: "/images/sta-dixtya-tis-aferesis.40.img027.jpg"
 content_img_path: "/images/sta-dixtya-tis-aferesis.40.img027.jpg"
 excerpt: 'Στον κόσμο της αφαίρεσης έχει κανείς μόνο μιά ευκαιρία. Είτε τα καταφέρνει
