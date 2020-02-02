@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: H anapofefkti prothesi
 subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-02-02 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/01_MG_3172.jpg"
+content_img_path: "/images/01_MG_3172.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/01_MG_3172.jpg"
 
 ---
 \- Αναρωτιέμαι όμως αν έχει νόημα όλο αυτό. Γιατί χρειάζεται κανείς να τα ξέρει όλ’ αυτά; Γιατί να μην αφηθεί στη μαγεία της εικόνας να τον ταξιδέψει;
