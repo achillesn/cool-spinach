@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Η αναπόφευκτη Πρόθεση
+title: Η Αναπόφευκτη Πρόθεση
 subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-02-02 23:00:00 +0000
 thumb_img_path: "/images/01_MG_3172.jpg"
