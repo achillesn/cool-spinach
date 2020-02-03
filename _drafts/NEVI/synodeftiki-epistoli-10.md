@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'Synodeftiki epistoli #10'
+title: 'Συνοδευτική Επιστολή #10'
 subtitle: Το κρυφτό
 date: 2020-02-03 23:00:00 +0000
 thumb_img_path: "/images/08_MG_5078.jpg"
