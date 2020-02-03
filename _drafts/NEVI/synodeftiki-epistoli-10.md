@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική Επιστολή #10'
 subtitle: Το κρυφτό
 date: 2020-02-03 23:00:00 +0000
