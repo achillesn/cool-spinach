@@ -36,3 +36,5 @@ canonical_url: "/images/00.MARKO.jpg"
 ![](/images/09.MARKO_MG_5875.jpg)
 
 ![](/images/10.MARKO.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=100011687118637" target="blank">Marko Polonio</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
