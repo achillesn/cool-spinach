@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Virtual Connection #10'
-subtitle: PoNa
+subtitle: NaPo
 date: 2020-02-04 23:00:00 +0000
 thumb_img_path: "/images/00.MARKO.jpg"
 content_img_path: ''
