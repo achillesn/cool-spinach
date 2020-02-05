@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'sti rogmi tou chronou #4'
 subtitle: Σταθερό σημείο
 date: 2020-02-05 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/EM4.JPG"
+content_img_path: "/images/EM4.JPG"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/EM4.JPG"
 
 ---
 Σε κάθε βήμα σου ο δρόμος μεγαλώνει  
