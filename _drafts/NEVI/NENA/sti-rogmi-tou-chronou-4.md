@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'sti rogmi tou chronou #4'
+title: 'Στη Ρωγμή του Χρόνου #4'
 subtitle: Σταθερό σημείο
 date: 2020-02-05 23:00:00 +0000
 thumb_img_path: "/images/EM4.JPG"
@@ -13,6 +13,8 @@ excerpt: 'Στη "Ρωγμή του Χρόνου" μυριάδες σκέψει�
 canonical_url: "/images/EM4.JPG"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Σε κάθε βήμα σου ο δρόμος μεγαλώνει  
  μπροστά πηγαίνεις, πίσω μένει μια γραμμή  
  κάθε στιγμή ο κόσμος δένει με κορδόνι  
