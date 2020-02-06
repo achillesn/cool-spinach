@@ -12,4 +12,4 @@ canonical_url: "/images/katerina.jpg"
 ---
 <iframe src="https://player.vimeo.com/video/389205650" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Lyrics and Song: <a href="https://www.facebook.com/katerina.konstantinou.1690" target="blank">Katerina Konstantinou </a>Photography-Direction: <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a>Projection mapping: <a href="https://www.facebook.com/noyolightstudio/" target="blank">NoYo Studio</a>Co-production:<a href="https://www.facebook.com/1minute.project/" target="blank">Hocus Photus</a>
+Lyrics and Song: <a href="https://www.facebook.com/katerina.konstantinou.1690" target="blank">Katerina Konstantinou </a>Music and guitar: <a href="https://www.facebook.com/noyolightstudio/" target="blank">Mikko Papadopoulos Laitinen</a> Photography-Direction: <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a> Production:<a href="https://www.facebook.com/1minute.project/" target="blank">Hocus Photus</a>
