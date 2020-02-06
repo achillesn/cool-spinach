@@ -2,7 +2,8 @@
 layout: post
 categories: []
 title: Elafi tou vorra
-subtitle: ''
+subtitle: 'Νέο τραγούδι από την Κατερίνα Κωνσταντίνου και τον Μίκκο Παπαδόπουλο. Σκηνοθεσία:
+  Αχιλλέας Νάσιος. Παραγωγή: Hocus Photus.'
 date: 2020-02-06 23:00:00 +0000
 thumb_img_path: "/images/katerina.jpg"
 content_img_path: "/images/katerina.jpg"
