@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Elafi tou vorra
+title: Ελάφι του Βορρά
 subtitle: 'Νέο τραγούδι από την Κατερίνα Κωνσταντίνου και τον Μίκκο Παπαδόπουλο. Σκηνοθεσία:
   Αχιλλέας Νάσιος. Παραγωγή: Hocus Photus.'
 date: 2020-02-06 23:00:00 +0000
