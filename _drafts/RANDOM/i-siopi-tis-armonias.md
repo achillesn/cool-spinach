@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: i siopi tis armonias
 subtitle: Photo and text by Achilles Nasios
 date: 2020-02-07 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/img548.jpg"
+content_img_path: "/images/img548.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/img548.jpg"
 
 ---
 
