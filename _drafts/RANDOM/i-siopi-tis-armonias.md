@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: i siopi tis armonias
-subtitle: ''
+subtitle: Photo and text by Achilles Nasios
 date: 2020-02-07 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
