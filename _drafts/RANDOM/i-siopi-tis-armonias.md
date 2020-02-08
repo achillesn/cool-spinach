@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: i siopi tis armonias
-subtitle: Photo and text by Achilles Nasios
+title: Η Σιωπή της Αρμονίας
+subtitle: Απόσπασμα από "το Καπάκι της Αβύσσου"
 date: 2020-02-07 23:00:00 +0000
 thumb_img_path: "/images/img548.jpg"
 content_img_path: "/images/img548.jpg"
