@@ -7,7 +7,9 @@ subtitle: Photo and text by Achilles Nasios
 date: 2020-02-07 23:00:00 +0000
 thumb_img_path: "/images/img548.jpg"
 content_img_path: "/images/img548.jpg"
-excerpt: ''
+excerpt: Είχα τη δυνατότητα να απαθανατίζω την παρατήρηση κι αυτό, έστω θεωρητικά,
+  με μεταμόρφωνε αυτόματα σε δημιουργό. Έτσι, ξαφνικά, ανάλογα με τις προθέσεις μου,
+  το κάθε τι μπορούσε ν’ αποκτήσει αξία.
 canonical_url: "/images/img548.jpg"
 
 ---
