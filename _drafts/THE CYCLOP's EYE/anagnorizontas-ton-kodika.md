@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Anagnorizontas ton kodika
+title: " Αναγνωρίζοντας τον Κώδικα"
 subtitle: Απόσπασμα από το "Μάτι του Κύκλωπα"
 date: 2020-02-09 23:00:00 +0000
 thumb_img_path: "/images/01._MG_2644.jpg"
