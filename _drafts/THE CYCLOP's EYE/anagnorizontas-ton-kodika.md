@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Anagnorizontas ton kodika
 subtitle: Απόσπασμα από το "Μάτι του Κύκλωπα"
 date: 2020-02-09 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/01._MG_2644.jpg"
+content_img_path: "/images/01._MG_2644.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/01._MG_2644.jpg"
 
 ---
 \- Μα πως θα μπορούσε κανείς ν’ αναγνωρίσει την πρόθεση κάποιου άλλου, εντελώς άγνωστου σε εκείνον; Και μάλιστα σε μια άγνωστη εποχή, σε άγνωστο τόπο;
