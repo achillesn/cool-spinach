@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική Επιστολή #11'
 subtitle: Αυτό που είχα φοβηθεί
 date: 2020-02-10 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/09_MG_2443.jpg"
+content_img_path: "/images/09_MG_2443.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/09_MG_2443.jpg"
 
 ---
 \-Μπορείς να περάσεις μέσα από τη φωτιά;
