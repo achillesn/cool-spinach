@@ -92,7 +92,7 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/dervishe-s-dance/" target="blank">Dervishe's Dance</a>  
 <a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη</a>  
 <a href="https://hocusphotus.com/posts/happy-fields-1/" target="blank">Happy Fields</a>  
-<a href="https://hocusphotus.com/posts/air-and-fire/" target="blank">Air and Fire</a>
+<a href="https://hocusphotus.com/posts/air-and-fire/" target="blank">Air and Fire</a>  
 <a href="https://hocusphotus.com/posts/cross-covariances/" target="blank">Cross-Covariances</a>
 
 **_Texts.gr_**
