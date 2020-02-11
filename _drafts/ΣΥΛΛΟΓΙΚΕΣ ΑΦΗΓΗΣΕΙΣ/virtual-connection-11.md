@@ -11,6 +11,8 @@ excerpt: ''
 canonical_url: "/images/07-1.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 ![](/images/01.JUNA.jpg)
 
 ![](/images/02.JUNA_MG_8900.jpg)
