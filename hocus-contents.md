@@ -93,6 +93,7 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/antimatter/" target="blank">Αντιύλη</a>  
 <a href="https://hocusphotus.com/posts/happy-fields-1/" target="blank">Happy Fields</a>  
 <a href="https://hocusphotus.com/posts/air-and-fire/" target="blank">Air and Fire</a>
+<a href="https://hocusphotus.com/posts/cross-covariances/" target="blank">Cross-Covariances</a>
 
 **_Texts.gr_**
 
@@ -113,3 +114,4 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου</a>  
 <a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο</a>  
 <a href="https://hocusphotus.com/posts/kenkeliba/" target="blank">Kenkeliba</a>
+
