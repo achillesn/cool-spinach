@@ -23,7 +23,7 @@ _Image + text (GR)_
 \#7. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-7/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.2</a>  
 \#8. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-8/" target="blank">Μεταμορφώνοντας την πραγματικότητα</a>  
 \#9. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-9/" target="blank">Μεταμορφώνοντας την εικόνα</a>  
-\#10.<a href="https://hocusphotus.com/posts/h-anapofefkti-prothesi/" target="blank">Η Αναπόφευκτη Πρόθεση</a>
+\#10.<a href="https://hocusphotus.com/posts/h-anapofefkti-prothesi/" target="blank">Η Αναπόφευκτη Πρόθεση</a>  
 \#11.<a href="https://hocusphotus.com/posts/anagnorizontas-ton-kodika/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>
 
 ### Συνοδευτική Επιστολή
@@ -108,7 +108,6 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/sta-dyxtia-tis-afairesis/" target="blank">Στα Δίχτυα της Αφαίρεσης</a>
 <a href="https://hocusphotus.com/posts/i-siopi-tis-armonias/" target="blank">Η Σιωπή της Αρμονίας</a>
 
-
 **_Music_**
 
 <a href="https://hocusphotus.com/posts/2%CF%89-%CE%BA%CE%B1%CE%B9-26%CE%BB-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CF%87%CF%81%CF%8C%CE%BD%CE%BF/" target="blank">2ω και 26λ με τον Χρόνο</a>  
@@ -118,4 +117,3 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο</a>  
 <a href="https://hocusphotus.com/posts/kenkeliba/" target="blank">Kenkeliba</a>
 <a href="https://hocusphotus.com/posts/elafi-tou-vorra/" target="blank">Northern Deer/ Ελάφι του Βορρά</a>
-
