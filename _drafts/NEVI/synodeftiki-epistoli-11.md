@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #11'
-subtitle: ''
+title: 'Συνοδευτική Επιστολή #11'
+subtitle: Αυτό που είχα φοβηθεί
 date: 2020-02-10 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
