@@ -104,8 +104,8 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/to-dakry-tis-eftyxias/" target="blank">Το δάκρυ της ευτυχίας</a>  
 <a href="https://hocusphotus.com/posts/stin-aggalia-tis-amnisias/" target="blank">Στην αγκαλιά της Αμνησίας</a>  
 <a href="https://hocusphotus.com/posts/ermaio-sta-xnaria-tis-empnefsis/" target="blank">Έρμαιο στα Χνάρια της Έμπνευσης</a>  
-<a href="https://hocusphotus.com/posts/stin-epikrateia-tou-vlematos/" target="blank">Στην επικράτεια του βλέμματος</a>
-<a href="https://hocusphotus.com/posts/sta-dyxtia-tis-afairesis/" target="blank">Στα Δίχτυα της Αφαίρεσης</a>
+<a href="https://hocusphotus.com/posts/stin-epikrateia-tou-vlematos/" target="blank">Στην επικράτεια του βλέμματος</a>  
+<a href="https://hocusphotus.com/posts/sta-dyxtia-tis-afairesis/" target="blank">Στα Δίχτυα της Αφαίρεσης</a>  
 <a href="https://hocusphotus.com/posts/i-siopi-tis-armonias/" target="blank">Η Σιωπή της Αρμονίας</a>
 
 **_Music_**
@@ -115,5 +115,5 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/me-parea-to-thanasi/" target="blank">Με παρέα το Θανάση</a>  
 <a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου</a>  
 <a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο</a>  
-<a href="https://hocusphotus.com/posts/kenkeliba/" target="blank">Kenkeliba</a>
+<a href="https://hocusphotus.com/posts/kenkeliba/" target="blank">Kenkeliba</a>  
 <a href="https://hocusphotus.com/posts/elafi-tou-vorra/" target="blank">Northern Deer/ Ελάφι του Βορρά</a>
