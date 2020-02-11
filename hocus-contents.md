@@ -117,4 +117,5 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/o-apoxeraitismos-tou-thanou/" target="blank">Ο Αποχαιρετισμός του Θάνου</a>  
 <a href="https://hocusphotus.com/posts/gia-to-thano/" target="blank">Για το Θάνο</a>  
 <a href="https://hocusphotus.com/posts/kenkeliba/" target="blank">Kenkeliba</a>
+<a href="https://hocusphotus.com/posts/elafi-tou-vorra/" target="blank">Northern Deer/ Ελάφι του Βορρά</a>
 
