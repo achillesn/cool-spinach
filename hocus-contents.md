@@ -38,8 +38,8 @@ _Image + poetry (GR)_
 \#6. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-6/" target="blank">Το χιόνι της Περσεφόνης</a>  
 \#7. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-7/" target="blank">Επτά</a>  
 \#8. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-8/" target="blank">Το χρώμα του χορταριού</a>  
-\#9. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-9/" target="blank">Το τέλος του κόσμου</a>
-\#10. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-10/" target="blank">Το κρυφτό</a>
+\#9. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-9/" target="blank">Το τέλος του κόσμου</a>  
+\#10. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-10/" target="blank">Το κρυφτό</a>  
 \#11. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-11/" target="blank">Αυτό που είχα φοβηθεί</a>
 
 ### Virtual Connections
