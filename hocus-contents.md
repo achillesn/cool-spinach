@@ -64,6 +64,7 @@ _Image + poetry (GR)_
 \#1. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou/" target="blank">Ταξίδι του Μυαλού</a>  
 \#2. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-2/" target="blank">Βαδίζοντας προς το φως</a>
 \#3. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-3/" target="blank">Στα Άκρα</a>
+\#4. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-4/" target="blank">Σταθερό Σημείο</a>
 
 ### Sing Your Soul Out
 
