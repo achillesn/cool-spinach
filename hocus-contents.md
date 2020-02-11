@@ -54,7 +54,7 @@ _Visual Poetry_
 \#6. <a href="https://hocusphotus.com/posts/virtual-connection-6/">Gredi - Nasios</a>  
 \#7. <a href="https://hocusphotus.com/posts/virtual-connection-7/">Mitrakas - Nasios</a>  
 \#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>  
-\#9. <a href="https://hocusphotus.com/posts/virtual-connection-9/"> Dazanis - Nasios</a>
+\#9. <a href="https://hocusphotus.com/posts/virtual-connection-9/"> Dazanis - Nasios</a>  
 \#10. <a href="https://hocusphotus.com/posts/virtual-connection-10/"> Polonio - Nasios</a>
 
 ### Στη Ρωγμή του Χρόνου
