@@ -13,6 +13,7 @@ excerpt: 'Στη "Ρωγμή του Χρόνου" μυριάδες σκέψει�
 canonical_url: "/images/#5.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
 
 Πετούν πουλιά,  
  το χρόνο κυνηγούν  
