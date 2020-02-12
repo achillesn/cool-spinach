@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'sti rogmi tou chronou #5'
+title: 'Στη Ρωγμή του Χρόνου #5'
 subtitle: Τ' ουρανού τα μυστικά
 date: 2020-02-12 23:00:00 +0000
 thumb_img_path: "/images/#5.jpg"
