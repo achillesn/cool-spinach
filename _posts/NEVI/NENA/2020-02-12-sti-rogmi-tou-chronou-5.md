@@ -5,12 +5,12 @@ categories:
 title: 'Στη Ρωγμή του Χρόνου #5'
 subtitle: Τ' ουρανού τα μυστικά
 date: 2020-02-12 23:00:00 +0000
-thumb_img_path: "/images/#5.jpg"
-content_img_path: "/images/#5.jpg"
+thumb_img_path: "/images/NENA5.jpg"
+content_img_path: "/images/NENA5.jpg"
 excerpt: 'Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις αναδύονται ρομαντικά, μέσα από μια
   μόνο ματιά. Λέξεις που πασκίζουν να χτίσουν μια γέφυρα ανάμεσα σ'' αυτό που μιλά
   και σ'' εκείνο που δείχνει. '
-canonical_url: "/images/#5.jpg"
+canonical_url: "/images/NENA5.jpg"
 
 ---
 Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
