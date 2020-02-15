@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: to aggigma tou tipota
 subtitle: Απόσπασμα από "το Καπάκι της Αβύσσου".
 date: 2020-02-14 23:00:00 +0000
