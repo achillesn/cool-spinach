@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: to aggigma tou tipota
+title: Το άγγιγμα του τίποτα.
 subtitle: Απόσπασμα από "το Καπάκι της Αβύσσου".
 date: 2020-02-14 23:00:00 +0000
 thumb_img_path: "/images/41.img614.jpg"
