@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Synodeftiki epistoli #12'
 subtitle: Η ξιφομαχία
 date: 2020-02-17 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/11_MG_1620.jpg"
+content_img_path: "/images/11_MG_1620.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/11_MG_1620.jpg"
 
 ---
 Κάθε μέρα περνούσε δίπλα της τρέχοντας.
