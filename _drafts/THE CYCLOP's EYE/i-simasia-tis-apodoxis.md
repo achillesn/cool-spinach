@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: I simasia tis apodoxis
+title: Η σημασία της Αποδοχής
 subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-02-16 23:00:00 +0000
 thumb_img_path: "/images/2013-11-04-09.33.13.jpg"
