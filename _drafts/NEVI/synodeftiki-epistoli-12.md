@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Synodeftiki epistoli #12'
+title: 'Συνοδευτική επιστολή #12'
 subtitle: Η ξιφομαχία
 date: 2020-02-17 23:00:00 +0000
 thumb_img_path: "/images/11_MG_1620.jpg"
