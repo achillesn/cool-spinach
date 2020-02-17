@@ -14,6 +14,8 @@ excerpt: Η Συνοδευτική Επιστολή προσδοκά ν' ανα�
 canonical_url: "/images/11_MG_1620.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Κάθε μέρα περνούσε δίπλα της τρέχοντας.
 
 \-Γιατί βιάζεσαι του είπε;
