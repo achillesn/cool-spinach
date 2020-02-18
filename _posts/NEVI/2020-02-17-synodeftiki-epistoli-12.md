@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική επιστολή #12'
 subtitle: Ουράνια ξιφομαχία
-date: 2020-02-17 23:00:00 +0000
+date: 2020-02-16 23:00:00 +0000
 thumb_img_path: "/images/11_MG_1620.jpg"
 content_img_path: "/images/11_MG_1620.jpg"
 excerpt: Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
