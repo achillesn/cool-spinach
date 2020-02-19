@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #12'
 subtitle: GaNa
 date: 2020-02-18 23:00:00 +0000
