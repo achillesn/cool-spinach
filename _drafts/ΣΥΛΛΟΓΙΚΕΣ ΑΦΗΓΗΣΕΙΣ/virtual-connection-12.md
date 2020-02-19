@@ -36,3 +36,5 @@ canonical_url: "/images/07.GARO-1.jpg"
 ![](/images/09.GARO-1.jpg)
 
 ![](/images/10.GARO_MG_6640-1.jpg)
+
+Photo series: © <a href="https://www.facebook.com/gargaro65" target="blank">Garo Kalaydjian</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
