@@ -5,12 +5,12 @@ categories:
 title: 'Στη Ρωγμή του Χρόνου #6'
 subtitle: Παιχνίδια του μυαλού
 date: 2020-02-19 23:00:00 +0000
-thumb_img_path: "/images/#6s.JPG"
-content_img_path: "/images/#6s.JPG"
+thumb_img_path: "/images/SRX6.JPG"
+content_img_path: "/images/SRX6.JPG"
 excerpt: 'Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις αναδύονται ρομαντικά, μέσα από μια
   μόνο ματιά. Λέξεις που πασκίζουν να χτίσουν μια γέφυρα ανάμεσα σ'' αυτό που μιλά
   και σ'' εκείνο που δείχνει. '
-canonical_url: "/images/#6s.JPG"
+canonical_url: "/images/SRX6.JPG"
 
 ---
 Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
