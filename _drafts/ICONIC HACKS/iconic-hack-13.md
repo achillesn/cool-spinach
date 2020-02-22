@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Iconic Hack #13'
-subtitle: ''
+subtitle: Text by Lewis Carroll - Photo by Achilles Nasios
 date: 2020-02-22 23:00:00 +0000
 thumb_img_path: "/images/02_MG_1034.jpg"
 content_img_path: "/images/02_MG_1034.jpg"
