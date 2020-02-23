@@ -25,7 +25,7 @@ _Image + text (GR)_
 \#9. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-9/" target="blank">Μεταμορφώνοντας την εικόνα</a>  
 \#10.<a href="https://hocusphotus.com/posts/h-anapofefkti-prothesi/" target="blank">Η Αναπόφευκτη Πρόθεση</a>  
 \#11.<a href="https://hocusphotus.com/posts/anagnorizontas-ton-kodika/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>  
-\#12. <a href="https://hocusphotus.com/posts/i-simasia-tis-apodoxis/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>
+\#12. <a href="https://hocusphotus.com/posts/i-simasia-tis-apodoxis/" target="blank">Η σημασία της αποδοχής</a>
 
 ### Συνοδευτική Επιστολή
 
