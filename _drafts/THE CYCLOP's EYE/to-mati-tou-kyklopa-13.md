@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Η Αοριστία της Ποίησης
-subtitle: ''
+subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-02-23 23:00:00 +0000
 thumb_img_path: "/images/_MG_6505.jpg"
 content_img_path: "/images/13_MG_6505.jpg"
