@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Η Αοριστία της Ποίησης
 subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-02-23 23:00:00 +0000
