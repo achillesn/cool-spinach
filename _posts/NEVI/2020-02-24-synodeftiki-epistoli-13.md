@@ -11,6 +11,8 @@ excerpt: ''
 canonical_url: "/images/12_MG_2556.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Ξάπλωνα εκεί,  
 μετά τα ξεχνούσα όλα.
 
