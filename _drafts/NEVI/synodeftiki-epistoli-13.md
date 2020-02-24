@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #13'
+title: 'Συνοδευτική επιστολή #13'
 subtitle: ''
 date: 2020-02-24 23:00:00 +0000
 thumb_img_path: ''
