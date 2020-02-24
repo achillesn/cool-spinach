@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: 'Συνοδευτική επιστολή #13'
-subtitle: ''
+subtitle: Η μυστική κουβέρτα
 date: 2020-02-24 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
