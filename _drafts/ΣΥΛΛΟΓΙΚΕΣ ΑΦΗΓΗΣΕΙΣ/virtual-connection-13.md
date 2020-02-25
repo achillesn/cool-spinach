@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #13'
 subtitle: NaMa
 date: 2020-02-25 23:00:00 +0000
