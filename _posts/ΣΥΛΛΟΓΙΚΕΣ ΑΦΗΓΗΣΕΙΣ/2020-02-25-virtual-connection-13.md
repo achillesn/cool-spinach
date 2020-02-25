@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Virtual Connection #13'
 subtitle: NaMa
-date: 2020-02-25 23:00:00 +0000
+date: 2020-02-25 11:00:00 +0000
 thumb_img_path: "/images/08.MAVR.jpg"
 content_img_path: ''
 excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η καλύτερη απάντηση στα ερωτήματα που
