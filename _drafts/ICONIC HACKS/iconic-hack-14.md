@@ -12,3 +12,4 @@ excerpt: Listen to presences inside poems. Let them take you where they will. Fo
 canonical_url: "/images/03_MG_1042.jpg"
 
 ---
+"Imagination is the only weapon in the war against reality".
