@@ -11,3 +11,7 @@ canonical_url: "/images/01.MAVR_MG_9931.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
+
+![](/images/01.MAVR_MG_9931.jpg)
+
+![](/images/02.MAVR.jpg)
