@@ -35,3 +35,5 @@ canonical_url: "/images/08.MAVR.jpg"
 ![](/images/09.MAVR_MG_9982.jpg)
 
 ![](/images/10.MAVR.jpg)
+
+Photo series: © <a href="https://www.facebook.com/mavrozoymis.dimitris" target="blank">Dimitris Mavrozoumis</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
