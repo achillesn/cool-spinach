@@ -13,6 +13,8 @@ excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις
 canonical_url: "/images/7s.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Στα μάτια κοίτα τον καιρό που χάνεται  
 Μέρες και ώρες που όμως δε γυρίζουν πίσω  
 Αφήνουν μόνο μια γραμμή, το μόνο ίχνος τους
