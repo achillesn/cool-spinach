@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Sti rogmi tou chronou #7'
+title: 'Στη Ρωγμή του Χρόνου #7'
 subtitle: Στιγμές που φεύγουν
 date: 2020-02-26 23:00:00 +0000
 thumb_img_path: "/images/7s.jpg"
