@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική Επιστολή #14'
 subtitle: Στο στόμα του Δράκου
 date: 2020-03-02 23:00:00 +0000
