@@ -4,10 +4,10 @@ categories: []
 title: 'synodeftiki epistoli #14'
 subtitle: Στο στόμα του Δράκου
 date: 2020-03-02 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/13_MG_2442.jpg"
+content_img_path: "/images/13_MG_2442.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/13_MG_2442.jpg"
 
 ---
 Μέσα στο στόμα του δράκου  
