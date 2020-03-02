@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/13_MG_2442.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Μέσα στο στόμα του δράκου  
 έβρισκα φιλιά ξεχασμένα.  
 Φλόγες που έκαιγαν μονάχα εμένα.
