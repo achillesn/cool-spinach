@@ -4,10 +4,10 @@ categories: []
 title: 'Virtual Connection #14'
 subtitle: KaNa
 date: 2020-03-03 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/01.NEVI.jpg"
 content_img_path: ''
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/01.NEVI.jpg"
 
 ---
 ![](/images/01.NEVI.jpg)
