@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #14'
 subtitle: KaNa
 date: 2020-03-03 23:00:00 +0000
