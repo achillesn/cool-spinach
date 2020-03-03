@@ -34,3 +34,5 @@ canonical_url: "/images/01.NEVI.jpg"
 ![](/images/09.NEVI.jpg)
 
 ![](/images/10.NEVI_MG_6818.jpg)
+
+Photo series: © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
