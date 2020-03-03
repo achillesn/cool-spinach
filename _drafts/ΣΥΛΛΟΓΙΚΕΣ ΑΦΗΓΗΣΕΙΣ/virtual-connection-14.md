@@ -15,6 +15,8 @@ excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η κ�
 canonical_url: "/images/01.NEVI.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 ![](/images/01.NEVI.jpg)
 
 ![](/images/02.NEVI_MG_2288.jpg)
