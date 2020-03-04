@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'Sti rogmi tou chronou #8'
+title: 'Στη Ρωγμή του Χρόνου #8'
 subtitle: Σκιές κι Ελπίδες
 date: 2020-03-04 23:00:00 +0000
 thumb_img_path: ''
