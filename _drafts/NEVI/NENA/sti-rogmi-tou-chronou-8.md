@@ -4,10 +4,10 @@ categories: []
 title: 'Στη Ρωγμή του Χρόνου #8'
 subtitle: Σκιές κι Ελπίδες
 date: 2020-03-04 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/#8.jpg"
+content_img_path: "/images/#8.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/#8.jpg"
 
 ---
 Φως και σκιές  
