@@ -5,12 +5,12 @@ categories:
 title: 'Στη Ρωγμή του Χρόνου #8'
 subtitle: Σκιές κι Ελπίδες
 date: 2020-03-04 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/8RCH.jpg"
+content_img_path: "/images/8RCH.jpg"
 excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις αναδύονται ρομαντικά, μέσα από μια
   μόνο ματιά. Λέξεις που πασκίζουν να χτίσουν μια γέφυρα ανάμεσα σ' αυτό που μιλά
   και σ' εκείνο που δείχνει.
-canonical_url: ''
+canonical_url: "/images/8RCH.jpg"
 
 ---
 Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
