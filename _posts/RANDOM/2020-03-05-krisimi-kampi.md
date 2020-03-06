@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Κρίσιμη Καμπή
 subtitle: ''
 date: 2020-03-05 23:00:00 +0000
