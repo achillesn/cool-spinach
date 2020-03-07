@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: to preloudio tou skotadiou
+title: Το Πρελούδιο του Σκοταδιού
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2020-03-06 23:00:00 +0000
 thumb_img_path: "/images/img077.jpg"
