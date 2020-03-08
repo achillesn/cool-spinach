@@ -62,7 +62,8 @@ _Visual Poetry_
 \#9. <a href="https://hocusphotus.com/posts/virtual-connection-9/"> Dazanis - Nasios</a>  
 \#10. <a href="https://hocusphotus.com/posts/virtual-connection-10/"> Polonio - Nasios</a>  
 \#11. <a href="https://hocusphotus.com/posts/virtual-connection-11/"> Spitzinger - Nasios</a>  
-\#12. <a href="https://hocusphotus.com/posts/virtual-connection-12/"> Kalaydjian - Nasios</a>
+\#12. <a href="https://hocusphotus.com/posts/virtual-connection-12/"> Kalaydjian - Nasios</a>  
+\#13. <a href="https://hocusphotus.com/posts/virtual-connection-13/"> Mavrozoumis - Nasios</a>
 
 ### Στη Ρωγμή του Χρόνου
 
