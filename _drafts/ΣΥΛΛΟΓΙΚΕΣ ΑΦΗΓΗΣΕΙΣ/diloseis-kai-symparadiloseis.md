@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Δηλώσεις και Συμπαραδηλώσεις
 subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-03-08 23:00:00 +0000
