@@ -107,7 +107,8 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/happy-fields-1/" target="blank">Happy Fields</a>  
 <a href="https://hocusphotus.com/posts/air-and-fire/" target="blank">Air and Fire</a>  
 <a href="https://hocusphotus.com/posts/cross-covariances/" target="blank">Cross-Covariances</a>  
-<a href="https://hocusphotus.com/posts/today-s-yesterday/" target="blank">Today´s Yesterday</a>
+<a href="https://hocusphotus.com/posts/today-s-yesterday/" target="blank">Today´s Yesterday</a>  
+<a href="https://hocusphotus.com/posts/krisimi-kampi/" target="blank">Κρίσιμη Καμπή</a>
 
 **_Texts.gr_**
 
