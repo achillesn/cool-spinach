@@ -76,7 +76,8 @@ _Image + poetry (GR)_
 \#4. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-4/" target="blank">Σταθερό Σημείο</a>  
 \#5. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-5/" target="blank">Τ' ουρανού τα μυστικά</a>  
 \#6. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-6/" target="blank">Παιχνίδια του Μυαλού</a>  
-\#7. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-7/" target="blank">Στιγμές που φεύγουν</a>#8. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-8/" target="blank">Σκιές κι Ελπίδες</a>
+\#7. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-7/" target="blank">Στιγμές που φεύγουν</a>  
+\#8. <a href="https://hocusphotus.com/posts/sti-rogmi-tou-chronou-8/" target="blank">Σκιές κι Ελπίδες</a>
 
 ### Sing Your Soul Out
 
