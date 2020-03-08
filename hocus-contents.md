@@ -43,7 +43,8 @@ _Image + poetry (GR)_
 \#9. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-9/" target="blank">Το τέλος του κόσμου</a>  
 \#10. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-10/" target="blank">Το κρυφτό</a>  
 \#11. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-11/" target="blank">Αυτό που είχα φοβηθεί</a>  
-\#12. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-12/" target="blank">Ουράνια ξιφομαχία</a>
+\#12. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-12/" target="blank">Ουράνια ξιφομαχία</a>  
+\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a>
 
 ### Virtual Connections
 
