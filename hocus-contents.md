@@ -121,7 +121,8 @@ _Image + Text (EN)_
 <a href="https://hocusphotus.com/posts/ermaio-sta-xnaria-tis-empnefsis/" target="blank">Έρμαιο στα Χνάρια της Έμπνευσης</a>  
 <a href="https://hocusphotus.com/posts/stin-epikrateia-tou-vlematos/" target="blank">Στην επικράτεια του βλέμματος</a>  
 <a href="https://hocusphotus.com/posts/sta-dyxtia-tis-afairesis/" target="blank">Στα Δίχτυα της Αφαίρεσης</a>  
-<a href="https://hocusphotus.com/posts/i-siopi-tis-armonias/" target="blank">Η Σιωπή της Αρμονίας</a>
+<a href="https://hocusphotus.com/posts/i-siopi-tis-armonias/" target="blank">Η Σιωπή της Αρμονίας</a>  
+<a href="https://hocusphotus.com/posts/to-preloudio-tou-skotadiou/" target="blank">Το Πρελούδιο του Σκοταδιού</a>
 
 **_Music_**
 
