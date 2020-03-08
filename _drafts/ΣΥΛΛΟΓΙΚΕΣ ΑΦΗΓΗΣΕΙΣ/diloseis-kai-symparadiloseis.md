@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: Diloseis kai symparadiloseis
+title: Δηλώσεις και Συμπαραδηλώσεις
 subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-03-08 23:00:00 +0000
 thumb_img_path: "/images/13_MG_6505.jpg"
