@@ -4,10 +4,10 @@ categories: []
 title: 'synodeftiki epistoli #15'
 subtitle: Η ανυπομονησία του κύκνου
 date: 2020-03-09 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/14_MG_1629.jpg"
+content_img_path: "/images/14_MG_1629.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/14_MG_1629.jpg"
 
 ---
 Μερικές μέρες δεν μπορούσα να γυρίσω πίσω.  
