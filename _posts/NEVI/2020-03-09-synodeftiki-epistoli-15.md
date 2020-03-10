@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική Επιστολή #15'
 subtitle: Η μοναξιά του κύκνου
-date: 2020-03-08 23:00:00 +0000
+date: 2020-03-09 23:00:00 +0000
 thumb_img_path: "/images/14_MG_1629.jpg"
 content_img_path: "/images/14_MG_1629.jpg"
 excerpt: Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
