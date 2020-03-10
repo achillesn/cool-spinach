@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #15'
+title: 'Συνοδευτική Επιστολή #15'
 subtitle: Η ανυπομονησία του κύκνου
 date: 2020-03-09 23:00:00 +0000
 thumb_img_path: "/images/14_MG_1629.jpg"
