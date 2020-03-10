@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #15'
 subtitle: NaTsi
 date: 2020-03-10 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/08.TSILIS.jpg"
 content_img_path: ''
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/08.TSILIS.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
@@ -23,3 +24,7 @@ canonical_url: ''
 ![](/images/05.TSILIS_MG_3965.jpg)
 
 ![](/images/06.TSILIS.jpg)
+
+![](/images/07.TSILIS_GRAVITY.jpg)
+
+![](/images/08.TSILIS.jpg)
