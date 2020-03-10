@@ -13,6 +13,8 @@ excerpt: Η Συνοδευτική Επιστολή προσδοκά ν' ανα�
 canonical_url: "/images/14_MG_1629.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Μερικές μέρες δεν μπορούσα να γυρίσω πίσω.  
 O λαιμός μου ήταν μακρύς κι ευαίσθητος
 
