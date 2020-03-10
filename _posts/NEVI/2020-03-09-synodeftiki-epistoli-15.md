@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική Επιστολή #15'
 subtitle: Η ανυπομονησία του κύκνου
 date: 2020-03-09 23:00:00 +0000
