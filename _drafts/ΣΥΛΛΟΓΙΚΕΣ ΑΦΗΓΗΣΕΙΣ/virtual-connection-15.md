@@ -36,3 +36,5 @@ canonical_url: "/images/08.TSILIS.jpg"
 ![](/images/09.TSILIS_MG_9317.jpg)
 
 ![](/images/10.TSILIS.jpg)
+
+Photo series: © <a href="https://www.facebook.com/tsilis.george" target="blank">George Tsilis</a> and  <a href="https://anikon.org/"  target="blank">Achilles Nasios</a>
