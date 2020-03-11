@@ -4,10 +4,10 @@ categories: []
 title: 'Sti rogmi tou chronou #9'
 subtitle: Σκιαγραφόντας
 date: 2020-03-11 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/9s.jpg"
+content_img_path: "/images/9s.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/9s.jpg"
 
 ---
 Σκιαγραφόντας τα σημάδια βρίσκεις ζωή  
