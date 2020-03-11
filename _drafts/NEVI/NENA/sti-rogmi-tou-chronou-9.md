@@ -1,12 +1,15 @@
 ---
 layout: post
-categories: []
-title: 'Sti rogmi tou chronou #9'
+categories:
+- News
+title: 'Στη Ρωγμή του Χρόνου #9'
 subtitle: Σκιαγραφόντας
 date: 2020-03-11 23:00:00 +0000
 thumb_img_path: "/images/9s.jpg"
 content_img_path: "/images/9s.jpg"
-excerpt: ''
+excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις αναδύονται ρομαντικά, μέσα από μια
+  μόνο ματιά. Λέξεις που πασκίζουν να χτίσουν μια γέφυρα ανάμεσα σ' αυτό που μιλά
+  και σ' εκείνο που δείχνει.
 canonical_url: "/images/9s.jpg"
 
 ---
