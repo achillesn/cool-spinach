@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: o syllektis tis elpidas
+title: Ο Συλλέκτης της Ελπίδας
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2020-03-13 23:00:00 +0000
 thumb_img_path: ''
