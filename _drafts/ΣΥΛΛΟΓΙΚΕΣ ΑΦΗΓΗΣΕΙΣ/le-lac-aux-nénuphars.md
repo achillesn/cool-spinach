@@ -15,4 +15,4 @@ canonical_url: "/images/noufara.jpg"
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/397318996" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+Video © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
