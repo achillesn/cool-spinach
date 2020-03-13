@@ -7,7 +7,7 @@ subtitle: Η λίμνη με τα νούφαρα
 date: 2020-03-12 23:00:00 +0000
 thumb_img_path: "/images/noufara.jpg"
 content_img_path: ''
-excerpt: Η λίμνη με τα νούφαρα σε video-art απόδωση, από τον Achilles Nasios.
+excerpt: Η λίμνη με τα νούφαρα σε σύγχρονη απόδωση, από τον Achilles Nasios.
 canonical_url: "/images/noufara.jpg"
 
 ---
