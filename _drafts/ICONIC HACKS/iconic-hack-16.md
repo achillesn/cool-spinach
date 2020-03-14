@@ -12,3 +12,4 @@ excerpt: Listen to presences inside poems. Let them take you where they will. Fo
 canonical_url: "/images/04_MG_1031.jpg"
 
 ---
+"It’s no use going back to yesterday because I was a different person then".
