@@ -14,6 +14,8 @@ excerpt: " Ένα σύμβολο ποτέ δεν είναι αυθαίρετο. 
 canonical_url: "/images/13_MG_6505.jpg"
 
 ---
+Photo and text by <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 ... Τώρα ήμουν πανέτοιμος να πάρω το λόγο:
 
 \- “I'm afraid I can't explain myself, sir. Because I am not myself, you see?”
