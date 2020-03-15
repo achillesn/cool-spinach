@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
-title: 'to mati tou kyklopa #15'
-subtitle: Η Ευαισθησία της Ανάγνωσης
+categories:
+- News
+title: Η Ευαισθησία της Ανάγνωσης
+subtitle: Απόσπασμα από "Το Μάτι του Κύκλωπα"
 date: 2020-03-15 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/13_MG_6505.jpg"
+content_img_path: "/images/13_MG_6505.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/13_MG_6505.jpg"
 
 ---
 ... Τώρα ήμουν πανέτοιμος να πάρω το λόγο:
