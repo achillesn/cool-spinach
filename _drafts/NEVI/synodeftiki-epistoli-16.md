@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: 'synodeftiki epistoli #16'
-subtitle: Τ
+subtitle: Το μυστικό
 date: 2020-03-16 23:00:00 +0000
 thumb_img_path: "/images/15_MG_2613.jpg"
 content_img_path: "/images/15_MG_2613.jpg"
