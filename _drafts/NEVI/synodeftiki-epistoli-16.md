@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #16'
+title: 'Συνοδευτική Επιστολή #16'
 subtitle: Το μυστικό
 date: 2020-03-16 23:00:00 +0000
 thumb_img_path: "/images/15_MG_2613.jpg"
