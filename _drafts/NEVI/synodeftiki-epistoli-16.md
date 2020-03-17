@@ -10,6 +10,8 @@ excerpt: ''
 canonical_url: "/images/15_MG_2613.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Στο παγκάκι αυτό, την αλληλογραφία μου συντηρώ.  
 Φέρνω χαρτί υπόλευκο και την καλή μου πένα.  
 Όταν χιονίζει,  
