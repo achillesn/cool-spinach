@@ -37,4 +37,4 @@ canonical_url: "/images/01.DaNa.jpg"
 
 ![](/images/10-2.jpg)
 
- series: © <a href="https://www.facebook.com/nataly.dannenberg" target="blank">Nataly Dannenberg</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+Photo series: © <a href="https://www.facebook.com/nataly.dannenberg" target="blank">Nataly Dannenberg</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
