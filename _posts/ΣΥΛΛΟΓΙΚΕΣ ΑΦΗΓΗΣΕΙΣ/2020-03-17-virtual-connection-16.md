@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #16'
 subtitle: DaNa
 date: 2020-03-17 23:00:00 +0000
