@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: 'Sti rogmi tou chronou #10'
-subtitle: ''
+title: 'Στη Ρωγμή του Χρόνου #10'
+subtitle: "¨Εξω και Μέσα"
 date: 2020-03-18 23:00:00 +0000
 thumb_img_path: "/images/10s.jpg"
 content_img_path: "/images/10s.jpg"
