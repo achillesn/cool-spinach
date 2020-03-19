@@ -5,10 +5,10 @@ categories:
 title: 'Sti rogmi tou chronou #10'
 subtitle: ''
 date: 2020-03-18 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/10s.jpg"
+content_img_path: "/images/10s.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/10s.jpg"
 
 ---
 Πίσω απ' τα κάγκελα του νου  
