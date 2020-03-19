@@ -11,6 +11,8 @@ excerpt: ''
 canonical_url: "/images/10s.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Πίσω απ' τα κάγκελα του νου  
 ο κόσμος φυλακίζει τα παιδιά του
 
