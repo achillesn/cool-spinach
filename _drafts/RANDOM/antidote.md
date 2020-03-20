@@ -10,4 +10,4 @@ excerpt: ''
 canonical_url: ''
 
 ---
-https://www.n1m.com/charts?song_id=893503&genre_id=101&geo=national&country_id=205&state_id=0&pos=1&songs_total=4&page=1&no_nag=1&utm_source=top
+ <a href="https://www.n1m.com/charts?song_id=893503&genre_id=101&geo=_&country_id=205&state_id=0&pos=1&songs_total=4&page=1&no_nag=1&utm_source=top" target="blank">_ΑΝΤΙΔΟΤΟ</a>
