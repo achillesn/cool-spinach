@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: Antidote
-subtitle: ''
+subtitle: 'Στίχοι, μουσική: Αχιλλέας Νάσιος'
 date: 2020-03-19 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
