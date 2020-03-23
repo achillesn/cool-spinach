@@ -66,7 +66,7 @@ _Visual Poetry_
 \#13. <a href="https://hocusphotus.com/posts/virtual-connection-13/"> Mavrozoumis - Nasios</a>  
 \#14. <a href="https://hocusphotus.com/posts/virtual-connection-14/"> Kaninia - Nasios</a>  
 \#15. <a href="https://hocusphotus.com/posts/virtual-connection-15/"> Tsilis - Nasios</a>  
-\#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Tsilis - Nasios</a>
+\#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Dannenberg - Nasios</a>
 
 ### Στη Ρωγμή του Χρόνου
 
