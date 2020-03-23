@@ -27,7 +27,8 @@ _Image + text (GR)_
 \#11.<a href="https://hocusphotus.com/posts/anagnorizontas-ton-kodika/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>  
 \#12. <a href="https://hocusphotus.com/posts/i-simasia-tis-apodoxis/" target="blank">Η σημασία της αποδοχής</a>  
 \#13. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-13/" target="blank">Η Αοριστία της Ποίησης</a>  
-\#14. <a href="https://hocusphotus.com/posts/diloseis-kai-symparadiloseis/" target="blank">Δηλώσεις και Συμπαραδηλώσεις</a>
+\#14. <a href="https://hocusphotus.com/posts/diloseis-kai-symparadiloseis/" target="blank">Δηλώσεις και Συμπαραδηλώσεις</a>  
+\#15. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-15/" target="blank">Η ευαισθησία της Ανάγνωσης</a>
 
 ### Συνοδευτική Επιστολή
 
