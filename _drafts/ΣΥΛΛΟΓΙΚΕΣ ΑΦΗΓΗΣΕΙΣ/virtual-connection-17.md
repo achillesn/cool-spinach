@@ -36,3 +36,5 @@ canonical_url: "/images/03.MiNa.jpg"
 ![](/images/09.MiNa.jpg)
 
 ![](/images/10.MiNa_MG_3240.jpg)
+
+Photo series: © <a href="https://www.facebook.com/michalopoulosaris" target="blank">Aris Michalopoulos</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
