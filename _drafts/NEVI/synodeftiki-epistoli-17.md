@@ -14,6 +14,8 @@ excerpt: Η Συνοδευτική Επιστολή προσδοκά ν' ανα�
 canonical_url: "/images/16.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Τα βράδια μέσα από τις πρίζες  
 περνούσαν οι ληγμένοι έρωτες.  
 Παλιοί λογαριασμοί απλήρωτοι,  
