@@ -1,13 +1,18 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Virtual Connection #17'
 subtitle: MiNa
 date: 2020-03-24 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/03.MiNa.jpg"
 content_img_path: ''
-excerpt: ''
-canonical_url: ''
+excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η καλύτερη απάντηση στα ερωτήματα που
+  θέτει μια εικόνα, είναι μια άλλη εικόνα. Η αγάπη δεν είναι ζήτημα ατομικό, αλλά
+  κοινό. Είναι σπουδαίο να μπορεί να μοιραστεί. Εδώ παρουσιάζονται συνδέσεις φίλων,
+  άγνωστων και γνωστών, που έχουν μαζί κάτι να πουν, αγγίζοντας ο ένας τον άλλον με
+  εικόνες...
+canonical_url: "/images/03.MiNa.jpg"
 
 ---
 ![](/images/bwok-2.jpg)
