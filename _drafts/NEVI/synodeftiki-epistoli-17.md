@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'synodeftiki epistoli #17'
 subtitle: Στην Αναμονή
 date: 2020-03-23 23:00:00 +0000
