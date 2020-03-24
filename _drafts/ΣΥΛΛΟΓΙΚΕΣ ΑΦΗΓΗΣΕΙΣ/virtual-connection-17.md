@@ -21,3 +21,13 @@ canonical_url: ''
 ![](/images/04.MiNa_MG_3259.jpg)
 
 ![](/images/05.Mina.jpg)
+
+![](/images/06.MiNa_MG_7438.jpg)
+
+![](/images/07.MiNa.jpg)
+
+![](/images/08_MG_3189.jpg)
+
+![](/images/09.MiNa.jpg)
+
+![](/images/10.MiNa_MG_3240.jpg)
