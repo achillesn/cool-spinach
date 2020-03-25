@@ -12,6 +12,8 @@ excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις
 canonical_url: "/images/11.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Θολές στιγμές  
 ζωές χαμένες  
 κρυφές ευχές  
@@ -27,7 +29,6 @@ canonical_url: "/images/11.jpg"
 μισές εικόνες  
 σαν ευκαιρίες χαμένες
 
-  
 Λέξεις κοφτές  
 παράξενες φωτιές σβησμένες  
 άγουρες σκέψεις  
