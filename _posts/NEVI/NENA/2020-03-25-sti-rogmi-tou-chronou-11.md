@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Στη Ρωγμή του Χρόνου #11'
 subtitle: Όλα Θολά
 date: 2020-03-25 23:00:00 +0000
