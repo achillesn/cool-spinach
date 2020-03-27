@@ -14,3 +14,5 @@ canonical_url: "/images/000_MG_7683-1.jpg"
 ![](/images/bwok-2.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xLUq_nsElWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Music by <a href="https://www.youtube.com/user/MobyStuff" target="blank">Moby</a> - Photography by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
