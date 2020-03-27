@@ -4,10 +4,12 @@ categories: []
 title: Geografies
 subtitle: ''
 date: 2020-03-26 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/000_MG_7683.jpg"
 content_img_path: ''
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/000_MG_7683-1.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xLUq_nsElWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
