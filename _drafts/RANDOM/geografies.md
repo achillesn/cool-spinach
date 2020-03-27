@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Geografies
 subtitle: ''
 date: 2020-03-26 23:00:00 +0000
