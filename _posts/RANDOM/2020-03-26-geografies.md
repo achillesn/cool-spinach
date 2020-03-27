@@ -7,7 +7,8 @@ subtitle: ''
 date: 2020-03-26 23:00:00 +0000
 thumb_img_path: "/images/000_MG_7683.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: Ένα βίντεο που παρουσιάζει αεροφωτογραφίες του Αχιλλέα Νάσιου σαν συνοδεία
+  του Long Abient III του Moby.
 canonical_url: "/images/000_MG_7683-1.jpg"
 
 ---
