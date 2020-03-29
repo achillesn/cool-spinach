@@ -21,7 +21,7 @@ _Image + text (GR)_
 \#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kylopa-5/" target="blank">Για μια Ποιότητα της Σημασίας</a>  
 \#6. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-6/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.1</a>  
 \#7. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-7/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.2</a>  
-\#8. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-8/" target="blank">Μεταμορφώνοντας την πραγματικότητα</a>  
+\#8. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-8-1/" target="blank">Μεταμορφώνοντας την πραγματικότητα</a>  
 \#9. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-9/" target="blank">Μεταμορφώνοντας την εικόνα</a>  
 \#10.<a href="https://hocusphotus.com/posts/h-anapofefkti-prothesi/" target="blank">Η Αναπόφευκτη Πρόθεση</a>  
 \#11.<a href="https://hocusphotus.com/posts/anagnorizontas-ton-kodika/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>  
