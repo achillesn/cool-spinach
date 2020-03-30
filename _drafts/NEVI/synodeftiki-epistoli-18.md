@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
-title: 'synodeftiki epistoli #18'
-subtitle: Βουκαμβίλια
+categories:
+- News
+title: 'Συνοδευτική επιστολή #18'
+subtitle: Η Βουκαμβίλια
 date: 2020-03-30 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/17..jpg"
+content_img_path: "/images/17..jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/17..jpg"
 
 ---
 Κάθισα στο μπαλκόνι μου,  
