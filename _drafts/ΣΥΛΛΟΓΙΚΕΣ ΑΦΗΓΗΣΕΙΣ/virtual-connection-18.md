@@ -33,3 +33,5 @@ canonical_url: "/images/10. NaKa.jpg"
 ![](/images/09.NaKa.jpg)
 
 ![](/images/10. NaKa.jpg)
+
+Photo series: © <a href="https://www.facebook.com/diran.kalaydjian" target="blank">Diran Kalaydjian</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
