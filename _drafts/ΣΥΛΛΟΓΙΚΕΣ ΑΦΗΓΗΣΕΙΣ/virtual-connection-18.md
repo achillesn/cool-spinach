@@ -14,6 +14,8 @@ excerpt: Για μια εμβάθυνση στον οπτικό λόγο, η κ�
 canonical_url: "/images/10. NaKa.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 ![](/images/01.ΝαΚα_MG_3659.jpg)
 
 ![](/images/02. NaKa.jpg)
@@ -34,4 +36,4 @@ canonical_url: "/images/10. NaKa.jpg"
 
 ![](/images/10. NaKa.jpg)
 
-Photo series: © <a href="https://www.facebook.com/diran.kalaydjian" target="blank">Diran Kalaydjian</a> and  <a href="[https://anikon.org/"  target="blank">Achilles Nasios</a>
+Photo series: © <a href="https://www.facebook.com/diran.kalaydjian" target="blank">Diran Kalaydjian</a> and  <a href="\[https://anikon.org/"  target="blank">Achilles Nasios</a>
