@@ -13,6 +13,8 @@ excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις
 canonical_url: "/images/12s.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Κάθε λεπτό θολή στιγμή του παραλόγου  
 κάθε στιγμή λεπτή γραμμή του ρολογιού  
 κι όταν γυρίσεις να κοιτάξεις τα σκοτάδια  
