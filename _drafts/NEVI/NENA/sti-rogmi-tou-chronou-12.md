@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Sti rogmi tou chronou #12'
+title: 'Στη Ρωγμή του Χρόνου #12'
 subtitle: Αργές Κινήσεις
 date: 2020-04-01 22:00:00 +0000
 thumb_img_path: "/images/12s.jpg"
