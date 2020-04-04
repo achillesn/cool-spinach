@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Η γιορτή της Ανάσας
 subtitle: ''
 date: 2020-04-03 22:00:00 +0000
