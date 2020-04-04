@@ -10,3 +10,4 @@ excerpt: ''
 canonical_url: ''
 
 ---
+"I’m trying to free your mind. But I can only show you the door. You’re the one that has to walk through it."
