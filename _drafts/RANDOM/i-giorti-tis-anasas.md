@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: I giorti tis anasas
+title: Η γιορτή της Ανάσας
 subtitle: ''
 date: 2020-04-03 22:00:00 +0000
 thumb_img_path: "/images/01_MG_2921.jpg"
