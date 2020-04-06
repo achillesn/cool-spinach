@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Η Μυστική Συμμαχία
-subtitle: ''
+subtitle: 'Φωτογραφία - κείμενο: Αχιλλέας Νάσιος'
 date: 2020-04-05 22:00:00 +0000
 thumb_img_path: "/images/02.2_MG_2337.jpg"
 content_img_path: "/images/02.2_MG_2337.jpg"
