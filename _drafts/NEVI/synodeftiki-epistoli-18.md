@@ -11,6 +11,8 @@ excerpt: ''
 canonical_url: "/images/18.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Τότε που είχαμε βγει βόλτα και είχε ψύχρα καλοκαιρινή  
 έριξα στους ώμους ένα ζακετάκι,  
 που είχε πλέξη χαλαρή  
