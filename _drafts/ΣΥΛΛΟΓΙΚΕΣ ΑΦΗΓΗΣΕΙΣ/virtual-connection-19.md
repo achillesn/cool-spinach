@@ -20,4 +20,6 @@ canonical_url: ''
 
 ![](/images/05.STAM2.jpg)
 
+![](/images/06.STAM2_MG_2220.jpg)
+
 ![](/images/07.STAM2.jpg)
