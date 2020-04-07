@@ -34,3 +34,5 @@ canonical_url: "/images/06.STAM2_MG_2220.jpg"
 ![](/images/09.STAM2.jpg)
 
 ![](/images/10.STAM2_MG_8445.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=1537524844" target="blank">Stavros Stamatiou</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
