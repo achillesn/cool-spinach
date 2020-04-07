@@ -10,3 +10,14 @@ excerpt: ''
 canonical_url: ''
 
 ---
+![](/images/01.STAM2.jpg)
+
+![](/images/02.STAM2_MG_0499.jpg)
+
+![](/images/03.STAM2.jpg)
+
+![](/images/04.STAM2_MG_1149.jpg)
+
+![](/images/05.STAM2.jpg)
+
+![](/images/07.STAM2.jpg)
