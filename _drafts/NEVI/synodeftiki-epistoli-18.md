@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
-title: 'synodeftiki epistoli #18'
+categories:
+- News
+title: 'synodeftiki epistoli #19'
 subtitle: Το χαμένο κουμπί
 date: 2020-04-06 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/18.jpg"
+content_img_path: "/images/18.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/18.jpg"
 
 ---
 Τότε που είχαμε βγει βόλτα και είχε ψύχρα καλοκαιρινή  
