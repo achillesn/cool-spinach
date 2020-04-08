@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Sti rogmi tou chronou #13'
+title: 'Στη Ρωγμή του Χρόνου #13'
 subtitle: Κάτι σκιές...
 date: 2020-04-08 22:00:00 +0000
 thumb_img_path: "/images/13.rogmi.jpg"
