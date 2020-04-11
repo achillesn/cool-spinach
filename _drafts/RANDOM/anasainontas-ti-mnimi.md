@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: anasainontas ti mnimi
+title: Ανασαίνοντας τη Μνήμη
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2020-04-10 22:00:00 +0000
 thumb_img_path: "/images/img551.jpg"
