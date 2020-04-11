@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Ανασαίνοντας τη Μνήμη
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2020-04-10 22:00:00 +0000
