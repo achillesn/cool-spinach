@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: i siopi tis prosmonis
-subtitle: ''
+subtitle: 'Φωτογραφία -  κείμενο: Αχιλλέας Νάσιος'
 date: 2020-04-12 22:00:00 +0000
 thumb_img_path: "/images/Anodus_MG_3851.jpg"
 content_img_path: "/images/Anodus_MG_3851.jpg"
