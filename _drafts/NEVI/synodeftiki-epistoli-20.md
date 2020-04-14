@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #20'
+title: 'Συνοδευτική επιστολή #20'
 subtitle: Οι ιπτάμενες καρδιές
 date: 2020-04-13 22:00:00 +0000
 thumb_img_path: "/images/19.jpg"
