@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Virtual Connection #20'
-subtitle: ''
+subtitle: GiaNa
 date: 2020-04-14 22:00:00 +0000
 thumb_img_path: "/images/01. GiaNa.jpg"
 content_img_path: ''
