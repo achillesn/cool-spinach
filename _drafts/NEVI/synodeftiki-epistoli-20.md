@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/19.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Ενώ έστριβε να φέρει το μήνυμα,  
 χτύπησε στον τοίχο  
 και οι καρδιές ξεχύθηκαν στην πόλη.
