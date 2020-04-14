@@ -33,6 +33,8 @@ canonical_url: "/images/01. GiaNa.jpg"
 
 ![](/images/08.-GiaNa_MG_6514.jpg)
 
-![](/images/09. GiaNa.jpg)![](/images/10. ΓιαΝα.jpg)
+![](/images/09. GiaNa.jpg)
+
+![](/images/10. ΓιαΝα.jpg)
 
 Photo series: © <a href="https://www.facebook.com/agiakoumakis" target="blank">Antonis Giakoumakis</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
