@@ -1,15 +1,16 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Στη Ρωγμή του χρόνου #14'
 subtitle: Γκρίζα σκιά
 date: 2020-04-15 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/14.ROGMI.jpg"
+content_img_path: "/images/14.ROGMI.jpg"
 excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις αναδύονται ρομαντικά, μέσα από μια
   μόνο ματιά. Λέξεις που πασκίζουν να χτίσουν μια γέφυρα ανάμεσα σ' αυτό που μιλά
   και σ' εκείνο που δείχνει.
-canonical_url: ''
+canonical_url: "/images/14.ROGMI.jpg"
 
 ---
 Μαύρα γυαλιά  
