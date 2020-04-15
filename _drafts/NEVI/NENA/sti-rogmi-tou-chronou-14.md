@@ -13,6 +13,8 @@ excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις
 canonical_url: "/images/14.ROGMI.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
+
 Μαύρα γυαλιά  
 στης φαντασίας σου τον κόσμο,   
 όλα καλά  
