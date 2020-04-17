@@ -4,7 +4,7 @@ categories:
 - News
 title: Το όνειρο της ζωής
 subtitle: Το όνειρο της ζωής
-date: 2020-04-16 22:00:00 +0000
+date: 2020-04-15 22:00:00 +0000
 thumb_img_path: "/images/nasiosaG2.2.jpg"
 content_img_path: "/images/nasiosaG2.2.jpg"
 excerpt: Ήμουν ναυαγός μέσα σ’ ένα πηγάδι, που ο ίδιος είχα χτίσει, χωρίς να το ξέρει
