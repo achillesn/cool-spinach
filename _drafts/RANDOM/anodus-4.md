@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: anodus 4
 subtitle: Το όνειρο της ζωής
 date: 2020-04-16 22:00:00 +0000
