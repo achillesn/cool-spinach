@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Erevnontas tin armonia
+title: Ερευνώντας την Αρμονία
 subtitle: Απόσπασμα από "Το Καπάκι της Αβύσσου"
 date: 2020-04-17 22:00:00 +0000
 thumb_img_path: "/images/img466.jpg"
