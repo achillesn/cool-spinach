@@ -12,3 +12,4 @@ excerpt: Listen to presences inside poems. Let them take you where they will. Fo
 canonical_url: "/images/10_MG_1063.jpg"
 
 ---
+"You aren’t doing it wrong if no one knows what you are doing."
