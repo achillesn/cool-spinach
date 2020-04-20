@@ -35,3 +35,5 @@ canonical_url: "/images/01. NiNa.jpg"
 ![](/images/09. NiNa.jpg)
 
 ![](/images/10_MG_1693.jpg)
+
+Photo series: © <a href="https://www.facebook.com/nikos.nikopoulos.96" target="blank">Nikos Nikopoulos</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
