@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'synodeftiki epistoli #21'
 subtitle: Τα γάντια
 date: 2020-04-21 22:00:00 +0000
