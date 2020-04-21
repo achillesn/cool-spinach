@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #21'
+title: 'Συνοδευτική Επιστολή #21'
 subtitle: Τα γάντια
 date: 2020-04-21 22:00:00 +0000
 thumb_img_path: "/images/20.jpg"
