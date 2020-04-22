@@ -13,6 +13,7 @@ excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις
 canonical_url: "/images/15.jpg"
 
 ---
+Photo and text by <a href="https://www.facebook.com/nena.mar.9" target="blank">Ελένη Μαράντου</a>
 
 Μυστήριο στην άκρη των ωκεανών  
 χάνεται πέρα από τα κύματα  
