@@ -1,13 +1,16 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Sti rogmi tou chronou #15'
 subtitle: Μυστήρια Θέα
 date: 2020-04-22 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/15.jpg"
+content_img_path: "/images/15.jpg"
+excerpt: Στη "Ρωγμή του Χρόνου" μυριάδες σκέψεις αναδύονται ρομαντικά, μέσα από μια
+  μόνο ματιά. Λέξεις που πασκίζουν να χτίσουν μια γέφυρα ανάμεσα σ' αυτό που μιλά
+  και σ' εκείνο που δείχνει.
+canonical_url: "/images/15.jpg"
 
 ---
 
