@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Sti rogmi tou chronou #15'
+title: 'Στη Ρωγμή του Χρόνου #15'
 subtitle: Μυστήρια Θέα
 date: 2020-04-22 22:00:00 +0000
 thumb_img_path: "/images/15.jpg"
