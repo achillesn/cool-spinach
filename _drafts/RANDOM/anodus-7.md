@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: anodus 7
+title: Ο χρόνος των αλλαγών
 subtitle: 'Φωτογραφία -  κείμενο: Αχιλλέας Νάσιος'
 date: 2020-04-26 22:00:00 +0000
 thumb_img_path: "/images/anodus7_MG_1149.jpg"
