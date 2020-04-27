@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #22'
+title: 'Συνοδευτική Επιστολή #22'
 subtitle: Η Απόδραση
 date: 2020-04-27 22:00:00 +0000
 thumb_img_path: "/images/01.jpg"
