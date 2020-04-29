@@ -46,3 +46,5 @@ canonical_url: "/images/12.1.MASTANA.jpg"
 ![](/images/14.1.MASTANA.jpg)
 
 ![](/images/15.1.MASTANA.jpg)
+
+Photo series: ©<a href="https://www.facebook.com/dimitris.makrygiannakis" target="blank">Dimitris Makrygiannakis</a> - <a href="https://www.facebook.com/profile.php?id=1537524844" target="blank">Stavros Stamatiou</a> - <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
