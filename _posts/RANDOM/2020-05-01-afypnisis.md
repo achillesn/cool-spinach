@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Αφύπνηση
+title: Αφύπνιση
 subtitle: ''
 date: 2020-05-01 22:00:00 +0000
 thumb_img_path: "/images/afypnisis.jpg"
