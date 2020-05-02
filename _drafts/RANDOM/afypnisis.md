@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: afypnisis
+title: Αφύπνηση
 subtitle: ''
 date: 2020-05-01 22:00:00 +0000
 thumb_img_path: "/images/afypnisis.jpg"
