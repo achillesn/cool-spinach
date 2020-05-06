@@ -16,8 +16,6 @@ canonical_url: "/images/21_MG_2638.jpg"
 ---
 Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
-
-
 Μέχρι να σας χωρίσει ο θάνατος  
 έψελνε ο παπάς  
 εσύ όμως σταμάτησες  
