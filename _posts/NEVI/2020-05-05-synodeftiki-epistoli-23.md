@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #23'
+title: 'Συνοδευτική Επιστολή #23'
 subtitle: Το ζευγάρι
 date: 2020-05-05 22:00:00 +0000
 thumb_img_path: "/images/21_MG_2638.jpg"
