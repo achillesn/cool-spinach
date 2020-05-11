@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική Επιστολή #24'
 subtitle: Παράκληση
-date: 2020-05-11 22:00:00 +0000
+date: 2020-05-10 22:00:00 +0000
 thumb_img_path: "/images/23.jpg"
 content_img_path: "/images/23.jpg"
 excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
