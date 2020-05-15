@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: []
-title: anodus 11
+categories:
+- News
+title: Γεννήθηκα Άνθρωπος
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-05-15 22:00:00 +0000
 thumb_img_path: "/images/anodus11_mg_5888.jpg"
