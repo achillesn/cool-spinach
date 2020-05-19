@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #25'
-subtitle: ''
+title: 'Συνοδευτική Επιστολή #25'
+subtitle: Η τελευταία χάρη
 date: 2020-05-18 22:00:00 +0000
 thumb_img_path: "/images/22_MG_8787.jpg"
 content_img_path: "/images/22_MG_8787.jpg"
