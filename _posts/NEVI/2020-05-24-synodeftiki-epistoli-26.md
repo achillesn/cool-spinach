@@ -11,6 +11,10 @@ excerpt: ''
 canonical_url: "/images/24_mg_2826.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
+Από την άλλη πλευρά
+
 \-Πρέπει να μπεις και να βγεις.
 
 Το δάσος με περίμενε  
