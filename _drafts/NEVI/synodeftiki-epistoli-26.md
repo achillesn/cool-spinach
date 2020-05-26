@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #26'
+title: 'Συνοδευτική Επιστολή #26'
 subtitle: Όνειρα γλυκά
 date: 2020-05-24 22:00:00 +0000
 thumb_img_path: "/images/24_mg_2826.jpg"
