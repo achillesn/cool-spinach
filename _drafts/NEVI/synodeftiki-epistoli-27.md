@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Συνοδευτική Επιστολή #27'
-subtitle: Ουράνιος δίσκος
+subtitle: Ο ουράνιος δίσκος
 date: 2020-06-01 22:00:00 +0000
 thumb_img_path: "/images/25_mg_8262.jpg"
 content_img_path: "/images/25_mg_8262.jpg"
