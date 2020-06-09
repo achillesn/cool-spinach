@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #28'
-subtitle: ''
+title: 'Συνοδευτική Επιστολή #28'
+subtitle: Ο Βράχος
 date: 2020-06-08 22:00:00 +0000
 thumb_img_path: "/images/100_mg_4597.jpg"
 content_img_path: "/images/100_mg_4597.jpg"
