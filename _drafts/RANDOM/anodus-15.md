@@ -7,7 +7,9 @@ subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-06-09 22:00:00 +0000
 thumb_img_path: "/images/noiseless_mg_3976.jpg"
 content_img_path: "/images/noiseless_mg_3976.jpg"
-excerpt: ''
+excerpt: Η αλήθεια είναι ότι μέσα στην ασφάλεια και τη ζεστασιά της, επιτέλους ανακάλυψα
+  τον ύπνο. Ύπνο βαθύ. Ανέμελο. Γεμάτο όνειρα. Ύπνο γεμάτο δύναμη, που την ένοιωθα
+  να με γεμίζει διαρκώς
 canonical_url: "/images/noiseless_mg_3976.jpg"
 
 ---
