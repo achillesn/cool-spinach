@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 15
+title: Η γνώση της υπομονής
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-06-09 22:00:00 +0000
 thumb_img_path: "/images/noiseless_mg_3976.jpg"
