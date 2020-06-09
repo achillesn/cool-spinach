@@ -14,16 +14,15 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/100_mg_4597.jpg"
 
 ---
-\-Είμαι βράχος!
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
-μου έλεγες συχνά
-
-δεν σε πίστευα, μουρμούριζα:
+\-Είμαι βράχος!  
+μου έλεγες συχνά  
+Δεν σε πίστευα, μουρμούριζα:
 
 \-Σιγά!
 
-Μέχρι που έμεινες εκεί.
-
+Μέχρι που έμεινες εκεί.  
 Άραγε από πείσμα κι επιμονή;
 
 «Το σώμα μου το δίπλωσα  
