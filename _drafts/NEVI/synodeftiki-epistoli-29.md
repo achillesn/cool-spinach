@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #29'
-subtitle: Τα καπέλλα
+title: 'Συνοδευτική επιστολή #29'
+subtitle: Τα καπέλα
 date: 2020-06-15 22:00:00 +0000
 thumb_img_path: "/images/101_mg_4653.jpg"
 content_img_path: "/images/101_mg_4653.jpg"
