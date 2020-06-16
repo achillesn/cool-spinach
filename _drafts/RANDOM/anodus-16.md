@@ -7,7 +7,9 @@ subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-06-16 22:00:00 +0000
 thumb_img_path: "/images/eurudice.jpg"
 content_img_path: "/images/eurudice.jpg"
-excerpt: ''
+excerpt: Η αλήθεια είναι ότι μέσα μου αδημονούσα. Ήθελα ν’ αρθρώσω το λόγο που με
+  κυβερνούσε. Να βαδίσω σαν άνθρωπος. Δεν ήξερα ακόμη πόσο εύκολα ο άνθρωπος ξεχνιέται
+  και ξεχνά...
 canonical_url: "/images/eurudice.jpg"
 
 ---
