@@ -16,7 +16,6 @@ canonical_url: "/images/101_mg_4653.jpg"
 ---
 Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
-
 \- Μα πόσα καπέλα φορούσα τότε;
 
 \-Είχες πολλά.
@@ -38,6 +37,6 @@ Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 το πήραμε απόφαση   
 να τα διώξουμε.
 
-\-Μα είναι ανεκτίμητα, κλαψόυριζα απαρηγόρητη.  
+\-Μα είναι ανεκτίμητα, κλαψούριζα απαρηγόρητη.  
 Είπες να τα κρατήσουμε για να με παρηγορήσεις.  
 Δεν ήξερα πως σκόπευες εμένα να πουλήσεις.
