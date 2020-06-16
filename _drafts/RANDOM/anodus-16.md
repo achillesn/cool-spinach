@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: anodus 16
+title: Στην αγκαλιά της εξάρτησης
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-06-16 22:00:00 +0000
 thumb_img_path: ''
