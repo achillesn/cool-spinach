@@ -13,6 +13,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/102_mg_4682.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Είχε τόσες δίπλες  
 η φούστα που σιδέρωνα για το καλοκαίρι.  
 Όταν τελείωσα ιδρωμένη  
