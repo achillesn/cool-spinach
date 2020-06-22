@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική επιστολή #30'
 subtitle: Η καλοκαιρινή φούστα.
 date: 2020-06-22 22:00:00 +0000
