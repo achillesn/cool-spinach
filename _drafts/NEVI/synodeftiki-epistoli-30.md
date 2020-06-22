@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #30'
+title: 'Συνοδευτική επιστολή #30'
 subtitle: Το τελευταίο αντίο.
 date: 2020-06-22 22:00:00 +0000
 thumb_img_path: ''
