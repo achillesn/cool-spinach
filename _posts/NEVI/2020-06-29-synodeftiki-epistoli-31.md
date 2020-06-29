@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'synodeftiki epistoli #31'
-subtitle: ''
+subtitle: Το μάτι
 date: 2020-06-29 22:00:00 +0000
 thumb_img_path: "/images/103_mg_4792.jpg"
 content_img_path: "/images/103_mg_4792.jpg"
