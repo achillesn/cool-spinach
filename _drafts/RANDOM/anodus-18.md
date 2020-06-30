@@ -2,8 +2,8 @@
 layout: post
 categories:
 - News
-title: anodus 18
-subtitle: Η αναγκαιότητα των ορίων
+title: Η αναγκαιότητα των ορίων
+subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-06-30 22:00:00 +0000
 thumb_img_path: "/images/anodus18_mg_4242.jpg"
 content_img_path: "/images/anodus18_mg_4242.jpg"
