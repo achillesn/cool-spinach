@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
-title: anodus 19
+categories:
+- News
+title: Η ομορφιά της φυλακής
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-07-07 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/anodus20.jpg"
+content_img_path: "/images/anodus20.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/anodus20.jpg"
 
 ---
 
