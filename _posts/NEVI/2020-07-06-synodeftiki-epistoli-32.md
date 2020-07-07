@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #32'
-subtitle: ''
+title: 'Συνοδευτική Επιστολή #32'
+subtitle: Η γούνα
 date: 2020-07-06 22:00:00 +0000
 thumb_img_path: "/images/104_mg_4828.jpg"
 content_img_path: "/images/104_mg_4828.jpg"
@@ -13,6 +13,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/104_mg_4828.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 \-Έχω ράμματα για τη γούνα σου, μου έλεγες  
 Εγώ τη γούνα μου θα την κρατήσω καθαρή.  
 Όλα μου τα χρώματα και κυρίως την έβδομη μου ψυχή.  
