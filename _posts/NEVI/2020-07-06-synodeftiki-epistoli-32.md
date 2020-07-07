@@ -17,6 +17,7 @@ canonical_url: "/images/104_mg_4828.jpg"
 Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
 \-Έχω ράμματα για τη γούνα σου, μου έλεγες.  
+
 Εγώ τη γούνα μου θα την κρατήσω καθαρή.  
 Όλα μου τα χρώματα και κυρίως την έβδομη μου ψυχή.  
 Κάθε φορά που με άγγιζες έκανα μπάνιο και τριβόμουν δυνατά.  
