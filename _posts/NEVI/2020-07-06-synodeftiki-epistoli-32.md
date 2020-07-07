@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'Συνοδευτική Επιστολή #32'
 subtitle: Η γούνα
 date: 2020-07-06 22:00:00 +0000
