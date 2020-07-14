@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/110_mg_5402.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Ήταν μια φορά 2 σκιές που πήγαιναν παντού μαζί,  
 αλλά σε αντίθετες κατευθύνσεις.  
 Όταν τους συναντούσαν πριν πέσει το σκοτάδι τους ρωτούσαν  
