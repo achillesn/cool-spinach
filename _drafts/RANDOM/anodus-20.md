@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 20
+title: Συμμαχώντας με τη στιγμή
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-07-14 22:00:00 +0000
 thumb_img_path: "/images/20_mg_4443.jpg"
