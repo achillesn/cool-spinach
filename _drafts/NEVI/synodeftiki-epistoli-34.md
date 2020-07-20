@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #34'
+title: 'Συνοδευτική Επιστολή #34'
 subtitle: Στη σπηλιά
 date: 2020-07-20 22:00:00 +0000
 thumb_img_path: "/images/109_mg_5306.jpg"
