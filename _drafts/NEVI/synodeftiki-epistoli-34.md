@@ -1,13 +1,17 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'synodeftiki epistoli #34'
-subtitle: ''
+subtitle: Στη σπηλιά
 date: 2020-07-20 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/109_mg_5306.jpg"
+content_img_path: "/images/109_mg_5306.jpg"
+excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
+  μέσα στα βάθη του υποσυνειδήτου. Λόγος που προτείνεται σαν ταπεινό απαύγασμα του
+  βιώματος του θεατή που καταφέρνει ν’ αφηθεί στη μαγεία της εικόνας, επαναδημιουργώντας
+  την."
+canonical_url: "/images/109_mg_5306.jpg"
 
 ---
 Μέσα στη σπηλιά είχε αντηλιά.  
