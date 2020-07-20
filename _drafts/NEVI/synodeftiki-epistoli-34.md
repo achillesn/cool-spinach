@@ -26,7 +26,7 @@ Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 που κυλιόταν στα γρασίδια  
 και έπαιζε παιχνίδια.
 
-\-θα μείνω εδώ  
+\-Θα μείνω εδώ  
 να μάθω του σύμπαντος το ρυθμό.  
 Σου είπα.
 
