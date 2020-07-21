@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική Επιστολή #34'
 subtitle: Στη σπηλιά
-date: 2020-07-19 22:00:00 +0000
+date: 2020-07-20 22:00:00 +0000
 thumb_img_path: "/images/109_mg_5306.jpg"
 content_img_path: "/images/109_mg_5306.jpg"
 excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
