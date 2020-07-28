@@ -20,7 +20,7 @@ Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 Αυτό είχαμε κανονίσει.  
 Δίπλα μας ακούγαμε ένα τραγούδι στα Ιταλικά.  
 Γυρνούσα...  
-Τίποτα μόνο ένα άγαλμα να χαμογελά
+Τίποτα μόνο ένα άγαλμα να χαμογελά.
 
 "Pur ti miro, pur ti stringo,  
 pur ti godo, pur t’annodo  
