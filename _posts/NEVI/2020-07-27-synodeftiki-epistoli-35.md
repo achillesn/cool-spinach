@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #35'
+title: 'Συνοδευτική Επιστολή #35'
 subtitle: Η μυστική μουσική
 date: 2020-07-27 22:00:00 +0000
 thumb_img_path: "/images/111_mg_6885.jpg"
@@ -22,10 +22,10 @@ Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 Γυρνούσα...  
 Τίποτα μόνο ένα άγαλμα να χαμογελά
 
-Pur ti miro, pur ti stringo,  
+"Pur ti miro, pur ti stringo,  
 pur ti godo, pur t’annodo  
 piu non peno, piu non moro,  
-o mia vita, o mio tesoro.
+o mia vita, o mio tesoro".
 
 Μετά μας είπαν το τραγούδι το ακούν μόνο μερικοί.  
 Θέλω να ξαναπάμε,   
