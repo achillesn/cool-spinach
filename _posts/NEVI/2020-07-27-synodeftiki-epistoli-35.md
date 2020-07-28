@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/111_mg_6885.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Να βουτήξουμε μαζί τα πόδια μας στο νερό.  
 Αυτό είχαμε κανονίσει.  
 Δίπλα μας ακούγαμε ένα τραγούδι στα Ιταλικά.  
