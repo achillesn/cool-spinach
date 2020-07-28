@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 22
+title: Το τίμημα της ασφάλειας
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-07-28 22:00:00 +0000
 thumb_img_path: "/images/an22ok_mg_7181.jpg"
