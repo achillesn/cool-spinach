@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/107_mg_5077.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Τότε γίναμε ο ένας ο καθρέφτης του άλλου.  
 Σε κοινή θέα τεντωνόμασταν και κάναμε την ίδια χορογραφία κάθε πρωί.  
 Άμα έφευγε κανένα φτερό, το μάζευες εσύ.
