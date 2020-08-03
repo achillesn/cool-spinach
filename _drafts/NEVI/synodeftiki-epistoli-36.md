@@ -1,13 +1,17 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: 'synodeftiki epistoli #36'
 subtitle: ''
 date: 2020-08-03 22:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/107_mg_5077.jpg"
+content_img_path: "/images/107_mg_5077.jpg"
+excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
+  μέσα στα βάθη του υποσυνειδήτου. Λόγος που προτείνεται σαν ταπεινό απαύγασμα του
+  βιώματος του θεατή που καταφέρνει ν’ αφηθεί στη μαγεία της εικόνας, επαναδημιουργώντας
+  την."
+canonical_url: "/images/107_mg_5077.jpg"
 
 ---
 Τότε γίναμε ο ένας ο καθρέφτης του άλλου.  
