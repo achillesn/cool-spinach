@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική Επιστολή #36'
 subtitle: Ο καθρέφτης
-date: 2020-08-02 22:00:00 +0000
+date: 2020-08-03 22:00:00 +0000
 thumb_img_path: "/images/107_mg_5077.jpg"
 content_img_path: "/images/107_mg_5077.jpg"
 excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
