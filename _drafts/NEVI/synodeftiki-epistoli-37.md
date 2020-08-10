@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #37'
+title: 'Συνοδευτική Επιστολή #37'
 subtitle: Το βέλος
 date: 2020-08-10 22:00:00 +0000
 thumb_img_path: "/images/112_mg_4987.jpg"
