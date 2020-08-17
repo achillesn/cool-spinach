@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'Συνοδευτική Επιστολή #37'
+title: 'Συνοδευτική Επιστολή #38'
 subtitle: Το κοπερτί
 date: 2020-08-17 22:00:00 +0000
 thumb_img_path: "/images/113_mg_2702.jpg"
