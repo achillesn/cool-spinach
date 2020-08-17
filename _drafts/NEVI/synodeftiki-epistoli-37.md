@@ -13,6 +13,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/113_mg_2702.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 \-Σου πάνε τα μαλλιά έτσι.  
 \-Σταμάτησα να τα βάφω εδώ και αρκετό καιρό.
 
