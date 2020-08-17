@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: 'synodeftiki epistoli #37'
+title: 'Συνοδευτική Επιστολή #37'
 subtitle: Το κοπερτί
 date: 2020-08-17 22:00:00 +0000
 thumb_img_path: "/images/113_mg_2702.jpg"
@@ -30,4 +30,4 @@ Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 Ετσι συναντηθήκαμε,  
 σαν έφηβοι σε ραντεβού.
 
-Είχαμε και οι δύο λευκά μαλλιά.
+Είχαμε πλέον και οι δύο λευκά μαλλιά.
