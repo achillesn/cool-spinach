@@ -34,7 +34,7 @@ published: false
 \#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Η ομορφιά της φυλακής</a>
 \#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a>
 \#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>
-\#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το όνειρο της Ζωής</a>
+\#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>
 
 ### Συνοδευτική Επιστολή
 
