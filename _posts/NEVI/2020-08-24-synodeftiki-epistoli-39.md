@@ -16,8 +16,8 @@ canonical_url: "/images/106_mg_4840.jpg"
 ---
 Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
-Έβλεπε όνειρα πως περπατούσε στο νερό  
-μερικές φορές σταματούσε να ξεκουραστεί  
+Έβλεπε όνειρα πως περπατούσε στο νερό.  
+Μερικές φορές σταματούσε να ξεκουραστεί  
 σε μία ξύλινη σχεδία.  
 Είχε δυο καρέκλες καθόταν στη μία και περίμενε  
 μέχρι να έρθει το πρωί.  
