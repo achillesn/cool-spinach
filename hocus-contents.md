@@ -33,7 +33,7 @@ menu:
 \#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>   
 \#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>   
 \#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>   
-\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιά</a>
+\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>
 
 ### Συνοδευτική Επιστολή
 
