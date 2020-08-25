@@ -10,7 +10,30 @@ menu:
 ---
 ### Η Ελεγεία της Ανόδου
 
-\#1. <a href="https://hocusphotus.com/posts/i-giorti-tis-anasas/" target="blank"> Η γιορτή της ανάσας</a> #2. <a href="https://hocusphotus.com/posts/anodus-2/" target="blank"> Η μυστική συμμαχία</a> #3. <a href="https://hocusphotus.com/posts/i-siopi-tis-prosmonis/" target="blank"> Η σιωπή της προσμονής</a> #4. <a href="https://hocusphotus.com/posts/anodus-4/" target="blank"> Το όνειρο της Ζωής</a> #5. <a href="https://hocusphotus.com/posts/anodus-5/" target="blank"> Χορεύοντας στο ρυθμό της καρδιάς</a> #6. <a href="https://hocusphotus.com/posts/anodus-6/" target="blank"> Η σιωπή της χαράς</a> #7. <a href="https://hocusphotus.com/posts/anodus-7/" target="blank"> Ο χρόνος των αλλαγών</a> #8. <a href="https://hocusphotus.com/posts/anodus-8/" target="blank"> Η επάνοδος της κίνησης</a> #9. <a href="https://hocusphotus.com/posts/anodus-9/" target="blank"> Το τραγούδι της Γνώσης</a> #10. <a href="https://hocusphotus.com/posts/anodus-10/" target="blank"> Ο ύπνος της ελευθερίας</a> #11. <a href="https://hocusphotus.com/posts/anodus-11/" target="blank"> Γεννήθηκα Άνθρωπος</a> #12. <a href="https://hocusphotus.com/posts/anodus-12/" target="blank"> Καθολική Επιστροφή</a> #13. <a href="https://hocusphotus.com/posts/anodus-13/" target="blank"> Η φωτιά της ανυπομονησίας</a> #14. <a href="https://hocusphotus.com/posts/anodus-14/" target="blank"> Το κλειδί της ευτυχίας</a> #15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a> #16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Στην αγκαλιά της εξάρτησης</a> #17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Η ελπίδα της επανάπαυσης</a> #18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Η αναγκαιότητα των ορίων</a> #19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Η ομορφιά της φυλακής</a> #20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a> #21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a> #22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a> #23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a> #24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>
+\#1. <a href="https://hocusphotus.com/posts/i-giorti-tis-anasas/" target="blank"> Η γιορτή της ανάσας</a>   
+\#2. <a href="https://hocusphotus.com/posts/anodus-2/" target="blank"> Η μυστική συμμαχία</a>   
+\#3. <a href="https://hocusphotus.com/posts/i-siopi-tis-prosmonis/" target="blank"> Η σιωπή της προσμονής</a>   
+\#4. <a href="https://hocusphotus.com/posts/anodus-4/" target="blank"> Το όνειρο της Ζωής</a>   
+\#5. <a href="https://hocusphotus.com/posts/anodus-5/" target="blank"> Χορεύοντας στο ρυθμό της καρδιάς</a>   
+\#6. <a href="https://hocusphotus.com/posts/anodus-6/" target="blank"> Η σιωπή της χαράς</a>   
+\#7. <a href="https://hocusphotus.com/posts/anodus-7/" target="blank"> Ο χρόνος των αλλαγών</a>  
+\#8. <a href="https://hocusphotus.com/posts/anodus-8/" target="blank"> Η επάνοδος της κίνησης</a>   
+\#9. <a href="https://hocusphotus.com/posts/anodus-9/" target="blank"> Το τραγούδι της Γνώσης</a>   
+\#10. <a href="https://hocusphotus.com/posts/anodus-10/" target="blank"> Ο ύπνος της ελευθερίας</a>   
+\#11. <a href="https://hocusphotus.com/posts/anodus-11/" target="blank"> Γεννήθηκα Άνθρωπος</a>   
+\#12. <a href="https://hocusphotus.com/posts/anodus-12/" target="blank"> Καθολική Επιστροφή</a>   
+\#13. <a href="https://hocusphotus.com/posts/anodus-13/" target="blank"> Η φωτιά της ανυπομονησίας</a>   
+\#14. <a href="https://hocusphotus.com/posts/anodus-14/" target="blank"> Το κλειδί της ευτυχίας</a>   
+\#15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>   
+\#16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Στην αγκαλιά της εξάρτησης</a>   
+\#17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Η ελπίδα της επανάπαυσης</a>   
+\#18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Η αναγκαιότητα των ορίων</a>   
+\#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Η ομορφιά της φυλακής</a>   
+\#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a>   
+\#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>   
+\#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>   
+\#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>   
+\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιά</a>
 
 ### Συνοδευτική Επιστολή
 
@@ -32,6 +55,8 @@ _Image + poetry (GR)_
 \#14. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-14/" target="blank">Στο στόμα του Δράκου</a>  
 \#15. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-15/" target="blank">Η μοναξιά του Κύκνου</a>  
 \#16. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-16/" target="blank">Το Μυστικό</a>
+
+\#16. <a href="[https://hocusphotus.com/posts/synodeftiki-epistoli-16/](https://hocusphotus.com/posts/synodeftiki-epistoli-16/ "https://hocusphotus.com/posts/synodeftiki-epistoli-16/")" target="blank">Το Μυστικό</a>
 
 ### Virtual Connections
 
