@@ -77,7 +77,7 @@ _Image + poetry (GR)_
 \#36. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-36/" target="blank">Ο καθρέφτης</a>
 \#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το βέλος</a>
 \#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το κοπερτί</a>
-\#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Το Μυστικό</a>
+\#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>
 
 ### Virtual Connections
 
