@@ -51,12 +51,33 @@ _Image + poetry (GR)_
 \#10. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-10/" target="blank">Το κρυφτό</a>  
 \#11. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-11/" target="blank">Αυτό που είχα φοβηθεί</a>  
 \#12. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-12/" target="blank">Ουράνια ξιφομαχία</a>  
-\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a>  
+\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a> 
 \#14. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-14/" target="blank">Στο στόμα του Δράκου</a>  
 \#15. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-15/" target="blank">Η μοναξιά του Κύκνου</a>  
 \#16. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-16/" target="blank">Το Μυστικό</a>
-
-\#16. <a href="[https://hocusphotus.com/posts/synodeftiki-epistoli-16/](https://hocusphotus.com/posts/synodeftiki-epistoli-16/ "https://hocusphotus.com/posts/synodeftiki-epistoli-16/")" target="blank">Το Μυστικό</a>
+\#17. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-17/" target="blank">Το Μυστικό</a>
+\#18. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-18/" target="blank">Το Μυστικό</a>
+\#19. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-19/" target="blank">Το Μυστικό</a>
+\#20. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-20/" target="blank">Το Μυστικό</a>
+\#21. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-21/" target="blank">Το Μυστικό</a>
+\#22. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-22/" target="blank">Το Μυστικό</a>
+\#23. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-23/" target="blank">Το Μυστικό</a>
+\#24. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-24/" target="blank">Το Μυστικό</a>
+\#25. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-25/" target="blank">Το Μυστικό</a>
+\#26. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-26/" target="blank">Το Μυστικό</a>
+\#27. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-27/" target="blank">Το Μυστικό</a>
+\#28. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-28/" target="blank">Το Μυστικό</a>
+\#29. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-29/" target="blank">Το Μυστικό</a>
+\#30. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-30/" target="blank">Το Μυστικό</a>
+\#31. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-31/" target="blank">Το Μυστικό</a>
+\#32. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-32/" target="blank">Το Μυστικό</a>
+\#33. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-33/" target="blank">Το Μυστικό</a>
+\#34. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-34/" target="blank">Το Μυστικό</a>
+\#35. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-35/" target="blank">Το Μυστικό</a>
+\#36. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-36/" target="blank">Το Μυστικό</a>
+\#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το Μυστικό</a>
+\#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το Μυστικό</a>
+\#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Το Μυστικό</a>
 
 ### Virtual Connections
 
