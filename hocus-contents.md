@@ -24,12 +24,12 @@ published: false
 \#9. <a href="https://hocusphotus.com/posts/anodus-9/" target="blank"> Το τραγούδι της Γνώσης</a>
 \#10. <a href="https://hocusphotus.com/posts/anodus-10/" target="blank"> Ο ύπνος της ελευθερίας</a>
 \#11. <a href="https://hocusphotus.com/posts/anodus-11/" target="blank"> Γεννήθηκα Άνθρωπος</a>
-\#12. <a href="https://hocusphotus.com/posts/anodus-12/" target="blank"> Το όνειρο της Ζωής</a>
-\#13. <a href="https://hocusphotus.com/posts/anodus-13/" target="blank"> Το όνειρο της Ζωής</a>
-\#14. <a href="https://hocusphotus.com/posts/anodus-14/" target="blank"> Το όνειρο της Ζωής</a>
-\#15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Το όνειρο της Ζωής</a>
-\#16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Το όνειρο της Ζωής</a>
-\#17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Το όνειρο της Ζωής</a>
+\#12. <a href="https://hocusphotus.com/posts/anodus-12/" target="blank"> Καθολική Επιστροφή</a>
+\#13. <a href="https://hocusphotus.com/posts/anodus-13/" target="blank"> Η φωτιά της ανυπομονησίας</a>
+\#14. <a href="https://hocusphotus.com/posts/anodus-14/" target="blank"> Το κλειδί της ευτυχίας</a>
+\#15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>
+\#16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Στην αγκαλιά της εξάρτησης</a>
+\#17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Η ελπίδα της επανάπαυσης</a>
 \#18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Το όνειρο της Ζωής</a>
 \#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Το όνειρο της Ζωής</a>
 \#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Το όνειρο της Ζωής</a>
