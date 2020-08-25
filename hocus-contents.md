@@ -6,29 +6,12 @@ img_path: "/images/05_MG_3417.jpg"
 menu:
   main:
     weight: 4
+published: false
 
 ---
 ![](/images/white-strap.jpg)
 
-### Το Μάτι του Κύκλωπα
-
-_Image + text (GR)_
-
-\#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Επαναφέροντας τη Ζωή στη Ζωή</a>  
-\#2. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
-\#3. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-3/" target="blank">Ακολουθώντας τους προσδιορισμούς</a>  
-\#4. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-4/" target="blank">Υποθετικές Διαπιστώσεις</a>  
-\#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kylopa-5/" target="blank">Για μια Ποιότητα της Σημασίας</a>  
-\#6. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-6/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.1</a>  
-\#7. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-7/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.2</a>  
-\#8. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-8-1/" target="blank">Μεταμορφώνοντας την πραγματικότητα</a>  
-\#9. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-9/" target="blank">Μεταμορφώνοντας την εικόνα</a>  
-\#10.<a href="https://hocusphotus.com/posts/h-anapofefkti-prothesi/" target="blank">Η Αναπόφευκτη Πρόθεση</a>  
-\#11.<a href="https://hocusphotus.com/posts/anagnorizontas-ton-kodika/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>  
-\#12. <a href="https://hocusphotus.com/posts/i-simasia-tis-apodoxis/" target="blank">Η σημασία της αποδοχής</a>  
-\#13. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-13/" target="blank">Η Αοριστία της Ποίησης</a>  
-\#14. <a href="https://hocusphotus.com/posts/diloseis-kai-symparadiloseis/" target="blank">Δηλώσεις και Συμπαραδηλώσεις</a>  
-\#15. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-15/" target="blank">Η ευαισθησία της Ανάγνωσης</a>
+### Η Ελεγεία της Ανόδου
 
 ### Συνοδευτική Επιστολή
 
@@ -71,6 +54,26 @@ _Visual Poetry_
 \#14. <a href="https://hocusphotus.com/posts/virtual-connection-14/"> Kaninia - Nasios</a>  
 \#15. <a href="https://hocusphotus.com/posts/virtual-connection-15/"> Tsilis - Nasios</a>  
 \#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Dannenberg - Nasios</a>
+
+### Το Μάτι του Κύκλωπα
+
+_Image + text (GR)_
+
+\#1. <a href="https://hocusphotus.com/posts/the-cyclop-s-eye/" target="blank">Επαναφέροντας τη Ζωή στη Ζωή</a>  
+\#2. <a href="https://hocusphotus.com/posts/%CF%84%CE%BF-%CE%BC%CE%AC%CF%84%CE%B9-%CF%84%CE%BF%CF%85-%CE%BA%CF%8D%CE%BA%CE%BB%CF%89%CF%80%CE%B1/" target="blank">Διαχωρισμοί και Συνδέσεις</a>  
+\#3. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-3/" target="blank">Ακολουθώντας τους προσδιορισμούς</a>  
+\#4. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-4/" target="blank">Υποθετικές Διαπιστώσεις</a>  
+\#5. <a href="https://hocusphotus.com/posts/to-mati-tou-kylopa-5/" target="blank">Για μια Ποιότητα της Σημασίας</a>  
+\#6. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-6/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.1</a>  
+\#7. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-7/" target="blank">Δημιουργώντας έναν κόσμο από τον κόσμο.2</a>  
+\#8. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-8-1/" target="blank">Μεταμορφώνοντας την πραγματικότητα</a>  
+\#9. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-9/" target="blank">Μεταμορφώνοντας την εικόνα</a>  
+\#10.<a href="https://hocusphotus.com/posts/h-anapofefkti-prothesi/" target="blank">Η Αναπόφευκτη Πρόθεση</a>  
+\#11.<a href="https://hocusphotus.com/posts/anagnorizontas-ton-kodika/" target="blank">Αναγνωρίζοντας τον Κώδικα</a>  
+\#12. <a href="https://hocusphotus.com/posts/i-simasia-tis-apodoxis/" target="blank">Η σημασία της αποδοχής</a>  
+\#13. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-13/" target="blank">Η Αοριστία της Ποίησης</a>  
+\#14. <a href="https://hocusphotus.com/posts/diloseis-kai-symparadiloseis/" target="blank">Δηλώσεις και Συμπαραδηλώσεις</a>  
+\#15. <a href="https://hocusphotus.com/posts/to-mati-tou-kyklopa-15/" target="blank">Η ευαισθησία της Ανάγνωσης</a>
 
 ### Στη Ρωγμή του Χρόνου
 
