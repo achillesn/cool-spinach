@@ -69,10 +69,10 @@ _Image + poetry (GR)_
 \#28. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-28/" target="blank">Ο Βράχος</a>
 \#29. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-29/" target="blank">Τα καπέλλα</a>
 \#30. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-30/" target="blank">Η καλοκαιρινή φούστα</a>
-\#31. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-31/" target="blank">Το Μυστικό</a>
-\#32. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-32/" target="blank">Το Μυστικό</a>
-\#33. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-33/" target="blank">Το Μυστικό</a>
-\#34. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-34/" target="blank">Το Μυστικό</a>
+\#31. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-31/" target="blank">Το μάτι</a>
+\#32. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-32/" target="blank">Η γούνα</a>
+\#33. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-33/" target="blank">ΟΙ σκιές</a>
+\#34. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-34/" target="blank">Στη σπηλιά</a>
 \#35. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-35/" target="blank">Το Μυστικό</a>
 \#36. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-36/" target="blank">Το Μυστικό</a>
 \#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το Μυστικό</a>
