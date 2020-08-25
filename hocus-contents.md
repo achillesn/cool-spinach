@@ -10,29 +10,29 @@ menu:
 ---
 ### Η Ελεγεία της Ανόδου
 
-\#1. <a href="https://hocusphotus.com/posts/i-giorti-tis-anasas/" target="blank"> Η γιορτή της ανάσας</a>   
-\#2. <a href="https://hocusphotus.com/posts/anodus-2/" target="blank"> Η μυστική συμμαχία</a>   
-\#3. <a href="https://hocusphotus.com/posts/i-siopi-tis-prosmonis/" target="blank"> Η σιωπή της προσμονής</a>   
-\#4. <a href="https://hocusphotus.com/posts/anodus-4/" target="blank"> Το όνειρο της Ζωής</a>   
-\#5. <a href="https://hocusphotus.com/posts/anodus-5/" target="blank"> Χορεύοντας στο ρυθμό της καρδιάς</a>   
-\#6. <a href="https://hocusphotus.com/posts/anodus-6/" target="blank"> Η σιωπή της χαράς</a>   
+\#1. <a href="https://hocusphotus.com/posts/i-giorti-tis-anasas/" target="blank"> Η γιορτή της ανάσας</a>  
+\#2. <a href="https://hocusphotus.com/posts/anodus-2/" target="blank"> Η μυστική συμμαχία</a>  
+\#3. <a href="https://hocusphotus.com/posts/i-siopi-tis-prosmonis/" target="blank"> Η σιωπή της προσμονής</a>  
+\#4. <a href="https://hocusphotus.com/posts/anodus-4/" target="blank"> Το όνειρο της Ζωής</a>  
+\#5. <a href="https://hocusphotus.com/posts/anodus-5/" target="blank"> Χορεύοντας στο ρυθμό της καρδιάς</a>  
+\#6. <a href="https://hocusphotus.com/posts/anodus-6/" target="blank"> Η σιωπή της χαράς</a>  
 \#7. <a href="https://hocusphotus.com/posts/anodus-7/" target="blank"> Ο χρόνος των αλλαγών</a>  
-\#8. <a href="https://hocusphotus.com/posts/anodus-8/" target="blank"> Η επάνοδος της κίνησης</a>   
-\#9. <a href="https://hocusphotus.com/posts/anodus-9/" target="blank"> Το τραγούδι της Γνώσης</a>   
-\#10. <a href="https://hocusphotus.com/posts/anodus-10/" target="blank"> Ο ύπνος της ελευθερίας</a>   
-\#11. <a href="https://hocusphotus.com/posts/anodus-11/" target="blank"> Γεννήθηκα Άνθρωπος</a>   
-\#12. <a href="https://hocusphotus.com/posts/anodus-12/" target="blank"> Καθολική Επιστροφή</a>   
-\#13. <a href="https://hocusphotus.com/posts/anodus-13/" target="blank"> Η φωτιά της ανυπομονησίας</a>   
-\#14. <a href="https://hocusphotus.com/posts/anodus-14/" target="blank"> Το κλειδί της ευτυχίας</a>   
-\#15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>   
-\#16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Στην αγκαλιά της εξάρτησης</a>   
-\#17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Η ελπίδα της επανάπαυσης</a>   
-\#18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Η αναγκαιότητα των ορίων</a>   
-\#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Η ομορφιά της φυλακής</a>   
-\#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a>   
-\#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>   
-\#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>   
-\#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>   
+\#8. <a href="https://hocusphotus.com/posts/anodus-8/" target="blank"> Η επάνοδος της κίνησης</a>  
+\#9. <a href="https://hocusphotus.com/posts/anodus-9/" target="blank"> Το τραγούδι της Γνώσης</a>  
+\#10. <a href="https://hocusphotus.com/posts/anodus-10/" target="blank"> Ο ύπνος της ελευθερίας</a>  
+\#11. <a href="https://hocusphotus.com/posts/anodus-11/" target="blank"> Γεννήθηκα Άνθρωπος</a>  
+\#12. <a href="https://hocusphotus.com/posts/anodus-12/" target="blank"> Καθολική Επιστροφή</a>  
+\#13. <a href="https://hocusphotus.com/posts/anodus-13/" target="blank"> Η φωτιά της ανυπομονησίας</a>  
+\#14. <a href="https://hocusphotus.com/posts/anodus-14/" target="blank"> Το κλειδί της ευτυχίας</a>  
+\#15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>  
+\#16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Στην αγκαλιά της εξάρτησης</a>  
+\#17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Η ελπίδα της επανάπαυσης</a>  
+\#18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Η αναγκαιότητα των ορίων</a>  
+\#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Η ομορφιά της φυλακής</a>  
+\#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a>  
+\#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>  
+\#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>  
+\#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>  
 \#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>
 
 ### Συνοδευτική Επιστολή
@@ -51,32 +51,32 @@ _Image + poetry (GR)_
 \#10. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-10/" target="blank">Το κρυφτό</a>  
 \#11. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-11/" target="blank">Αυτό που είχα φοβηθεί</a>  
 \#12. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-12/" target="blank">Ουράνια ξιφομαχία</a>  
-\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a> 
+\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a>
 \#14. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-14/" target="blank">Στο στόμα του Δράκου</a>  
 \#15. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-15/" target="blank">Η μοναξιά του Κύκνου</a>  
-\#16. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-16/" target="blank">Το Μυστικό</a>
-\#17. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-17/" target="blank">Στην Αναμονή</a>
-\#18. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-18/" target="blank">Το χαμένο κουμπί</a>
-\#19. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-19/" target="blank">Το χαμένο κουμπί</a>
-\#20. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-20/" target="blank">Οι ιπτάμενες καρδιές</a>
-\#21. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-21/" target="blank">Τα γάντια</a>
-\#22. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-22/" target="blank">Η Απόδραση</a>
-\#23. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-23/" target="blank">Το ζευγάρι</a>
-\#24. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-24/" target="blank">Παράκληση</a>
-\#25. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-25/" target="blank">Η τελευταία χάρη</a>
-\#26. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-26/" target="blank">Όνειρα γλυκά</a>
-\#27. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-27/" target="blank">Ο ουράνιος δίσκος</a>
-\#28. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-28/" target="blank">Ο Βράχος</a>
-\#29. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-29/" target="blank">Τα καπέλλα</a>
-\#30. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-30/" target="blank">Η καλοκαιρινή φούστα</a>
-\#31. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-31/" target="blank">Το μάτι</a>
-\#32. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-32/" target="blank">Η γούνα</a>
-\#33. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-33/" target="blank">ΟΙ σκιές</a>
-\#34. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-34/" target="blank">Στη σπηλιά</a>
-\#35. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-35/" target="blank">Η μυστική μουσική</a>
-\#36. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-36/" target="blank">Ο καθρέφτης</a>
-\#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το βέλος</a>
-\#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το κοπερτί</a>
+\#16. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-16/" target="blank">Το Μυστικό</a>  
+\#17. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-17/" target="blank">Στην Αναμονή</a>   
+\#18. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-18/" target="blank">Το χαμένο κουμπί</a>   
+\#19. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-19/" target="blank">Το χαμένο κουμπί</a>  
+ #20. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-20/" target="blank">Οι ιπτάμενες καρδιές</a>   
+\#21. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-21/" target="blank">Τα γάντια</a>   
+\#22. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-22/" target="blank">Η Απόδραση</a>   
+\#23. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-23/" target="blank">Το ζευγάρι</a>   
+\#24. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-24/" target="blank">Παράκληση</a>   
+\#25. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-25/" target="blank">Η τελευταία χάρη</a>   
+\#26. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-26/" target="blank">Όνειρα γλυκά</a>   
+\#27. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-27/" target="blank">Ο ουράνιος δίσκος</a>   
+\#28. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-28/" target="blank">Ο Βράχος</a>   
+\#29. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-29/" target="blank">Τα καπέλλα</a>   
+\#30. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-30/" target="blank">Η καλοκαιρινή φούστα</a>   
+\#31. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-31/" target="blank">Το μάτι</a>   
+\#32. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-32/" target="blank">Η γούνα</a>   
+\#33. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-33/" target="blank">ΟΙ σκιές</a>   
+\#34. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-34/" target="blank">Στη σπηλιά</a>   
+\#35. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-35/" target="blank">Η μυστική μουσική</a>   
+\#36. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-36/" target="blank">Ο καθρέφτης</a>   
+\#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το βέλος</a>   
+\#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το κοπερτί</a>   
 \#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>
 
 ### Virtual Connections
