@@ -33,8 +33,8 @@ published: false
 \#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a>
 \#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>
 \#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>
-\#23. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>
-\#24. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>
+\#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>
+\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Η γνώση της υπομονής</a>
 
 ### Συνοδευτική Επιστολή
 
