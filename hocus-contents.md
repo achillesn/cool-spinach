@@ -61,7 +61,7 @@ _Image + poetry (GR)_
 \#20. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-20/" target="blank">Οι ιπτάμενες καρδιές</a>
 \#21. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-21/" target="blank">Τα γάντια</a>
 \#22. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-22/" target="blank">Η Απόδραση</a>
-\#23. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-23/" target="blank">Το Μυστικό</a>
+\#23. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-23/" target="blank">Το ζευγάρι</a>
 \#24. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-24/" target="blank">Το Μυστικό</a>
 \#25. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-25/" target="blank">Το Μυστικό</a>
 \#26. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-26/" target="blank">Το Μυστικό</a>
