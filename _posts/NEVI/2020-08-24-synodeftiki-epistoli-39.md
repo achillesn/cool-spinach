@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #39'
+title: 'Συνοδευτική Επιστολή #39'
 subtitle: Η σχεδία
 date: 2020-08-24 22:00:00 +0000
 thumb_img_path: "/images/106_mg_4840.jpg"
@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/106_mg_4840.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Έβλεπε όνειρα πως περπατούσε στο νερό  
 μερικές φορές σταματούσε να ξεκουραστεί  
 σε μία ξύλινη σχεδία.  
