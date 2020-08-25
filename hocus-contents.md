@@ -67,8 +67,8 @@ _Image + poetry (GR)_
 \#26. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-26/" target="blank">Όνειρα γλυκά</a>
 \#27. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-27/" target="blank">Ο ουράνιος δίσκος</a>
 \#28. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-28/" target="blank">Ο Βράχος</a>
-\#29. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-29/" target="blank">Ο βράχος</a>
-\#30. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-30/" target="blank">Το Μυστικό</a>
+\#29. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-29/" target="blank">Τα καπέλλα</a>
+\#30. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-30/" target="blank">Η καλοκαιρινή φούστα</a>
 \#31. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-31/" target="blank">Το Μυστικό</a>
 \#32. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-32/" target="blank">Το Μυστικό</a>
 \#33. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-33/" target="blank">Το Μυστικό</a>
