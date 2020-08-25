@@ -30,9 +30,9 @@ published: false
 \#15. <a href="https://hocusphotus.com/posts/anodus-15/" target="blank"> Η γνώση της υπομονής</a>
 \#16. <a href="https://hocusphotus.com/posts/anodus-16/" target="blank"> Στην αγκαλιά της εξάρτησης</a>
 \#17. <a href="https://hocusphotus.com/posts/anodus-17/" target="blank"> Η ελπίδα της επανάπαυσης</a>
-\#18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Το όνειρο της Ζωής</a>
-\#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Το όνειρο της Ζωής</a>
-\#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Το όνειρο της Ζωής</a>
+\#18. <a href="https://hocusphotus.com/posts/anodus-18/" target="blank"> Η αναγκαιότητα των ορίων</a>
+\#19. <a href="https://hocusphotus.com/posts/anodus-19/" target="blank"> Η ομορφιά της φυλακής</a>
+\#20. <a href="https://hocusphotus.com/posts/anodus-20/" target="blank"> Συμμαχώντας με τη στιγμή</a>
 \#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Το όνειρο της Ζωής</a>
 \#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το όνειρο της Ζωής</a>
 
