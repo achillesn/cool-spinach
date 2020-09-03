@@ -35,6 +35,7 @@ menu:
 \#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>  
 \#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>
 \#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>
+
 ### Συνοδευτική Επιστολή
 
 _Image + poetry (GR)_
@@ -77,7 +78,8 @@ _Image + poetry (GR)_
 \#36. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-36/" target="blank">Ο καθρέφτης</a>  
 \#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το βέλος</a>  
 \#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το κοπερτί</a>  
-\#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>
+\#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>  
+\#40. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-40/" target="blank">Εκδηλώσεις τρυφερότητας</a>
 
 ### Virtual Connections
 
