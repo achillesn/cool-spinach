@@ -14,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/114_mg_5623.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Η μονομαχία είχε οριστεί νωρίς το πρωί, σχεδόν ξημέρωμα.  
 Όποιος κατάφερνε να χτυπήσει πρώτος θα ήταν φυσικά ο νικητής.  
 Δεν ήξερα από ξίφη και μαχαιριές,  
