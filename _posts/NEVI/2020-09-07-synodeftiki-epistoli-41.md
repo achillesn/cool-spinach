@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #41'
+title: 'Συνοδευτική Επιστολή #41'
 subtitle: Η μονομαχία
 date: 2020-09-07 22:00:00 +0000
 thumb_img_path: "/images/114_mg_5623.jpg"
