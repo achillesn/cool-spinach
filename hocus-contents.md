@@ -80,7 +80,8 @@ _Image + poetry (GR)_
 \#37. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-37/" target="blank">Το βέλος</a>  
 \#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το κοπερτί</a>  
 \#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>  
-\#40. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-40/" target="blank">Εκδηλώσεις τρυφερότητας</a>
+\#40. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-40/" target="blank">Εκδηλώσεις τρυφερότητας</a>  
+\#41. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-41/" target="blank">Η μονομαχία</a>
 
 ### Virtual Connections
 
