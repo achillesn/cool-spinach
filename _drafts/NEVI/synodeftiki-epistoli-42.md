@@ -1,12 +1,16 @@
 ---
 layout: post
-categories: []
-title: 'synodeftiki epistoli #42'
+categories:
+- News
+title: 'Συνοδευτική Επιστολή #42'
 subtitle: Το κρυφτό
 date: 2020-09-14 22:00:00 +0000
 thumb_img_path: "/images/108_mg_5103.jpg"
 content_img_path: "/images/108_mg_5103.jpg"
-excerpt: ''
+excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
+  μέσα στα βάθη του υποσυνειδήτου. Λόγος που προτείνεται σαν ταπεινό απαύγασμα του
+  βιώματος του θεατή που καταφέρνει ν’ αφηθεί στη μαγεία της εικόνας, επαναδημιουργώντας
+  την."
 canonical_url: "/images/108_mg_5103.jpg"
 
 ---
