@@ -34,7 +34,8 @@ menu:
 \#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>  
 \#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>  
 \#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>  
-\#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>
+\#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>  
+\#26. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>
 
 ### Συνοδευτική Επιστολή
 
