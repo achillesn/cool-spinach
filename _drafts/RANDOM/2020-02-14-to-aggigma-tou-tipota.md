@@ -4,7 +4,7 @@ categories:
 - News
 title: Το άγγιγμα του τίποτα.
 subtitle: Απόσπασμα από "το Καπάκι της Αβύσσου".
-date: 2020-02-14 23:00:00 +0000
+date: 2020-09-15 22:00:00 +0000
 thumb_img_path: "/images/41.img614.jpg"
 content_img_path: "/images/41.img614.jpg"
 excerpt: Άρχισα να κοιτώ διαπεραστικά τις εικόνες. Οι συνειρμοί που γεννιόντουσαν
