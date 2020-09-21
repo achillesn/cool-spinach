@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #43'
+title: 'Συνοδευτική Επιστολή #43'
 subtitle: Θ' Ανατέλλω
 date: 2020-09-21 22:00:00 +0000
 thumb_img_path: "/images/115-l1120756.jpg"
