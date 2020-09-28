@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #43'
+title: 'Συνοδευτική επιστολή #43'
 subtitle: Δίχως μήλο
 date: 2020-09-28 22:00:00 +0000
 thumb_img_path: "/images/118.jpg"
