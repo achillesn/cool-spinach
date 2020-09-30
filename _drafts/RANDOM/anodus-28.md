@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: []
-title: anodus 28
-subtitle: ''
+title: Η αδυναμία της αποδοχής
+subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-09-29 22:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
