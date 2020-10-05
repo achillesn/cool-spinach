@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #45'
+title: 'Συνοδευτική επιστολή #45'
 subtitle: Η αράχνη
 date: 2020-10-05 22:00:00 +0000
 thumb_img_path: "/images/119.jpg"
@@ -14,6 +14,9 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/119.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
+
 Μου ζήτησες να σου πλέξω μία κουβέρτα
 
 \-Ζεστή ή δροσερή;
