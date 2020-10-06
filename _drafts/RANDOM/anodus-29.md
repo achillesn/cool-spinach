@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: anodus 29
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-10-06 22:00:00 +0000
