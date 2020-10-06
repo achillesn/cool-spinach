@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: 'Συνοδευτική επιστολή #45'
-subtitle: Η αράχνη
+subtitle: Το όνειρο της αράχνης
 date: 2020-10-05 22:00:00 +0000
 thumb_img_path: "/images/119.jpg"
 content_img_path: "/images/119.jpg"
