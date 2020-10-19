@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #47'
+title: 'Συνοδευτική Επιστολή #47'
 subtitle: Άβολη θέση
 date: 2020-10-19 22:00:00 +0000
 thumb_img_path: "/images/117.jpg"
