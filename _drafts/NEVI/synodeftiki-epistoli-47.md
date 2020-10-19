@@ -14,6 +14,9 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/117.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
+
 \-Θα στέκομαι στο παράθυρο και θα περιμένω.
 
 \-Λίγο άβολη η θέση σου,  
