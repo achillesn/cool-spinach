@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 31
+title: Η ενοχή της ασυνειδησίας
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-10-20 22:00:00 +0000
 thumb_img_path: "/images/31_mg_2499.jpg"
