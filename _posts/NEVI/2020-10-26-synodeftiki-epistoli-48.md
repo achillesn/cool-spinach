@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: []
-title: 'synodeftiki epistoli #48'
+categories:
+- News
+title: 'Συνοδευτική επιστολή #48'
 subtitle: 7 φορές
 date: 2020-10-26 23:00:00 +0000
 thumb_img_path: "/images/116.jpg"
@@ -13,6 +14,8 @@ excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' αν�
 canonical_url: "/images/116.jpg"
 
 ---
+Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 7 φορές.  
 7 ψυχές εγώ θα περπατήσω.
 
