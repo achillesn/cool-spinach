@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: []
-title: anodus 32
-subtitle: Η υπεροχή του αγνώστου
+title: Η υπεροχή του αγνώστου
+subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-10-27 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
