@@ -4,7 +4,7 @@ categories:
 - News
 title: 'Συνοδευτική επιστολή #48'
 subtitle: 7 φορές
-date: 2020-10-26 23:00:00 +0000
+date: 2020-10-25 23:00:00 +0000
 thumb_img_path: "/images/116.jpg"
 content_img_path: "/images/116.jpg"
 excerpt: " Η Συνοδευτική Επιστολή προσδοκά ν' ανακαλύψει τις προεκτάσεις της εικόνας
