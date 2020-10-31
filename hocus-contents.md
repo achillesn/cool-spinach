@@ -39,7 +39,7 @@ menu:
 \#27. <a href="https://hocusphotus.com/posts/anodus-27/" target="blank"> Το το ανεστίαστο των εντυπώσεων</a>
 \#28. <a href="https://hocusphotus.com/posts/anodus-28/" target="blank"> Η αδυναμία της αποδοχής</a>
 \#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>
-\#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η ανεπάρκεια των λέξεων</a>
+\#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>
 
 
 
