@@ -36,7 +36,7 @@ menu:
 \#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>  
 \#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>  
 \#26. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>  
-\#27. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>
+\#27. <a href="https://hocusphotus.com/posts/to-aggigma-tou-tipota/" target="blank"> Το βάθος της ψευδαίσθησης</a>
 
 ### Συνοδευτική Επιστολή
 
