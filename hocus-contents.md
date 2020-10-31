@@ -40,6 +40,7 @@ menu:
 \#28. <a href="https://hocusphotus.com/posts/anodus-28/" target="blank"> Η αδυναμία της αποδοχής</a>
 \#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>
 \#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>
+\#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>
 
 
 
