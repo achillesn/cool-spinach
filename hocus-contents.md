@@ -87,12 +87,12 @@ _Image + poetry (GR)_
 \#38. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-38/" target="blank">Το κοπερτί</a>  
 \#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>  
 \#40. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-40/" target="blank">Εκδηλώσεις τρυφερότητας</a>  
-\#41. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-41/" target="blank">Η μονομαχία</a>
-\#42. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-42/" target="blank">Το κρυφτό</a>
-\#44. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-43/" target="blank">Δίχως μήλο</a>
-\#45. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-45/" target="blank">Το όνειρο της αράχνης</a>
-\#46. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-46/" target="blank">Η ξύλινη καρδιά</a>
-\#47. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-47/" target="blank">Άβολη θέση</a>
+\#41. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-41/" target="blank">Η μονομαχία</a>  
+\#42. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-42/" target="blank">Το κρυφτό</a>   
+\#44. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-43/" target="blank">Δίχως μήλο</a>   
+\#45. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-45/" target="blank">Το όνειρο της αράχνης</a>   
+\#46. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-46/" target="blank">Η ξύλινη καρδιά</a>   
+\#47. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-47/" target="blank">Άβολη θέση</a>   
 \#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>
 
 ### Virtual Connections
