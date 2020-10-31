@@ -88,6 +88,8 @@ _Image + poetry (GR)_
 \#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>  
 \#40. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-40/" target="blank">Εκδηλώσεις τρυφερότητας</a>  
 \#41. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-41/" target="blank">Η μονομαχία</a>
+\#42. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-42/" target="blank">Το κρυφτό</a>
+\#44. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-43/" target="blank">Δίχως μήλο</a>
 
 ### Virtual Connections
 
