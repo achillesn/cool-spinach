@@ -35,14 +35,14 @@ _Image + text (GR)_
 \#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>  
 \#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>  
 \#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>  
-\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>    
-\#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>    
+\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>  
+\#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>  
 \#26. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>  
 \#27. <a href="https://hocusphotus.com/posts/anodus-27/" target="blank"> Το το ανεστίαστο των εντυπώσεων</a>  
-\#28. <a href="https://hocusphotus.com/posts/anodus-28/" target="blank"> Η αδυναμία της αποδοχής</a>   
-\#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>   
-\#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>   
-\#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>   
+\#28. <a href="https://hocusphotus.com/posts/anodus-28/" target="blank"> Η αδυναμία της αποδοχής</a>  
+\#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>  
+\#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>  
+\#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>  
 \#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>
 
 ### Συνοδευτική Επιστολή
@@ -61,7 +61,7 @@ _Image + poetry (GR)_
 \#10. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-10/" target="blank">Το κρυφτό</a>  
 \#11. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-11/" target="blank">Αυτό που είχα φοβηθεί</a>  
 \#12. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-12/" target="blank">Ουράνια ξιφομαχία</a>  
-\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a>
+\#13. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-13/" target="blank">Το Νησί</a>  
 \#14. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-14/" target="blank">Στο στόμα του Δράκου</a>  
 \#15. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-15/" target="blank">Η μοναξιά του Κύκνου</a>  
 \#16. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-16/" target="blank">Το Μυστικό</a>  
@@ -90,11 +90,11 @@ _Image + poetry (GR)_
 \#39. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-39/" target="blank">Η σχεδία</a>  
 \#40. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-40/" target="blank">Εκδηλώσεις τρυφερότητας</a>  
 \#41. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-41/" target="blank">Η μονομαχία</a>  
-\#42. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-42/" target="blank">Το κρυφτό</a>   
-\#44. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-43/" target="blank">Δίχως μήλο</a>   
-\#45. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-45/" target="blank">Το όνειρο της αράχνης</a>   
-\#46. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-46/" target="blank">Η ξύλινη καρδιά</a>   
-\#47. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-47/" target="blank">Άβολη θέση</a>   
+\#42. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-42/" target="blank">Το κρυφτό</a>  
+\#44. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-43/" target="blank">Δίχως μήλο</a>  
+\#45. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-45/" target="blank">Το όνειρο της αράχνης</a>  
+\#46. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-46/" target="blank">Η ξύλινη καρδιά</a>  
+\#47. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-47/" target="blank">Άβολη θέση</a>  
 \#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>
 
 ### Virtual Connections
