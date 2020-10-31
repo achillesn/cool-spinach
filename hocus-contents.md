@@ -10,6 +10,8 @@ menu:
 ---
 ### Η Ελεγεία της Ανόδου
 
+_Image + text (GR)_
+
 \#1. <a href="https://hocusphotus.com/posts/i-giorti-tis-anasas/" target="blank"> Η γιορτή της ανάσας</a>  
 \#2. <a href="https://hocusphotus.com/posts/anodus-2/" target="blank"> Η μυστική συμμαχία</a>  
 \#3. <a href="https://hocusphotus.com/posts/i-siopi-tis-prosmonis/" target="blank"> Η σιωπή της προσμονής</a>  
