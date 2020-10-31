@@ -33,15 +33,15 @@ menu:
 \#21. <a href="https://hocusphotus.com/posts/anodus-21/" target="blank"> Η συγκάληψη της ευθύνης</a>  
 \#22. <a href="https://hocusphotus.com/posts/anodus-22/" target="blank"> Το τίμημα της ασφάλειας</a>  
 \#23. <a href="https://hocusphotus.com/posts/anodus-23/" target="blank"> Η αποφασιστικότητα της φυγής</a>  
-\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>  \#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>  \#26. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>  
-\#27. <a href="https://hocusphotus.com/posts/anodus-27/" target="blank"> Το το ανεστίαστο των εντυπώσεων</a>
-\#28. <a href="https://hocusphotus.com/posts/anodus-28/" target="blank"> Η αδυναμία της αποδοχής</a>
-\#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>
-\#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>
-\#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>
+\#24. <a href="https://hocusphotus.com/posts/anodus-24/" target="blank"> Ο δρόμος της καρδιάς</a>    
+\#25. <a href="https://hocusphotus.com/posts/anodus-25/" target="blank"> Η έλευση της εικόνας</a>    
+\#26. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>  
+\#27. <a href="https://hocusphotus.com/posts/anodus-27/" target="blank"> Το το ανεστίαστο των εντυπώσεων</a>  
+\#28. <a href="https://hocusphotus.com/posts/anodus-28/" target="blank"> Η αδυναμία της αποδοχής</a>   
+\#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>   
+\#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>   
+\#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>   
 \#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>
-
-
 
 ### Συνοδευτική Επιστολή
 
