@@ -38,6 +38,9 @@ menu:
 \#26. <a href="https://hocusphotus.com/posts/anodus-26/" target="blank"> Το βάθος της ψευδαίσθησης</a>  
 \#27. <a href="https://hocusphotus.com/posts/to-aggigma-tou-tipota/" target="blank"> Το βάθος της ψευδαίσθησης</a>
 \#28. <a href="https://hocusphotus.com/posts/anodus-27/" target="blank"> Το το ανεστίαστο των εντυπώσεων</a>
+\#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η αδυναμία της αποδοχής</a>
+
+
 
 ### Συνοδευτική Επιστολή
 
