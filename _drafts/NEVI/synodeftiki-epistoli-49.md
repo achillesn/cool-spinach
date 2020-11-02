@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #49'
+title: 'Συνοδευτική επιστολή #49'
 subtitle: Τα μήλα
 date: 2020-11-02 23:00:00 +0000
 thumb_img_path: "/images/123.jpg"
