@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: []
-title: anodus 33
+categories:
+- News
+title: Το βάρος των διαπιστώσεων
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-11-03 23:00:00 +0000
 thumb_img_path: "/images/33an_mg_2881.jpeg"
