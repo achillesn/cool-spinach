@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'synodeftiki epistoli #50'
+title: 'Συνοδευτική Επιστολή #50'
 subtitle: Το γράμμα
 date: 2020-11-09 23:00:00 +0000
 thumb_img_path: "/images/121.jpg"
