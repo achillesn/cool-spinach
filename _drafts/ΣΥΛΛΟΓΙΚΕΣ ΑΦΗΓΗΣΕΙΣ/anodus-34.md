@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: anodus 34
+title: Η υπεροψία της άγνοιας
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-11-10 23:00:00 +0000
 thumb_img_path: "/images/19_mg_6345.jpg"
