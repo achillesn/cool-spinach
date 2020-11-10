@@ -4,13 +4,13 @@ categories: []
 title: Η υπεροψία της άγνοιας
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-11-10 23:00:00 +0000
-thumb_img_path: "/images/19_mg_6345.jpg"
-content_img_path: "/images/19_mg_6345.jpg"
+thumb_img_path: "/images/34-311f522f-9c2d-4a89-914d-dd851b03ebd4.jpg"
+content_img_path: "/images/34-311f522f-9c2d-4a89-914d-dd851b03ebd4.jpg"
 excerpt: Μέχρι να βεβαιωθώ ποια ήταν η διαφορά του ύπνου από το λήθαργο, είχα σχεδόν
   σαπίσει από την ακινησία. Μια ακινησία που έχει την ιδιότητα να σε ρουφά σαν τεράστια
   δίνη. Μέσα της δεν υπάρχει καμία διαφορά αν κοιμάται κανείς ή αν είναι ξύπνιος.
   Είναι διαρκώς εξαρτημένος, δίχως καν να το αντιλαμβάνεται.
-canonical_url: "/images/19_mg_6345.jpg"
+canonical_url: "/images/34-311f522f-9c2d-4a89-914d-dd851b03ebd4.jpg"
 
 ---
 Συνέχεια απο:<a href="https://hocusphotus.com/posts/anodus-33/" target="blank">Το βάρος των διαπιστώσεων</a>
