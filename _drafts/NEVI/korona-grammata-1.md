@@ -33,10 +33,8 @@ canonical_url: "/images/122.jpg"
 πανσέληνο λέω  
 να μη ξαναβγώ.
 
-<a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> 
-
-
+<a href="https://www.facebook.com/nevi.kaninia" target="blank">_Nevi Kaninia_</a>
 
 Περπατούσα κοιτάζοντας χαμηλά. Η υφή της βρεγμένης ασφάλτου που χαριεντίζονταν με το φως, δε μπορούσε να μην αποσπάσει την προσοχή μου από το φευγαλέο συρφετό των εικόνων του περιπάτου. Μια μικρή λακουβίτσα νερού, τελευταίο απομεινάρι της απογευματινής βροχής ήταν όλο κι όλο αυτό που είχε απομείνει. Υποκλίθηκα και με μία απαλή κίνηση του δείκτη τη μεταμόρφωσα σε όνειρο πριν να προλάβει να χαθεί.
 
-<a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+<a href="https://anikon.org/" target="blank">_Achilles Nasios_</a>
