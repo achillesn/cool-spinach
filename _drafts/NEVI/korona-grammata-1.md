@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Κορώνα - Γράμματα
-subtitle: ''
+subtitle: Νέβι Κανίνια - Αχιλλέας Νάσιος
 date: 2020-11-16 23:00:00 +0000
 thumb_img_path: "/images/122.jpg"
 content_img_path: "/images/122.jpg"
