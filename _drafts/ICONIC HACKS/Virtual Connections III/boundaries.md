@@ -1,12 +1,15 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Boundaries
 subtitle: ''
 date: 2020-11-18 23:00:00 +0000
 thumb_img_path: "/images/03-2.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Τρεις φωτογράφοι συνδέονται μέσα από τις εικόνες τους, καταθέτοντας σταδιακά
+  και δίχως κάποια μεταξύ τους συννενόηση, μια-μια τις φωτογραφίες τους, μέχρι να
+  δουν τελικά μια εικονική αφήγηση να αναδύεται μπροστά τους. '
 canonical_url: "/images/03-2.jpg"
 
 ---
