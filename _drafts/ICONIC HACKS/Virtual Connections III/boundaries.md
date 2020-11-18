@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Boundaries
-subtitle: ''
+subtitle: Virtual Connections
 date: 2020-11-18 23:00:00 +0000
 thumb_img_path: "/images/03-2.jpg"
 content_img_path: ''
