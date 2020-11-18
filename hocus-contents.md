@@ -43,7 +43,8 @@ _Image + text (GR)_
 \#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>  
 \#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>  
 \#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>  
-\#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a> #33. <a href="https://hocusphotus.com/posts/anodus-33/" target="blank"> Το βάρος των διαπιστώσεων</a>  
+\#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>   
+\#33. <a href="https://hocusphotus.com/posts/anodus-33/" target="blank"> Το βάρος των διαπιστώσεων</a>  
 \#34. <a href="https://hocusphotus.com/posts/anodus-34/" target="blank"> Η υπεροψία της άγνοιας</a>  
 \#35. <a href="https://hocusphotus.com/posts/anodus-35/" target="blank"> Η ανικανοποίητη δίψα</a>
 
@@ -97,7 +98,7 @@ _Image + poetry (GR)_
 \#45. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-45/" target="blank">Το όνειρο της αράχνης</a>  
 \#46. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-46/" target="blank">Η ξύλινη καρδιά</a>  
 \#47. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-47/" target="blank">Άβολη θέση</a>  
-\#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>   
+\#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>  
 \#49. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-49/" target="blank">Τα μήλα</a>  
 \#50. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">Το γράμμα</a>
 
