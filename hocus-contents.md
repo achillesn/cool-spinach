@@ -43,7 +43,9 @@ _Image + text (GR)_
 \#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>  
 \#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>  
 \#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>  
-\#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>
+\#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a> #33. <a href="https://hocusphotus.com/posts/anodus-33/" target="blank"> Το βάρος των διαπιστώσεων</a>  
+\#34. <a href="https://hocusphotus.com/posts/anodus-34/" target="blank"> Η υπεροψία της άγνοιας</a>  
+\#35. <a href="https://hocusphotus.com/posts/anodus-35/" target="blank"> Η ανικανοποίητη δίψα</a>
 
 ### Συνοδευτική Επιστολή
 
