@@ -13,6 +13,8 @@ excerpt: 'Τρεις φωτογράφοι συνδέονται μέσα από �
 canonical_url: "/images/03-2.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 Photo series: © <a href="https://www.facebook.com/Sakis.Da" target="blank">Sakis Dazanis</a> -  <a href="https://www.facebook.com/dimitris.makrygiannakis" target="blank">Dimitris Makrygiannakis</a> - <a href="https://www.facebook.com/mavrozoymis.dimitris" target="blank">Dimitris Mavrozoumis</a>
 
 ![](/images/01-1.jpg)
