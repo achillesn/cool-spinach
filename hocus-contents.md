@@ -97,7 +97,9 @@ _Image + poetry (GR)_
 \#45. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-45/" target="blank">Το όνειρο της αράχνης</a>  
 \#46. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-46/" target="blank">Η ξύλινη καρδιά</a>  
 \#47. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-47/" target="blank">Άβολη θέση</a>  
-\#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>
+\#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>   
+\#49. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-49/" target="blank">Τα μήλα</a>  
+\#50. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">Το γράμμα</a>
 
 ### Virtual Connections
 
