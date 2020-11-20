@@ -2,7 +2,7 @@
 layout: page
 title: Blogus Contentus
 subtitle: ''
-img_path: "/images/05_MG_3417.jpg"
+img_path: "/images/c1_mg_6023.jpg"
 menu:
   main:
     weight: 4
