@@ -4,7 +4,7 @@ categories:
 - News
 title: Boundaries
 subtitle: Virtual Connections II
-date: 2020-11-19 23:00:00 +0000
+date: 2020-11-21 23:00:00 +0000
 thumb_img_path: "/images/03-2.jpg"
 content_img_path: ''
 excerpt: 'Συμμετέχοντας σε μια απο τις δράσεις του δικτύου Hocus Photus, τρεις φωτογράφοι
