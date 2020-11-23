@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: korona-grammata 2
-subtitle: ''
+subtitle: Νέβι Κανίνια - Αχιλλέας Νάσιος
 date: 2020-11-23 23:00:00 +0000
 thumb_img_path: "/images/124.jpg"
 content_img_path: "/images/124.jpg"
