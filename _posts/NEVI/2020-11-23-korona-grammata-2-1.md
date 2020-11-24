@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Κορώνα - Γράμματα 2
-subtitle: Νέβι Κανίνια - Αχιλλέας Νάσιος
+subtitle: Δυο κείμενα για μια φωτογραφία
 date: 2020-11-23 23:00:00 +0000
 thumb_img_path: "/images/124.jpg"
 content_img_path: "/images/124.jpg"
