@@ -45,3 +45,5 @@ canonical_url: "/images/04the-sea-within.jpg"
 ![](/images/14the-sea-within.jpg)
 
 ![](/images/15the-sea-within.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/nataly.dannenberg" target="blank">Nataly Dannenberg</a> - 2.  <a href="https://www.facebook.com/dimitris.makrygiannakis" target="blank">Tasos Biris</a> - 3. <a href="https://www.facebook.com/mavrozoymis.dimitris" target="blank">Nevi Kaninia</a>
