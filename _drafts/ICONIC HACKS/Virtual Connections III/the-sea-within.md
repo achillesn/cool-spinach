@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: The sea within
 subtitle: Virtual Connections II
 date: 2020-11-28 23:00:00 +0000
