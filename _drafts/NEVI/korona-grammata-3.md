@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: korona-grammata 3
-subtitle: ''
+subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2020-11-30 23:00:00 +0000
 thumb_img_path: "/images/125.jpg"
 content_img_path: "/images/125.jpg"
