@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: i simasia tis siopis
+title: Η σημασία της Σιωπής
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-12-01 23:00:00 +0000
 thumb_img_path: "/images/37_mg_9288.jpg"
