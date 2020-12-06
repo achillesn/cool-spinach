@@ -41,3 +41,5 @@ canonical_url: "/images/11-2.jpg"
 ![](/images/14-1.jpg)
 
 ![](/images/15-2.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/tsilis.george" target="blank">George Tsilis</a> - 2.  <a href="https://www.facebook.com/nikos.mitrakas" target="blank">Nikos Mitrakas</a> - 3. <a href="https://www.facebook.com/gargaro65" target="blank">Garo Kalaydjian</a>
