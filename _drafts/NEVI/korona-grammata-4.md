@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 4
+title: Κορώνα-Γράμματα 4
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2020-12-07 23:00:00 +0000
 thumb_img_path: "/images/126-f8539176-0259-44ca-862d-db09326b3357.jpg"
