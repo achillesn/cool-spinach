@@ -16,6 +16,8 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/126-f8539176-0259-44ca-862d-db09326b3357.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 **1.**
 
 Κάθε βράδυ τον άκουγα να τρέχει πέρα δώθε στο δωμάτιο.  
