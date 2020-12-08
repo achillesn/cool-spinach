@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: anodus 38
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-12-08 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/19_mg_6345.jpg"
+content_img_path: "/images/19_mg_6345.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/19_mg_6345.jpg"
 
 ---
 \-Είδες λοιπόν πόσο σημαντική είναι η δύναμη της σιωπής; Μόνο όταν σωπάσει κανείς είναι έτοιμος ν’ ακούσει.    
