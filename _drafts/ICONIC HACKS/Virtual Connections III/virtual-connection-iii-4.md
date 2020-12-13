@@ -41,3 +41,5 @@ canonical_url: "/images/06-4.jpg"
 ![](/images/14-oss.jpg)
 
 ![](/images/15-oss.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/profile.php?id=100004147575145" target="blank">Corneliu Sarion</a> - 2.  <a href="https://www.facebook.com/makis.makris.54" target="blank">Makis Makris</a> - 3. <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a>
