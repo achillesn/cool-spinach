@@ -16,7 +16,7 @@ canonical_url: "/images/06-4.jpg"
 ---
 ![](/images/bwok-2.jpg)
 
-![](/images/01-loss.jpg)
+![](/images/01fraud.jpg)
 
 ![](/images/02-oss.jpg)
 
