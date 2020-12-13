@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Loss
 subtitle: ''
 date: 2020-12-12 23:00:00 +0000
@@ -42,4 +43,4 @@ canonical_url: "/images/06-4.jpg"
 
 ![](/images/15-oss.jpg)
 
-Photo series: © 1. <a href="https://www.facebook.com/profile.php?id=100004147575145" target="blank">Corneliu Sarion</a> - 2.  <a href="https://www.facebook.com/makis.makris.54" target="blank">Makis Makris</a> - 3. <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a>
+Photo series: © 1. <a href="https://www.facebook.com/profile.php?id=100004147575145" target="blank">Corneliu Sarion</a> - 2.  <a href="https://www.facebook.com/makis.makris.54" target="blank">Makis Makris</a> - 3. <a href="https://www.facebook.com/achilles.nasios/" target="blank">Achilles Nasios</a>
