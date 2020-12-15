@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 39
+title: Η όψη της ελευθερίας
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-12-15 23:00:00 +0000
 thumb_img_path: "/images/b2d07050-da16-4731-9dae-04a9bae90143.jpg"
