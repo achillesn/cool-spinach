@@ -45,3 +45,5 @@ canonical_url: "/images/13-kakada.jpg"
 ![](/images/14-kakada.jpg)
 
 ![](/images/15-kakada.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - 2.  <a href="https://www.facebook.com/gargaro65" target="blank">Garo Kalaydjian</a> - 3. <a href="https://www.facebook.com/Sakis.Da" target="blank">Sakis Dazanis</a>
