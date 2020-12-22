@@ -1,8 +1,9 @@
 ---
 layout: post
-categories: []
-title: korona-grammata 6
-subtitle: ''
+categories:
+- News
+title: Κορώνα-Γράμματα 6
+subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2020-12-21 23:00:00 +0000
 thumb_img_path: "/images/130_mg_6912.jpg"
 content_img_path: "/images/130_mg_6912.jpg"
@@ -17,7 +18,9 @@ canonical_url: "/images/130_mg_6912.jpg"
 ---
 Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
-Απόκοσμες μορφές ίπταντο ,   
+**1.**
+
+Απόκοσμες μορφές ίπταντο ,  
 φαντάσματα παλιότερων Χριστουγέννων.  
 Καρφωμένη στο παράθυρο  
 μελετούσα το κιτς των ονείρων  
@@ -30,3 +33,7 @@ Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi K
 \-Θα μπερδεύτηκα, απάντησα με περίεργη προφορά.  
 Τα φαντάσματα δεν είναι πλέον  
 όπως ήταν παλιά.
+
+**2.**
+
+Κάθε Χριστούγεννα, τα παιδιά φτιάχουν αγγελάκια με βαμβάκι και τα κρεμούν στα παράθυρα. Το φως είναι λιγοστό το χειμώνα στο βορρά. Τα παράθυρα δεν έχουν κουρτίνες. Έριξα μια κλεφτή ματιά στα σημεία των καιρών καθώς περνούσα. Ένα μηχανικό κλικ τάραξε την παγωμένη ησυχία της νύχτας. Καλά Χριστούγεννα, σκέφτηκα και συνέχισα το δρόμο.
