@@ -15,6 +15,8 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/130_mg_6912.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 Απόκοσμες μορφές ίπταντο ,   
 φαντάσματα παλιότερων Χριστουγέννων.  
 Καρφωμένη στο παράθυρο  
