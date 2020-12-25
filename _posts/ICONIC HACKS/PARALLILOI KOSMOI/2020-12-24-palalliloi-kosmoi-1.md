@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 1
+title: Παράλληλοι κόσμοι 1
 subtitle: ''
 date: 2020-12-24 23:00:00 +0000
 thumb_img_path: "/images/03_mg_7876-copy.jpg"
@@ -34,3 +34,5 @@ canonical_url: "/images/03_mg_7876-copy.jpg"
 ![](/images/09_mg_4502.jpg)
 
 ![](/images/10-131933801_705965316775232_2998845457907328010_n.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=100000196118507" target="blank">Christos Papadopoulos</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
