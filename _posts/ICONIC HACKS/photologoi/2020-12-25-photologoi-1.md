@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: ΕΙΚΟΝΟ-ΛΟΓΟΙ 1
+title: 'ΕΙΚΟΝΟ-ΛΟΓΟΙ '
 subtitle: ''
 date: 2020-12-25 23:00:00 +0000
 thumb_img_path: "/images/01-_mg_1001.jpg"
