@@ -10,6 +10,8 @@ excerpt: ''
 canonical_url: "/images/03_mg_7876-copy.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 ![](/images/01_mg_7573.jpg)
 
 ![](/images/02-131929648_681585886058037_1040773105836478074_n.jpg)
