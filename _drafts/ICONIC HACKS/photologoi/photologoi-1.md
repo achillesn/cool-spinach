@@ -46,4 +46,4 @@ canonical_url: "/images/01-_mg_1001.jpg"
 
 Εκείνο το βράδυ, τελειώνοντας τον μαραθώνιο της μοίρας μου μπροστά στην οθόνη, έριξα τυχαία το βλέμμα μου έξω. Ωωω! Έπεφτε εκείνο το όμορφο το χιόνι που ένωνε με χάρη τον ουρανό και τη γη. Δεν πρόλαβα καν να σκεφτώ. Άρχισα να φωτογραφίζω δίχως να έχω κάνει τις κατάλληλες ρυθμίσεις. Ευτυχώς, αλλιώς δε θα ήξερα το πως γεννιούνται τα όνειρα.
 
-Text by © <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia - </a>Photo by © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+Photo and concept © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
