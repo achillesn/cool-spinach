@@ -14,7 +14,6 @@ excerpt: 'Τι είναι αυτό που κάνει τις εικόνες να 
 canonical_url: "/images/01-_mg_1001.jpg"
 
 ---
-![](/images/bwok-2.jpg)
 
 1\.
 
