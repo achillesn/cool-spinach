@@ -14,6 +14,8 @@ excerpt: Συμμετέχοντας σε μια απο τις δράσεις τ�
 canonical_url: "/images/07-2-lunama.jpg"
 
 ---
+![](/images/bwok-2.jpg)
+
 ![](/images/01-2-lunama.jpg)
 
 ![](/images/121-1.jpg)
