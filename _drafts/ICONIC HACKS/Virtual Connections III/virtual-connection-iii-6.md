@@ -43,3 +43,5 @@ canonical_url: "/images/07-2-lunama.jpg"
 ![](/images/14-2-lunama_mg_8133.jpg)
 
 ![](/images/15-2-lunama.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/profile.php?id=100002601821074" target="blank">Louloudia Gredi</a> - 2.  <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a> - 3. <a href="https://www.facebook.com/profile.php?id=100011687118637" target="blank">Marko Polonio</a>
