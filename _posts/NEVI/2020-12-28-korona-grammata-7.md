@@ -16,7 +16,7 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/133_mg_8582.jpg"
 
 ---
-Text 1 by: Nevi Kaninia - Photo and text 2 by: Achilles Nasios
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
 1\.
 
