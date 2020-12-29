@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 7
+title: Κορώνα-Γράμματα 7
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2020-12-28 23:00:00 +0000
 thumb_img_path: "/images/133_mg_8582.jpg"
