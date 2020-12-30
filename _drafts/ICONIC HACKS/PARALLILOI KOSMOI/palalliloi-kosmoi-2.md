@@ -30,3 +30,5 @@ canonical_url: "/images/10-26240489_10214819177735378_5941252204826215633_o.jpg"
 ![](/images/09-131932684_171533181323298_6055015059543801977_n.jpg)
 
 ![](/images/10-26240489_10214819177735378_5941252204826215633_o.jpg)
+
+Photo series: © <a href="https://www.facebook.com/profile.php?id=100008007134922" target="blank">Nelli Kritikopoulou</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
