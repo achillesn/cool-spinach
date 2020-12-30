@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: anodus 41
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2020-12-29 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/35d21f6b-e862-421b-adf3-b5616dc00156.jpg"
+content_img_path: "/images/35d21f6b-e862-421b-adf3-b5616dc00156.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/35d21f6b-e862-421b-adf3-b5616dc00156.jpg"
 
 ---
 \-Νομίζω ότι έχει να κάνει με τη θέληση. Να είμαι ελεύθερος σημαίνει να μπορώ να κάνω αυτό που θέλω. Αλλά πάλι το ότι θέλω, δε μπορεί να υπάρξει απόλυτα. Υπάρχουν πράγματα που δε μπορώ να κάνω. Πράγματα που η ηθική μου δεν μου επιτρέπει να κάνω. Οπότε πως μπορώ να είμαι ελεύθερος; 
