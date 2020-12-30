@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Παράλληλοι κόσμοι 2
 subtitle: ''
 date: 2020-12-31 23:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/10-26240489_10214819177735378_5941252204826215633_o.jpg"
 content_img_path: ''
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/10-26240489_10214819177735378_5941252204826215633_o.jpg"
 
 ---
 ![](/images/01-131903533_444901853176643_3660406881556197611_n.jpg)
