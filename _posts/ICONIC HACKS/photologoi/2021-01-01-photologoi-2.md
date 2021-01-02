@@ -30,7 +30,7 @@ canonical_url: "/images/02-quint_mg_6884.jpg"
 
 Άλογο που μνημειώθηκε. Βουβό είναι το χλιμίντρισμα, ενώ οι ακαθόριστες μουσικές αναδύονται από τη θαμπάδα, στο βάθος ένας κόσμος κάπως ζει, κινείται, χορεύει, γελάει, κλαίει, ονειρεύεται, μέσα στο ά-λογο τοπίο της φαντασίας και της φαντασίωσης, άναρθρα και άλογα, παράλογο μια προτομή για το άλογο, εκείνο το ά-λογο το βουβά ηρωικό.
 
-© <a href="https://www.facebook.com/dimitra.kitsiou" target="blank"> Dimitra Kitsiou</a>
+© <a href="https://www.facebook.com/profile.php?id=100008460452394" target="blank"> Rania Polycandrioti</a>
 
 4\.
 
@@ -38,7 +38,7 @@ canonical_url: "/images/02-quint_mg_6884.jpg"
 που είσαι Αλέξανδρε;  
 άστρο φωτεινό.
 
-© <a href="https://www.facebook.com/profile.php?id=100008460452394" target="blank"> Rania Polycandrioti</a>
+© <a href="https://www.facebook.com/dimitra.kitsiou" target="blank"> Dimitra Kitsiou</a>
 
 5\.
 
