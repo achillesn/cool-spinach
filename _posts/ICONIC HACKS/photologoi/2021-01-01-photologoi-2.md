@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: photologoi 2
+title: ΕΙΚΟΝΟΛΟΓΟΙ 2
 subtitle: ''
 date: 2021-01-01 23:00:00 +0000
 thumb_img_path: "/images/02-quint_mg_6884.jpg"
