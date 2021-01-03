@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Breaking through
-subtitle: Makrygianakis-Stamatiou-Nasios
+subtitle: Makrygiannakis-Stamatiou-Nasios
 date: 2021-01-02 23:00:00 +0000
 thumb_img_path: "/images/01-1-1-mastana-1.jpg"
 content_img_path: ''
