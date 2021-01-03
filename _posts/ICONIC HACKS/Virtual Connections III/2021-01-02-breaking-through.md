@@ -43,3 +43,5 @@ canonical_url: "/images/01-1-1-mastana-1.jpg"
 ![](/images/14-1-mastana-1.jpg)
 
 ![](/images/15-1-mastana-1.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/dimitris.makrygiannakis" target="blank">Dimitris Makrygiannakis</a> - 2. <a href="https://www.facebook.com/profile.php?id=100011687118637" target="blank">Stavros Stamatiou</a> - 3. <a href="https://www.facebook.com/achilles.nasios" target="blank">Achilles Nasios</a> 
