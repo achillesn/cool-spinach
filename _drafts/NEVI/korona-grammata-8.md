@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 8
+title: Κορώνα/Γράμματα 8
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-01-04 23:00:00 +0000
 thumb_img_path: "/images/126_mg_0784.jpg"
