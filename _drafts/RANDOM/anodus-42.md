@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 42
+title: Πριν την αρχή
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2021-01-05 23:00:00 +0000
 thumb_img_path: "/images/_mg_0905.jpg"
