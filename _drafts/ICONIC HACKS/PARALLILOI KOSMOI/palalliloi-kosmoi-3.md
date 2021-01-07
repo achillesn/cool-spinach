@@ -30,3 +30,5 @@ canonical_url: "/images/02-23632213_10214387636827125_7791048808905755756_o.jpg"
 ![](/images/09-134052942_239399174252454_5305429762699316084_n.jpg)
 
 ![](/images/10-50858160_10217872721472063_8850629035168890880_o.jpg)
+
+Photo series: © <a href="https://www.facebook.com/papagelis.agelos" target="blank">Agelos Papagelis</a> and  <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
