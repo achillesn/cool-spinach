@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Παράλληλοι κόσμοι 3
-subtitle: Άγγελος Παπαγγέλης - Αχιλλέας Νάσιος
+subtitle: Άγγελος Παπαγγελής - Αχιλλέας Νάσιος
 date: 2021-01-07 23:00:00 +0000
 thumb_img_path: "/images/02-23632213_10214387636827125_7791048808905755756_o.jpg"
 content_img_path: ''
