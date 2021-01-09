@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Virtual Connection iii-8
+title: The other side of now
 subtitle: Makis Makris-Stavros Stamatiou-Corneliu Sarion
 date: 2021-01-09 23:00:00 +0000
 thumb_img_path: "/images/03-mastasa.jpg"
@@ -14,3 +14,24 @@ excerpt: Συμμετέχοντας σε μια απο τις δράσεις τ�
 canonical_url: "/images/03-mastasa.jpg"
 
 ---
+![](/images/01-mastasa.jpg)
+
+![](/images/02-mastasa.jpg)
+
+![](/images/03-mastasa.jpg)
+
+![](/images/04-mastasa.jpg)
+
+![](/images/05-mastasa.jpg)
+
+![](/images/06-mastasa.jpg)
+
+![](/images/07-mastasa.jpg)
+
+![](/images/08-masta-sa.jpg)
+
+![](/images/09-mastasa.jpg)
+
+![](/images/10-mastasa.jpg)
+
+![](/images/11-mastasa.jpg)
