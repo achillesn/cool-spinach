@@ -35,3 +35,11 @@ canonical_url: "/images/03-mastasa.jpg"
 ![](/images/10-mastasa.jpg)
 
 ![](/images/11-mastasa.jpg)
+
+![](/images/12-mastasa.jpg)
+
+![](/images/13-mastasa.jpg)
+
+![](/images/14-mastasa.jpg)
+
+![](/images/15-mastasa.jpg)
