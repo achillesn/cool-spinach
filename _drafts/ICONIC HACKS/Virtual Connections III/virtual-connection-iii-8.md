@@ -43,3 +43,5 @@ canonical_url: "/images/03-mastasa.jpg"
 ![](/images/14-mastasa.jpg)
 
 ![](/images/15-mastasa.jpg)
+
+Photo series: © 1. <a href="https://www.facebook.com/makis.makris.54" target="blank">Makis Makris</a> - 2. <a href="https://www.facebook.com/profile.php?id=1537524844" target="blank">Stavros Stamatiou</a> - 3. <a href="https://www.facebook.com/profile.php?id=100004147575145" target="blank">Corneliu Sarion</a>
