@@ -15,7 +15,7 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; 2020 - Hocus Photus. All rights reserved."
+  content: "&copy; 2021 - Hocus Photus. All rights reserved."
   links: []
 sass:
   indentWidth: 4
