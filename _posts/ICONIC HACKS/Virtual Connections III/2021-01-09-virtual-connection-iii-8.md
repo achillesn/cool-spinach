@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: The other side of now
-subtitle: Makis Makris-Stavros Stamatiou-Corneliu Sarion
+subtitle: Dimitris Mavrozoumis-Stavros Stamatiou-Corneliu Sarion
 date: 2021-01-09 23:00:00 +0000
 thumb_img_path: "/images/03-mastasa.jpg"
 content_img_path: ''
