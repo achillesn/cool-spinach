@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: korona-grammata 9
-subtitle: ''
+subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-01-11 23:00:00 +0000
 thumb_img_path: "/images/127_mg_1783.jpg"
 content_img_path: "/images/127_mg_1783.jpg"
@@ -15,6 +15,8 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/127_mg_1783.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 
 1\.
 
