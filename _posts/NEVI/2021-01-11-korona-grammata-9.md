@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: []
-title: korona-grammata 9
+title: Κορώνα-Γράμματα 9
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-01-11 23:00:00 +0000
 thumb_img_path: "/images/127_mg_1783.jpg"
