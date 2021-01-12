@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: Κορώνα-Γράμματα 9
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-01-11 23:00:00 +0000
