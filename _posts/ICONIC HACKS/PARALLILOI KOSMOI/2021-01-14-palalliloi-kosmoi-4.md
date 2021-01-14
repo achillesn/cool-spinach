@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Παράλληλοι κόσμοι 4
-subtitle: Αχιλλέας Νάσιος - Χρήστος Τσουμπλέκας
+subtitle: Χρήστος Τσουμπλέκας  -  Αχιλλέας Νάσιος
 date: 2021-01-14 23:00:00 +0000
 thumb_img_path: "/images/06-131979505_416273819564369_7157534259041716829_n.jpg"
 content_img_path: ''
