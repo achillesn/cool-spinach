@@ -30,3 +30,5 @@ canonical_url: "/images/06-131979505_416273819564369_7157534259041716829_n.jpg"
 ![](/images/09_mg_7664.jpg)
 
 ![](/images/10-132190924_1288285374862116_5309118256505577031_n.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://anikon.org/" target="blank">Achilles Nasios</a> and  2-4-6-8-10 <a href="https://www.facebook.com/tsoumplekas" target="blank">Christos Tsoumplekas</a>
