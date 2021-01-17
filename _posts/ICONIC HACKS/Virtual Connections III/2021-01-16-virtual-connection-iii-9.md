@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Virtual Connection iii 9
+title: Dance me to the end of Light
 subtitle: Γκάρο Καλαϊτζιάν - Γιώργος Τσίλης - Δημήτρης Μαυροζούμης
 date: 2021-01-16 23:00:00 +0000
 thumb_img_path: "/images/01-katsima.jpg"
