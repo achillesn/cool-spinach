@@ -43,3 +43,5 @@ canonical_url: "/images/01-katsima.jpg"
 ![](/images/14-katsima.jpg)
 
 ![](/images/15-katsima.jpg)
+
+Photo series: © 1-4-7-10-13. <a href="https://www.facebook.com/gargaro65" target="blank">Garo Kalaydjian</a> - © 2-5-8-11-14.  <a href="https://www.facebook.com/tsilis.george" target="blank">George Tsilis</a> - © 3-6-9-12-15. <a href="https://www.facebook.com/Sakis.Da" target="blank">Dimitris Mavrozoumis</a>
