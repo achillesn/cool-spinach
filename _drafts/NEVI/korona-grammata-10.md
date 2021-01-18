@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: []
-title: korona-grammata 10
+categories:
+- News
+title: Κορώνα-Γράμματα 10
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-01-18 23:00:00 +0000
 thumb_img_path: "/images/132_mg_7583.jpg"
