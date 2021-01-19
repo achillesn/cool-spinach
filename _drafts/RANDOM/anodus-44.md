@@ -1,13 +1,14 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 title: anodus 44
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2021-01-19 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/an23_mg_4291.jpg"
+content_img_path: "/images/an23_mg_4291.jpg"
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/an23_mg_4291.jpg"
 
 ---
 \-Για ποια αλλαγή μιλάς; Τι επανάσταση;
