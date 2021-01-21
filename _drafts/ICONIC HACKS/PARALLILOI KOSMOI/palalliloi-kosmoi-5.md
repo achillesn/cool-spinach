@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 5
+title: Παράλληλοι κόσμοι 5
 subtitle: Στέφανος Χρόνης - Αχιλλέας Νάσιος
 date: 2021-01-21 23:00:00 +0000
 thumb_img_path: "/images/09-132189857_742947789987344_3672547967133519539_n.jpg"
