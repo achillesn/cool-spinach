@@ -32,3 +32,5 @@ canonical_url: "/images/09-132189857_742947789987344_3672547967133519539_n.jpg"
 ![](/images/09-132189857_742947789987344_3672547967133519539_n.jpg)
 
 ![](/images/10_mg_2562.jpg)
+
+Photo series:1-3-5-7-9. ©<a href="https://www.facebook.com/stefanos.chronis.1" target="blank">Stefanos Chronis</a>  and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
