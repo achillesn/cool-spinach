@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: photologoi 5
+title: ΕΙΚΟΝΟΛΟΓΟΙ 5
 subtitle: ''
 date: 2021-01-22 23:00:00 +0000
 thumb_img_path: "/images/05_mg_2438.jpg"
