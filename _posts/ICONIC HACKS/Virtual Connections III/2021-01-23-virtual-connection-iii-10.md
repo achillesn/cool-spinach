@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Virtual Connection iii 10
+title: The journey
 subtitle: Νίκος Μήτρακας - Nataly Dannenberg - Marko Polonio
 date: 2021-01-23 23:00:00 +0000
 thumb_img_path: "/images/14-midapo.jpg"
