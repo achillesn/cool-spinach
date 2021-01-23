@@ -44,4 +44,4 @@ canonical_url: "/images/14-midapo.jpg"
 
 ![](/images/15-midapo.jpg)
 
-Photo series:  1-4-7-10-13 © <a href="https://www.facebook.com/nikos.mitrakas" target="blank">Nikos Mitrakas</a> - 2-5-8-11-14 © <a href="https://www.facebook.com/nataly.dannenberg" target="blank">Nataly Dannenberg</a> - 3-6-9-12-15 © <a href="https://www.facebook.com/profile.php?id=100011687118637" target="blank">Marko Polonio</a>
+1-4-7-10-13 © <a href="https://www.facebook.com/nikos.mitrakas" target="blank">Nikos Mitrakas</a> - 2-5-8-11-14 © <a href="https://www.facebook.com/nataly.dannenberg" target="blank">Nataly Dannenberg</a> - 3-6-9-12-15 © <a href="https://www.facebook.com/profile.php?id=100011687118637" target="blank">Marko Polonio</a>
