@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 11
+title: Κορώνα - Γράμματα 11
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-01-25 23:00:00 +0000
 thumb_img_path: "/images/131_mg_6926.jpg"
