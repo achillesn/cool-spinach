@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Η συνομωσία της σιωπής
+title: Η συνωμοσία της σιωπής
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2021-01-26 23:00:00 +0000
 thumb_img_path: "/images/10_mg_8336.jpg"
