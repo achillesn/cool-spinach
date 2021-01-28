@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 6
+title: Παράλληλοι κόσμοι 6
 subtitle: ''
 date: 2021-01-28 23:00:00 +0000
 thumb_img_path: "/images/09-133405505_130486968796685_1868925910122308735_n.jpg"
