@@ -1,0 +1,16 @@
+---
+layout: post
+categories:
+- News
+title: And the Ship Sails On
+subtitle: Ευθύμης Ντελής - Μάκης Μακρής - Νέβι Κανίνια
+date: 2021-01-30 23:00:00 +0000
+thumb_img_path: "/images/15-ntemaka.jpg"
+content_img_path: ''
+excerpt: ''
+canonical_url: "/images/15-ntemaka.jpg"
+
+---
+![](/images/01-ntemaka.jpg)
+
+![](/images/02-ntemaka.jpg)
