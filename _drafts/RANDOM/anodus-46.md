@@ -1,12 +1,16 @@
 ---
 layout: post
-categories: []
-title: anodus 46
+categories:
+- News
+title: Η προσμονή της στιγμής
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2021-02-02 23:00:00 +0000
 thumb_img_path: "/images/04_gravity-copy.jpg"
 content_img_path: "/images/04_gravity-copy.jpg"
-excerpt: ''
+excerpt: Είχε έρθει η κατάλληλη στιγμή λοιπόν. Η ώρα της επανάστασης είχε δημιουργηθεί
+  σαν από μόνη της. Δε χρειάστηκε τίποτα περισσότερο παρά να φανερώσει το ποιος στ’
+  αλήθεια ήταν. Δε χρειάστηκε να πείσει κανέναν απολύτως για την αναγκαιότητα της
+  αλλαγής...
 canonical_url: "/images/04_gravity-copy.jpg"
 
 ---
