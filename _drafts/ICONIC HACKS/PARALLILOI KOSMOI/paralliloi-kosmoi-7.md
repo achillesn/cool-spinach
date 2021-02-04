@@ -36,3 +36,5 @@ canonical_url: "/images/11-133726853_1317016071989263_4326536305647799895_n.jpg"
 ![](/images/11-133726853_1317016071989263_4326536305647799895_n.jpg)
 
 ![](/images/12_mg_2447.jpg)
+
+Photo series:1-3-5-7-9. ©<a href="https://www.facebook.com/ilias.georgouleas" target="blank">Ilias Georgouleas</a>  and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
