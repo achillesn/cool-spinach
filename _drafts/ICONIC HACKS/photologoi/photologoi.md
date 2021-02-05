@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'photologoi '
+title: ΕΙΚΟΝΟΛΟΓΟΙ 7
 subtitle: ''
 date: 2021-02-05 23:00:00 +0000
 thumb_img_path: "/images/100_mg_3539.jpg"
