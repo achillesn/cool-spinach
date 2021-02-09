@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 13
+title: Κορώνα-Γράμματα 13
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-02-08 23:00:00 +0000
 thumb_img_path: "/images/135.jpg"
@@ -16,6 +16,8 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/135.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 1\.
 
 Ο χρόνος σταμάτησε όταν τρύπησε το δάχτυλό της με το αδράχτι.  
