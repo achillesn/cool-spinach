@@ -30,3 +30,5 @@ canonical_url: "/images/1-133712574_1026102341216558_2724338592737492183_n.jpg"
 ![](/images/09-134493489_1093273777775192_6473630389713926910_n.jpg)
 
 ![](/images/10-117.jpg)
+
+Photo series:1-3-5-7-9. ©<a href="https://anikon.org/" target="blank">Achilles Nasios</a>  and  2-4-6-8-10 © <a href="https://www.facebook.com/profile.php?id=100008524653334" target="blank">Amalia Tsakiri</a>
