@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 8
+title: Παράλληλοι κόσμοι 8
 subtitle: 'Αχιλλέας Νάσιος - Αμαλία Τσακίρη '
 date: 2021-02-11 23:00:00 +0000
 thumb_img_path: "/images/1-133712574_1026102341216558_2724338592737492183_n.jpg"
