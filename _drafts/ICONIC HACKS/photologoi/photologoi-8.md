@@ -1,12 +1,16 @@
 ---
 layout: post
-categories: []
-title: photologoi 8
+categories:
+- News
+title: ΕΙΚΟΝΟΛΟΓΟΙ 8
 subtitle: ''
 date: 2021-02-12 23:00:00 +0000
 thumb_img_path: "/images/8_mg_7339.jpg"
 content_img_path: "/images/8_mg_7339.jpg"
-excerpt: ''
+excerpt: Τι είναι αυτό που κάνει τις εικόνες να μιλούν; Τι είναι εκείνο που γεννιέται
+  στη θέα τους; Πόσο βαθιά είναι μέσα μας εντυπωμένες οι παραστάσεις του κόσμου και
+  πόσους κόσμους μια εικόνα εκπροσωπεί; Εδώ σε μια νέα συντονισμένη δράση με μέλη
+  της Φωτογραφικής Ομάδας Photopia.
 canonical_url: "/images/8_mg_7339.jpg"
 
 ---
