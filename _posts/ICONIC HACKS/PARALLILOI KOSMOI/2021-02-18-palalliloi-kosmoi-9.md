@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 9
+title: Παράλληλοι κόσμοι 9
 subtitle: 'Δήμητρα Κίτσιου - Αχιλλέας Νάσιος '
 date: 2021-02-18 23:00:00 +0000
 thumb_img_path: "/images/05-133767702_2784441798447351_9091512733315044462_n.jpg"
