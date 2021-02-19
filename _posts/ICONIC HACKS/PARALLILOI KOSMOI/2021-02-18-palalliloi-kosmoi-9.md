@@ -33,6 +33,6 @@ canonical_url: "/images/05-133767702_2784441798447351_9091512733315044462_n.jpg"
 
 ![](/images/10_10.jpg)
 
-Photo series:1-3-5-7-9. © <a href="[https://www.facebook.com/dimitra.kitsiou](https://www.facebook.com/dimitra.kitsiou "https://www.facebook.com/dimitra.kitsiou")" target="blank">Dimitra Kitsiou</a> and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Dimitra Kitsiou</a> and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
 
 Η σειρά αυτή ελίσσεται ανάμεσα στο αφηρημένο και το συγκεκριμένο δίνοντας ασταμάτητα στίγματα συμβολισμού. Δεν είναι η φόρμα, αλλά το περιεχόμενο των εικόνων, αυτό που καθοδηγεί την αντίληψη στους απαραίτητους συνειρμούς, έτσι ώστε να δημιουργηθεί ένας τύπος αφήγησης που θα μπορούσε να ωθήσει τον θεατή να στοχαστεί, σε ότι αφορά στο γενικό ανάφορο μιας τέτοιας δομής.
