@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Virtual Connection ΙΙΙ-13
+title: The passage
 subtitle: Σταματίου-Δαζάνης-Μακρυγιαννάκης
 date: 2021-02-20 23:00:00 +0000
 thumb_img_path: "/images/13-stadama.jpg"
