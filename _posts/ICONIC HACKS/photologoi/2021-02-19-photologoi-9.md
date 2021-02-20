@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: photologoi 9
+title: ΕΙΚΟΝΟΛΟΓΟΙ 9
 subtitle: ''
 date: 2021-02-19 23:00:00 +0000
 thumb_img_path: "/images/149866019_891575891658095_1039850911296856367_n.jpg"
