@@ -43,3 +43,5 @@ canonical_url: "/images/13-stadama.jpg"
 ![](/images/14-stadama.jpg)
 
 ![](/images/15-stadama.jpg)
+
+1-4-7-10-13 © <a href="https://www.facebook.com/profile.php?id=1537524844" target="blank">Stavros Stamatiou</a> - 2-5-8-11-14 © <a href="https://www.facebook.com/Sakis.Da" target="blank">Sakis Dazanis</a> - 3-6-9-12-15 © <a href="https://www.facebook.com/dimitris.makrygiannakis" target="blank">Dimitris Makrygiannakis</a>
