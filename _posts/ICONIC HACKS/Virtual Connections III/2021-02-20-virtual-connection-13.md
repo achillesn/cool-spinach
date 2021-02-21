@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: The passage
-subtitle: Σταματίου-Δαζάνης-Μακρυγιαννάκης
+subtitle: Σταύρος Σταματίου - Σάκης Δαζάνης - Δημήτρης Μακρυγιαννάκης
 date: 2021-02-20 23:00:00 +0000
 thumb_img_path: "/images/13-stadama.jpg"
 content_img_path: ''
