@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: anodus 49
+title: Πριν κλείσω τα μάτια
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2021-02-23 23:00:00 +0000
 thumb_img_path: "/images/08-16797824_10211852251484076_1175923675426558512_o.jpg"
