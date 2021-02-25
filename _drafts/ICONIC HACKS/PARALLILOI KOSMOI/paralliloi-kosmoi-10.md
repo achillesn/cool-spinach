@@ -7,8 +7,30 @@ subtitle: Ρούλα Θεοδωροπούλου - Αχιλλέας Νάσιος
 date: 2021-02-25 23:00:00 +0000
 thumb_img_path: "/images/10-16177570_10211635636788844_6331801276957271530_o.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: Τον Δεκέμβριο 2020 μέλη της φωτογραφικής ομάδας Photopia συμμετείχαν σε μια
+  από τις δράσεις του δικτύου Hocus Photus, συνδιαλεγόμενοι μέσω των εικόνων τους
+  με στόχο να δουν σταδιακά μιαν ιστορία να διαμορφώνεται.
 canonical_url: "/images/10-16177570_10211635636788844_6331801276957271530_o.jpg"
 
 ---
-Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Dimitra Kitsiou</a> and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+![](/images/01-132590563_496215484674662_7756248320233260127_n.jpg)
+
+![](/images/02-51218459_10217880634069873_8955424351700647936_o.jpg)
+
+![](/images/03-132431658_208802490877449_7151158645418662331_n.jpg)
+
+![](/images/04-26840959_10214906666482542_3965693117585842424_o.jpg)
+
+![](/images/05-132491763_386878935934586_8628781736451352529_n.jpg)
+
+![](/images/06-19095472_10212990445498215_7652692495618276825_o.jpg)
+
+![](/images/07-132658435_480577502925138_6845260535143551561_n.jpg)
+
+![](/images/08_mg_8500.jpg)
+
+![](/images/09-133877771_429037778133708_7090696752572098879_n.jpg)
+
+![](/images/10-16177570_10211635636788844_6331801276957271530_o.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/profile.php?id=100005535588863" target="blank">Roula Theodoropoulou</a> and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
