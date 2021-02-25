@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PARALLILOI KOSMOI 10
+title: Παράλληλοι κόσμοι 10
 subtitle: Ρούλα Θεοδωροπούλου - Αχιλλέας Νάσιος
 date: 2021-02-25 23:00:00 +0000
 thumb_img_path: "/images/10-16177570_10211635636788844_6331801276957271530_o.jpg"
