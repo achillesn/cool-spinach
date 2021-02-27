@@ -43,3 +43,5 @@ canonical_url: "/images/01-bisapo.jpg"
 ![](/images/14-bisapo.jpg)
 
 ![](/images/15-bisapo.jpg)
+
+1-4-7-10-13 © <a href="https://www.facebook.com/tasos.biris.108" target="blank">Tasos Biris</a> - 2-5-8-11-14 © <a href="https://www.facebook.com/profile.php?id=100004147575145" target="blank">Corneliu Sarion</a> - 3-6-9-12-15 © <a href="https://www.facebook.com/profile.php?id=100011687118637" target="blank">Marko Polonio</a>
