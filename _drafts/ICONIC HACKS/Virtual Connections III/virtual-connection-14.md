@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Virtual Connection 14
+title: As Years Go By
 subtitle: Τάσος Μπίρης - Corneliu Sarion - Marko Polonio
 date: 2021-02-27 23:00:00 +0000
 thumb_img_path: "/images/01-bisapo.jpg"
@@ -14,3 +14,30 @@ excerpt: Συμμετέχοντας σε μια απο τις δράσεις τ�
 canonical_url: "/images/01-bisapo.jpg"
 
 ---
+![](/images/01-bisapo.jpg)
+
+![](/images/02-bisapo.jpg)
+
+![](/images/03-bisapo.jpg)
+
+![](/images/04-bisapo.jpg)
+
+![](/images/05-bisapo.jpg)
+
+![](/images/06-bisapo.jpg)
+
+![](/images/07.jpg)
+
+![](/images/09-bisapo.jpg)
+
+![](/images/10-bisapo.jpg)
+
+![](/images/11-bisapo.jpg)
+
+![](/images/12-bisapo.jpg)
+
+![](/images/13-bisapo.jpg)
+
+![](/images/14-bisapo.jpg)
+
+![](/images/15-bisapo.jpg)
