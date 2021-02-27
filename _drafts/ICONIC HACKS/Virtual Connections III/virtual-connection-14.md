@@ -26,7 +26,9 @@ canonical_url: "/images/01-bisapo.jpg"
 
 ![](/images/06-bisapo.jpg)
 
-![](/images/07.jpg)
+![](/images/07-bisapo.jpg)
+
+![](/images/08-92236618_10221736423942210_1973237804053823488_o.jpg)
 
 ![](/images/09-bisapo.jpg)
 
