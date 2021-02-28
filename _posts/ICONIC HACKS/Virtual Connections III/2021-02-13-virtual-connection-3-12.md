@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: Virtual Connection 3-12
+title: Valentino´s Palatino
 subtitle: Λουλουδιά Γρέδη - Νίκος Μήτρακας - Nataly Dannenberg
 date: 2021-02-13 23:00:00 +0000
 thumb_img_path: "/images/11-gremida.jpg"
