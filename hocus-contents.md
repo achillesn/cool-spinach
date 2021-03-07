@@ -40,7 +40,9 @@ _Image + text (GR)_
 \#02. <a href="https://hocusphotus.com/posts/boundaries/"> Dazanis - Makrygiannakis -Mavrozoumis</a>  
 \#03. <a href="https://hocusphotus.com/posts/the-sea-within/"> Dannenberg - Biris -Kaninia</a>  
 \#04. <a href="https://hocusphotus.com/posts/virtual-connections-iii-3/"> Tsilis - Mitrakas - G. Kalaydjian</a>  
-\#05. <a href="https://hocusphotus.com/posts/virtual-connections-iii-4/"> Sarion - Makris - Nasios</a>
+\#05. <a href="https://hocusphotus.com/posts/virtual-connections-iii-4/"> Sarion - Makris - Nasios</a>  
+\#06. <a href="https://hocusphotus.com/posts/virtual-connection-5//"> Kaninia - Makris - G. Kalaydjian</a>  
+\#07. <a href="https://hocusphotus.com/posts/virtual-connection-iii-6/"> Gredi - Nasios - Polonio</a>
 
 ### Virtual Connections
 
