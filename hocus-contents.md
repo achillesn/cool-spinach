@@ -36,7 +36,9 @@ _Image + text (GR)_
 
  <a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a>
 
-\#2. <a href="https://hocusphotus.com/posts/boundaries//"> Dazanis - Makrygiannakis -Mavrozoumis</a>
+\#01. <a href="https://hocusphotus.com/posts/virtual-connection-23/"> Dannenberg - Nasios</a>  
+\#02. <a href="https://hocusphotus.com/posts/boundaries//"> Dazanis - Makrygiannakis -Mavrozoumis</a>  
+\#03. <a href="https://hocusphotus.com/posts/the-sea-within/"> Dannenberg - Biris -Kaninia</a>
 
 ### Virtual Connections
 
@@ -63,8 +65,7 @@ _Visual Poetry_
 \#19. <a href="https://hocusphotus.com/posts/virtual-connection-19/"> Stamatiou - Nasios</a>  
 \#20. <a href="https://hocusphotus.com/posts/virtual-connection-20/"> Giakoumakis - Nasios</a>  
 \#21. <a href="https://hocusphotus.com/posts/virtual-connection-21/"> Nikopoulos - Nasios</a>  
-\#22. <a href="https://hocusphotus.com/posts/virtual-connection-22/"> Makrygianakis - Stamatiou - Nasios</a>  
-\#23. <a href="https://hocusphotus.com/posts/virtual-connection-23/"> Dannenberg - Nasios</a>
+\#22. <a href="https://hocusphotus.com/posts/virtual-connection-22/"> Makrygianakis - Stamatiou - Nasios</a>
 
 ### Η Ελεγεία της Ανόδου
 
