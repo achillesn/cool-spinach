@@ -7,7 +7,8 @@ subtitle: Eva Kalpadaki - Giorgos Vasiliadis
 date: 2021-03-06 23:00:00 +0000
 thumb_img_path: "/images/08_yiorgos_vasiliadis3.JPG"
 content_img_path: ''
-excerpt: ''
+excerpt: Ένας νέος κύκλος φωτογραφικών παιχνιδιών ξεκίνησε να εξελίσσεται από τον
+  Φεβρουάριο 2021. Stay tuned.
 canonical_url: "/images/08_yiorgos_vasiliadis3.JPG"
 
 ---
