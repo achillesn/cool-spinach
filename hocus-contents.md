@@ -42,7 +42,7 @@ _Image + text (GR)_
 
 _Visual Poetry_
 
-\#01. <a href="https://hocusphotus.com/posts/virtual-connection-23/"> Dannenberg - Nasios</a>  
+\#01. <a href="https://hocusphotus.com/posts/virtual-connection-22/"> Makrygianakis - Stamatiou - Nasios</a>  
 \#02. <a href="https://hocusphotus.com/posts/boundaries/"> Dazanis - Makrygiannakis -Mavrozoumis</a>  
 \#03. <a href="https://hocusphotus.com/posts/the-sea-within/"> Dannenberg - Biris -Kaninia</a>  
 \#04. <a href="https://hocusphotus.com/posts/virtual-connections-iii-3/"> Tsilis - Mitrakas - G. Kalaydjian</a>  
@@ -82,8 +82,7 @@ _Visual Poetry_
 \#18. <a href="https://hocusphotus.com/posts/virtual-connection-18/">  Nasios - D. Kalaydjian</a>  
 \#19. <a href="https://hocusphotus.com/posts/virtual-connection-19/"> Stamatiou - Nasios</a>  
 \#20. <a href="https://hocusphotus.com/posts/virtual-connection-20/"> Giakoumakis - Nasios</a>  
-\#21. <a href="https://hocusphotus.com/posts/virtual-connection-21/"> Nikopoulos - Nasios</a>  
-\#22. <a href="https://hocusphotus.com/posts/virtual-connection-22/"> Makrygianakis - Stamatiou - Nasios</a>
+\#21. <a href="https://hocusphotus.com/posts/virtual-connection-21/"> Nikopoulos - Nasios</a>
 
 ### Η Ελεγεία της Ανόδου
 
