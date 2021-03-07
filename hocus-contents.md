@@ -146,7 +146,6 @@ _Image + poetry (GR)_
 \#15. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-15/" target="blank">Η μοναξιά του Κύκνου</a>  
 \#16. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-16/" target="blank">Το Μυστικό</a>  
 \#17. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-17/" target="blank">Στην Αναμονή</a>  
-\#18. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-18/" target="blank">Το χαμένο κουμπί</a>  
 \#19. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-19/" target="blank">Το χαμένο κουμπί</a>  
 \#20. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-20/" target="blank">Οι ιπτάμενες καρδιές</a>  
 \#21. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-21/" target="blank">Τα γάντια</a>  
