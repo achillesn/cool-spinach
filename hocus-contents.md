@@ -18,7 +18,8 @@ pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blan
 \#2. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-2/" target="blank"> Kritikopoulou - Nasios</a>  
 \#3. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-3/" target="blank"> Papagelis - Nasios</a>  
 \#4. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-4/" target="blank">  - Nasios - Tsoumplekas</a>  
-\#5. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-5/" target="blank"> Chronis - Nasios</a>
+\#5. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-5/" target="blank"> Chronis - Nasios</a>  
+\#6. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-6/" target="blank"> Livada - Nasios</a>
 
 ### Η Ελεγεία της Ανόδου
 
