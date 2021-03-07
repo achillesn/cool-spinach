@@ -14,7 +14,7 @@ _Visual Poetry_
 
 pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>
 
-### Παράλληλοι Κόσμοι  
+### Παράλληλοι Κόσμοι
 
 _Visual Poetry_
 
@@ -34,9 +34,11 @@ _Visual Poetry_
 
 _Image + text (GR)_
 
- <a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a>
+<a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a>
 
 ### Virtual Connections III
+
+_Visual Poetry_
 
 \#01. <a href="https://hocusphotus.com/posts/virtual-connection-23/"> Dannenberg - Nasios</a>  
 \#02. <a href="https://hocusphotus.com/posts/boundaries/"> Dazanis - Makrygiannakis -Mavrozoumis</a>  
@@ -54,7 +56,7 @@ _Image + text (GR)_
 \#14. <a href="https://hocusphotus.com/posts/virtual-connection-13/"> Stamatiou - Dazanis - Makrygiannakis </a>  
 \#15. <a href="https://hocusphotus.com/posts/virtual-connection-14/"> Biris - Sarion - Polonio </a>
 
-### Virtual Connections 
+### Virtual Connections
 
 _Visual Poetry_
 
