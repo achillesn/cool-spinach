@@ -34,7 +34,7 @@ _Visual Poetry_
 
 _Image + text (GR)_
 
- <a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"target="blank"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"target="blank"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"target="blank"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"target="blank"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"target="blank"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"target="blank"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"target="blank"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"target="blank"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"target="blank"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"target="blank"> #11.</a>
+ <a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a>
 
 ### Virtual Connections
 
