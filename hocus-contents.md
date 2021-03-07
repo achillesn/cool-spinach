@@ -47,7 +47,8 @@ _Image + text (GR)_
 \#09. <a href="https://hocusphotus.com/posts/virtual-connection-iii-8/"> Mavrozoumis - Stamatiou - Sarion </a>  
 \#10. <a href="https://hocusphotus.com/posts/virtual-connection-iii-9/"> G. Kalaydjian - Tsilis - Mavrozoumis </a>  
 \#11. <a href="https://hocusphotus.com/posts/virtual-connection-iii-10/"> Mitrakas - Dannenberg - Polonio </a>  
-\#12. <a href="https://hocusphotus.com/posts/and-the-ship-sails-on/"> Delis - Makris - Kaninia </a>
+\#12. <a href="https://hocusphotus.com/posts/and-the-ship-sails-on/"> Delis - Makris - Kaninia </a>  
+\#13. <a href="https://hocusphotus.com/posts/virtual-connection-3-12/"> Gredi - Mitrakas - Dannenberg </a>
 
 ### Virtual Connections
 
