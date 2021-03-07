@@ -60,7 +60,8 @@ _Visual Poetry_
 \#18. <a href="https://hocusphotus.com/posts/virtual-connection-18/">  Nasios - D. Kalaydjian</a>  
 \#19. <a href="https://hocusphotus.com/posts/virtual-connection-19/"> Stamatiou - Nasios</a>  
 \#20. <a href="https://hocusphotus.com/posts/virtual-connection-20/"> Giakoumakis - Nasios</a>  
-\#21. <a href="https://hocusphotus.com/posts/virtual-connection-21/"> Nikopoulos - Nasios</a>
+\#21. <a href="https://hocusphotus.com/posts/virtual-connection-21/"> Nikopoulos - Nasios</a>  
+\#22. <a href="https://hocusphotus.com/posts/virtual-connection-22/"> Makrygianakis - Stamatiou - Nasios</a>
 
 ### Η Ελεγεία της Ανόδου
 
