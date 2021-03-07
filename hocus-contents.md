@@ -43,10 +43,31 @@ _Image + text (GR)_
 \#29. <a href="https://hocusphotus.com/posts/anodus-29/" target="blank"> Η ανεπάρκεια των λέξεων</a>  
 \#30. <a href="https://hocusphotus.com/posts/anodus-30/" target="blank"> Η διαιώνιση του πολέμου</a>  
 \#31. <a href="https://hocusphotus.com/posts/anodus-31/" target="blank"> Η ενοχή της ασυνειδησίας</a>  
-\#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>   
+\#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>  
 \#33. <a href="https://hocusphotus.com/posts/anodus-33/" target="blank"> Το βάρος των διαπιστώσεων</a>  
 \#34. <a href="https://hocusphotus.com/posts/anodus-34/" target="blank"> Η υπεροψία της άγνοιας</a>  
 \#35. <a href="https://hocusphotus.com/posts/anodus-35/" target="blank"> Η ανικανοποίητη δίψα</a>
+
+### Virtual Connections
+
+_Visual Poetry_
+
+\#1. <a href="https://hocusphotus.com/posts/common-developments-1/" target="blank">Stamatiou - Nasios</a>  
+\#2. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B1%CF%80%CF%84%CF%8D%CE%BE%CE%B5%CE%B9%CF%82/">Makrygiannakis - Nasios</a>  
+\#3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">Ntelis - Nasios</a>  
+\#4. <a href="https://hocusphotus.com/posts/virtuala-connection-4/">Biris - Nasios</a>  
+\#5. <a href="https://hocusphotus.com/posts/virtual-connection-5/">Makris - Nasios</a>  
+\#6. <a href="https://hocusphotus.com/posts/virtual-connection-6/">Gredi - Nasios</a>  
+\#7. <a href="https://hocusphotus.com/posts/virtual-connection-7/">Mitrakas - Nasios</a>  
+\#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>  
+\#9. <a href="https://hocusphotus.com/posts/virtual-connection-9/"> Dazanis - Nasios</a>  
+\#10. <a href="https://hocusphotus.com/posts/virtual-connection-10/"> Polonio - Nasios</a>  
+\#11. <a href="https://hocusphotus.com/posts/virtual-connection-11/"> Spitzinger - Nasios</a>  
+\#12. <a href="https://hocusphotus.com/posts/virtual-connection-12/"> Kalaydjian - Nasios</a>  
+\#13. <a href="https://hocusphotus.com/posts/virtual-connection-13/"> Mavrozoumis - Nasios</a>  
+\#14. <a href="https://hocusphotus.com/posts/virtual-connection-14/"> Kaninia - Nasios</a>  
+\#15. <a href="https://hocusphotus.com/posts/virtual-connection-15/"> Tsilis - Nasios</a>  
+\#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Dannenberg - Nasios</a>
 
 ### Συνοδευτική Επιστολή
 
@@ -101,27 +122,6 @@ _Image + poetry (GR)_
 \#48. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">7 φορές</a>  
 \#49. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-49/" target="blank">Τα μήλα</a>  
 \#50. <a href="https://hocusphotus.com/posts/synodeftiki-epistoli-48/" target="blank">Το γράμμα</a>
-
-### Virtual Connections
-
-_Visual Poetry_
-
-\#1. <a href="https://hocusphotus.com/posts/common-developments-1/" target="blank">Stamatiou - Nasios</a>  
-\#2. <a href="https://hocusphotus.com/posts/%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82-%CE%B1%CE%BD%CE%B1%CF%80%CF%84%CF%8D%CE%BE%CE%B5%CE%B9%CF%82/">Makrygiannakis - Nasios</a>  
-\#3. <a href="https://hocusphotus.com/posts/syllogikes-anaptyxeis-3/" target="blank">Ntelis - Nasios</a>  
-\#4. <a href="https://hocusphotus.com/posts/virtuala-connection-4/">Biris - Nasios</a>  
-\#5. <a href="https://hocusphotus.com/posts/virtual-connection-5/">Makris - Nasios</a>  
-\#6. <a href="https://hocusphotus.com/posts/virtual-connection-6/">Gredi - Nasios</a>  
-\#7. <a href="https://hocusphotus.com/posts/virtual-connection-7/">Mitrakas - Nasios</a>  
-\#8. <a href="https://hocusphotus.com/posts/virtual-connection-8/">Sarion - Nasios</a>  
-\#9. <a href="https://hocusphotus.com/posts/virtual-connection-9/"> Dazanis - Nasios</a>  
-\#10. <a href="https://hocusphotus.com/posts/virtual-connection-10/"> Polonio - Nasios</a>  
-\#11. <a href="https://hocusphotus.com/posts/virtual-connection-11/"> Spitzinger - Nasios</a>  
-\#12. <a href="https://hocusphotus.com/posts/virtual-connection-12/"> Kalaydjian - Nasios</a>  
-\#13. <a href="https://hocusphotus.com/posts/virtual-connection-13/"> Mavrozoumis - Nasios</a>  
-\#14. <a href="https://hocusphotus.com/posts/virtual-connection-14/"> Kaninia - Nasios</a>  
-\#15. <a href="https://hocusphotus.com/posts/virtual-connection-15/"> Tsilis - Nasios</a>  
-\#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Dannenberg - Nasios</a>
 
 ### Το Μάτι του Κύκλωπα
 
