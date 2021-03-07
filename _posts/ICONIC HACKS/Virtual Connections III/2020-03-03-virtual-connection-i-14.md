@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Virtual Connection i #14'
+title: 'Virtual Connection #14'
 subtitle: KaNa
 date: 2020-03-03 23:00:00 +0000
 thumb_img_path: "/images/01.NEVI.jpg"
