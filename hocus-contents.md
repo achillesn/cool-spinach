@@ -55,7 +55,9 @@ _Visual Poetry_
 \#13. <a href="https://hocusphotus.com/posts/virtual-connection-13/"> Mavrozoumis - Nasios</a>  
 \#14. <a href="https://hocusphotus.com/posts/virtual-connection-14/"> Kaninia - Nasios</a>  
 \#15. <a href="https://hocusphotus.com/posts/virtual-connection-15/"> Tsilis - Nasios</a>  
-\#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Dannenberg - Nasios</a>
+\#16. <a href="https://hocusphotus.com/posts/virtual-connection-16/"> Dannenberg - Nasios</a>  
+\#17. <a href="https://hocusphotus.com/posts/virtual-connection-17/"> Michalopoulos - Nasios</a>  
+\#18. <a href="https://hocusphotus.com/posts/virtual-connection-18/">  Nasios - D. Kalaydjian</a>
 
 ### Η Ελεγεία της Ανόδου
 
