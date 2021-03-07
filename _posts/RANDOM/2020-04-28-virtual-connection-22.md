@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: 'Virtual Connection #22'
+title: Virtual Connection III
 subtitle: MaStaNa
 date: 2020-04-28 22:00:00 +0000
 thumb_img_path: "/images/12.1.MASTANA.jpg"
