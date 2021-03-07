@@ -12,6 +12,13 @@ menu:
 
 pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>
 
+### Παράλληλοι Κόσμοι  
+
+\#1. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-1/" target="blank"> Papadopoulos - Nasios</a>  
+\#2. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-2/" target="blank"> Kritikopoulou - Nasios</a>  
+\#3. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-3/" target="blank"> Papagelis - Nasios</a>  
+\#4. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-4/" target="blank">  - Nasios - Tsoumplekas</a>
+
 ### Η Ελεγεία της Ανόδου
 
 _Image + text (GR)_
