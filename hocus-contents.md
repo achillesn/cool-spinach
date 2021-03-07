@@ -8,6 +8,8 @@ menu:
     weight: 4
 
 ---
+![](/images/bwok-2.jpg)
+
 ### e-PhotoGames
 
 _Visual Poetry_
