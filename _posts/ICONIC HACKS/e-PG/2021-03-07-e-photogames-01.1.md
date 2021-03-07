@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: e-PhotoGames 01.1
-subtitle: Ευαγγελή Μπέτσα - Γιάννης Ρουσσουνέλος
+subtitle: Ευαγγελή Μπέτσα - Γιάννης Ρουσουνέλος
 date: 2021-03-07 23:00:00 +0000
 thumb_img_path: "/images/08_rousounelos.jpg"
 content_img_path: ''
