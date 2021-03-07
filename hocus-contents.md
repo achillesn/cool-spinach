@@ -8,6 +8,10 @@ menu:
     weight: 4
 
 ---
+### e-PhotoGames
+
+pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>
+
 ### Η Ελεγεία της Ανόδου
 
 _Image + text (GR)_
