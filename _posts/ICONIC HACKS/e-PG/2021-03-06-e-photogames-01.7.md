@@ -30,3 +30,5 @@ canonical_url: "/images/08_yiorgos_vasiliadis3.JPG"
 ![](/images/09_kalpadaki.jpg)
 
 ![](/images/10_yiorgos_vasiliadis-4.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/eva.kalpadaki" target="blank">Eva Kalpadaki</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/gvasiliadis" target="blank">Giorgos Vasiliadis</a>
