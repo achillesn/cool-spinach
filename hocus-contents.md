@@ -14,7 +14,8 @@ menu:
 
 _Visual Poetry_
 
-pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>
+pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>  
+pg01.1 - <a href="https://hocusphotus.com/posts/e-photogames-01.1/" target="blank"> Betsa-Rousounelos</a>
 
 ### Παράλληλοι Κόσμοι
 
