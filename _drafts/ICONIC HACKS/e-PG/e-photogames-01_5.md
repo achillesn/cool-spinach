@@ -14,4 +14,6 @@ canonical_url: "/images/08_img_4167.jpg"
 
 ![](/images/02_img_4124.jpg)
 
+![](/images/03_pg3.jpg)
+
 Photo series:1-3-5-7-9. © <a href="[https://www.bright-on-photography.co.uk/](https://www.bright-on-photography.co.uk/ "https://www.bright-on-photography.co.uk/")" target="blank">Eva Kalpadaki</a> and  2-4-6-8-10 © <a href="[https://www.facebook.com/gvasiliadis](https://www.facebook.com/gvasiliadis "https://www.facebook.com/gvasiliadis")" target="blank">Giorgos Vasiliadis</a>
