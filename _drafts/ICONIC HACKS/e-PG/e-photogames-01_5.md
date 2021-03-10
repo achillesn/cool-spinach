@@ -16,4 +16,18 @@ canonical_url: "/images/08_img_4167.jpg"
 
 ![](/images/03_pg3.jpg)
 
-Photo series:1-3-5-7-9. © <a href="[https://www.bright-on-photography.co.uk/](https://www.bright-on-photography.co.uk/ "https://www.bright-on-photography.co.uk/")" target="blank">Eva Kalpadaki</a> and  2-4-6-8-10 © <a href="[https://www.facebook.com/gvasiliadis](https://www.facebook.com/gvasiliadis "https://www.facebook.com/gvasiliadis")" target="blank">Giorgos Vasiliadis</a>
+![](/images/04_xa-h2.jpg)
+
+![](/images/05_p-g_5.jpg)
+
+![](/images/06_img_7266.jpg)
+
+![](/images/07_pg7.jpg)
+
+![](/images/08_img_4167.jpg)
+
+![](/images/09_pg9.jpg)
+
+![](/images/10_dsc02771.jpg)
+
+Photo series:1-3-5-7-9. © <a href="[https://www.facebook.com/akis.christou.7]" target="blank">Akis Christou</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/ourania.karamouzi" target="blank">Ourania Karamouzi</a>
