@@ -28,3 +28,5 @@ canonical_url: "/images/08_hp_games_4a.jpg"
 ![](/images/09_pg7.jpg)
 
 ![](/images/10_p8316424.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/eirini.bournou" target="blank">Eirini Bournou</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/aretialexandraki" target="blank">Areti Alexandraki</a>
