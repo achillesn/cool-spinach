@@ -32,3 +32,4 @@ canonical_url: "/images/07-chronis.jpg"
 ![](/images/10-garo.jpg)
 
 Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/stefanos.chronis.1" target="blank">Stefanos Chronis</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/gargaro65" target="blank">Garo Kalaydjian</a>
+
