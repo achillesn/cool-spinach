@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: e-photogames 02_3
-subtitle: Χριστίνα Λειβαδά - Σωτήρησ Γκόνης
+subtitle: Χριστίνα Λειβαδά - Σωτήρης Γκόνης
 date: 2021-03-17 23:00:00 +0000
 thumb_img_path: "/images/04_gkonis.jpg"
 content_img_path: ''
