@@ -4,7 +4,7 @@ categories:
 - News
 title: Παράλληλοι Κόσμοι 13
 subtitle: Μαρία Καππάτου - Αχιλλέας Νάσιος
-date: 2021-03-18 23:00:00 +0000
+date: 2021-03-17 23:00:00 +0000
 thumb_img_path: "/images/01-kapattoy.jpg"
 content_img_path: ''
 excerpt: 'Ο R. Barthes συμπεραίνει: «Στο σύγχρονο φωτογραφικό σύμπαν είναι πλέον καταχωρημένος
