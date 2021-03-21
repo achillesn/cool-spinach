@@ -28,3 +28,5 @@ canonical_url: "/images/01_charalambous.jpg"
 ![](/images/09_charalambous.jpg)
 
 ![](/images/10_kalpadaki.jpg)
+
+Photo series:1-3-5-7-9.<a href="https://www.facebook.com/profile.php?id=563795760" target="blank">Giorgos Vasiliadis</a>  and  2-4-6-8-10 © © <a href="https://www.bright-on-photography.co.uk/" target="blank">Eva Kalpadaki</a>
