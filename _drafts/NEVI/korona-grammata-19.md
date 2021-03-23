@@ -16,6 +16,10 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/144.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
+1.
+
 Εκείνο το καλοκαίρι είχε ξηρασία και απλώναμε τα χέρια μας στους ουρανούς   
 για βροχή.  
 Μετά χορεύαμε μέχρι το πρωί.  
@@ -27,3 +31,5 @@ canonical_url: "/images/144.jpg"
 για λίγο  
 και ήταν η χαρά μας  
 ευχαριστήρια προσευχή.
+
+2.
