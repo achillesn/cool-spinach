@@ -5,10 +5,13 @@ categories:
 title: anodus 53
 subtitle: 'Κείμενο-Φωτογραφία: Αχιλλέας Νάσιος'
 date: 2021-03-23 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
-canonical_url: ''
+thumb_img_path: "/images/anodus-53.jpg"
+content_img_path: "/images/anodus-53.jpg"
+excerpt: Σιγά σιγά άρχισα να νιώθω σαν η αγάπη να είχε ξυπνήσει μέσα μου με μιας και
+  γλεντούσε με ένα γέλιο χαρμόσυνο την ίδια της την ανάσταση. Δεν την ενδιέφερε να
+  ξέρει. Το μόνο που την ενδιέφερε ήταν απλά να είναι. Τότε όλα τα βάσανα χαθήκανε
+  με μιας και γίναν γλέντι...
+canonical_url: "/images/anodus-53.jpg"
 
 ---
 \-Και πως; Με ποιο τρόπο;
