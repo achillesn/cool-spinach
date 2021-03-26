@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PARALLILOI KOSMOI 14
+title: Παράλληλοι Κόσμοι 14
 subtitle: Αχιλλέας Νάσιος - Αλέξανδρος Παπαδάκης
 date: 2021-03-25 23:00:00 +0000
 thumb_img_path: "/images/06-133831191_423545799017446_4815189059230495429_n.jpg"
