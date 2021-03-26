@@ -32,3 +32,5 @@ canonical_url: "/images/06-133831191_423545799017446_4815189059230495429_n.jpg"
 ![](/images/09_mg_9435.jpg)
 
 ![](/images/10-134111154_496125291377430_2233910155420271017_n.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://anikon.org/" target="blank">Achilles Nasios</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/alex1pap" target="blank">Alexandros Papadakis</a>
