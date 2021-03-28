@@ -1,0 +1,34 @@
+---
+layout: post
+categories:
+- News
+title: e-photogames 03_3
+subtitle: Ιωάννα Κατσουλάκη - Ευαγγελή Μπέτσα
+date: 2021-03-28 22:00:00 +0000
+thumb_img_path: "/images/04_evaggeli_betsa.jpg"
+content_img_path: ''
+excerpt: ''
+canonical_url: "/images/04_evaggeli_betsa.jpg"
+
+---
+![](/images/01_ioanna_katsoulaki.jpg)
+
+![](/images/02_evaggeli_betsa.jpg)
+
+![](/images/03_ioanna_katsoulaki.jpg)
+
+![](/images/04_evaggeli_betsa.jpg)
+
+![](/images/05_ioanna_katsoulaki.jpg)
+
+![](/images/06_evaggeli_betsa.jpg)
+
+![](/images/07_ioanna_katsoulaki.jpg)
+
+![](/images/08_evaggeli_betsa.jpg)
+
+![](/images/09_ioanna_katsoulaki.jpg)
+
+![](/images/10_evaggeli_betsa.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/profile.php?id=563795760" target="blank">Simos Charalambous</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Δήμητρα Κίτσιου</a>
