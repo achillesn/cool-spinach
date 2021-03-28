@@ -31,4 +31,4 @@ canonical_url: "/images/04_evaggeli_betsa.jpg"
 
 ![](/images/10_evaggeli_betsa.jpg)
 
-Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/profile.php?id=563795760" target="blank">Simos Charalambous</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Δήμητρα Κίτσιου</a>
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/profile.php?id=563795760" target="blank">Ioanna Katsoulaki</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Ευαγγελή Μπέτσα</a>
