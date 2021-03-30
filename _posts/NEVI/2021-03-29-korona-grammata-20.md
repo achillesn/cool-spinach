@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 20
+title: Κορώνα - Γράμματα 20
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-03-29 22:00:00 +0000
 thumb_img_path: "/images/140.jpg"
