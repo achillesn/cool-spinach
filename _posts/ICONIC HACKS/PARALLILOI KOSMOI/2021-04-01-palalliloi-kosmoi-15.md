@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Παράλληλοι κόσμοι 15
-subtitle: Αχιλλέας Νάσιος - Ντριράν Καλαϊτζιάν
+subtitle: Αχιλλέας Νάσιος - Ντιράν Καλαϊτζιάν
 date: 2021-04-01 22:00:00 +0000
 thumb_img_path: "/images/01_gravity.jpg"
 content_img_path: ''
