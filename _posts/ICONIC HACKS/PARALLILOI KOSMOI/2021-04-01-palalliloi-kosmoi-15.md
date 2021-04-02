@@ -33,4 +33,8 @@ canonical_url: "/images/01_gravity.jpg"
 
 ![](/images/10-135741531_4219245848092751_6773411350983491512_n.jpg)
 
-Photo series:1-3-5-7-9. © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>  and  2-4-6-8-10 © <a href="https://www.facebook.com/ilias.georgouleas" target="blank">Diran Kalaydjian</a>
+Photo series:1-3-5-7-9. © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>  and  2-4-6-8-10 © <a href="https://www.facebook.com/diran.kalaydjian" target="blank">Diran Kalaydjian</a>
+
+“Η γραφή είναι μια μεσολάβηση, όπως ακριβώς οι εικόνες και συνεπώς υπόκειται στην ίδια εσωτερική διαλεκτική. Η γραφή δεν αντιφάσκει απλά σε σχέση με τις εικόνες. Τεμαχίζεται μόνη της από μια εσωτερική αντίφαση. Σκοπός της γραφής είναι να μεσολαβήσει ανάμεσα στον άνθρωπο και τις εικόνες του, να τις εξηγήσει. Κάνοντας αυτό τα κείμενα παρεμβάλλονται ανάμεσα στον άνθρωπο και τις εικόνες του. Κρύβουν τον κόσμο από τον άνθρωπο αντί να τον παραστήσουν με πληρότητα”…
+
+_Vilém Flusser (Προς μια Φιλοσοφία της Φωτογραφίας)_
