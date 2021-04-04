@@ -25,8 +25,10 @@ canonical_url: "/images/01-_areti_alexandraki.jpg"
 
 ![](/images/07-areti_alexandraki.jpg)
 
-![](/images/09-areti_alexandraki.jpg)
-
 ![](/images/10_yannis_rousounelos.jpg)
 
-Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/maria.vongli" target="blank"> Maria Vongli</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/gargaro65" target="blank"> Garo Kalaydjian</a>
+![](/images/09-areti_alexandraki.jpg)
+
+![](/images/10_yannis_rousounelos-1.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/aretialexandraki" target="blank"> Areti Alexandraki</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/yannis.rousounelos" target="blank"> Yannis Rousounelos</a>
