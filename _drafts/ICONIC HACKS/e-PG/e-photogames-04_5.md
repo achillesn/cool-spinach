@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: e-photogames 04_5
-subtitle: Ιωάννα Τσουκιά - Ράνια Καρμούζη
+subtitle: Ιωάννα Τσουκιά - Ράνια Καραμούζη
 date: 2021-04-04 22:00:00 +0000
 thumb_img_path: "/images/08_karamouzi.jpg"
 content_img_path: ''
@@ -30,3 +30,5 @@ canonical_url: "/images/08_karamouzi.jpg"
 ![](/images/09_ioanna_tsoukia.jpg)
 
 ![](/images/10_karamouzi.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/itsoukia" target="blank"> Ιωάννα Τσουκιά</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/ourania.karamouzi" target="blank"> Ourania Karamouzi</a>
