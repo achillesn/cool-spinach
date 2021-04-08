@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 16
+title: Παράλληλοι Κόσμοι 16
 subtitle: Εβίτα Παρασκευοπούλου - Αχιλλέας Νάσιος
 date: 2021-04-08 22:00:00 +0000
 thumb_img_path: "/images/06-67792765_10219434740761569_4852120606939807744_o.jpg"
