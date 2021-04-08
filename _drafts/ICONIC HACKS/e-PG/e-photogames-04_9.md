@@ -20,3 +20,5 @@ canonical_url: "/images/05_eirini-bournou.jpg"
 ![](/images/04_eleni_makrydaki.jpg)
 
 ![](/images/05_eirini-bournou.jpg)
+
+![](/images/06_eleni_makrydaki.jpg)
