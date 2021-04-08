@@ -30,3 +30,5 @@ canonical_url: "/images/05_eirini-bournou.jpg"
 ![](/images/09_eirini-bournou.jpg)
 
 ![](/images/10_eleni_makrydaki.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/eirini.bournou" target="blank">Eirini Bournou</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/eleni.makrydaki" target="blank">Eleni Makrydaki</a>
