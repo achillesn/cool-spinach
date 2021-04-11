@@ -25,6 +25,10 @@ canonical_url: "/images/03_ilias_georgouleas.jpg"
 
 ![](/images/07_ilias_georgouleas.jpg)
 
+![](/images/08pg_christina_livada.jpg)
+
 ![](/images/09_ilias_georgouleas.jpg)
 
-Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/aretialexandraki" target="blank"> Areti Alexandraki</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/yannis.rousounelos" target="blank"> Yannis Rousounelos</a>
+![](/images/10pg_christina_livada.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/ilias.georgouleas" target="blank"> Ilias Georgouleas</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/christina.livada" target="blank"> Christina Livada</a>
