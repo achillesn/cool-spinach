@@ -23,8 +23,11 @@ canonical_url: "/images/05-tsoumplekas.jpg"
 
 ![](/images/06_savvidis_thanos.jpg)
 
+![](/images/07-tsoumplekas_tmx400_20112010_1.jpg)
+
 ![](/images/08_savvidis_thanos.jpg)
 
 ![](/images/09-christos2001.jpg)
 
 ![](/images/10_savvidis_thanos.jpg)
+
