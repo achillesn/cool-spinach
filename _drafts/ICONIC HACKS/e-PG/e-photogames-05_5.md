@@ -31,3 +31,5 @@ canonical_url: "/images/05-tsoumplekas.jpg"
 
 ![](/images/10_savvidis_thanos.jpg)
 
+Photo series:1-3-5-7-9.© <a href="tsoumplek.wixsite.com/photography
+" target="blank">Christos Tsoumblekas</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/ThanosSa" target="blank">Thanos Savvidis</a>
