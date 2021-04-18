@@ -30,3 +30,5 @@ canonical_url: "/images/04_stefanos_chronis.JPG"
 ![](/images/09-livada.jpg)
 
 ![](/images/10_stefanos_chronis.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/christina.livada" target="blank">Christina Livada</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/stefanos.chronis.1" target="blank">Stefanos Chronis</a>
