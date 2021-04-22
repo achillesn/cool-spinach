@@ -30,3 +30,5 @@ canonical_url: "/images/03_alexandraki_areti.jpg"
 ![](/images/09_alexandraki_areti_3.jpg)
 
 ![](/images/10_christos_budah_papadopoulos.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/aretialexandraki" target="blank">Areti Alexandraki</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/profile.php?id=100000196118507" target="blank">Christos Budha Papadopoulos</a>
