@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 18
+title: Παράλληλοι Κόσμοι 18
 subtitle: Σωτήρης Γκόνης - Αχιλλέας Νάσιος
 date: 2021-04-22 22:00:00 +0000
 thumb_img_path: "/images/02_mg_9077.jpg"
@@ -30,3 +30,5 @@ canonical_url: "/images/02_mg_9077.jpg"
 ![](/images/09-138019581_521165482154675_3704778206355821612_n.jpg)
 
 ![](/images/10_mg_9128.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/profile.php?id=550912249" target="blank">Σωτήρης Γκόνης</a> and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
