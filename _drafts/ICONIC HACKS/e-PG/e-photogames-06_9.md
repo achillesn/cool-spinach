@@ -30,3 +30,5 @@ canonical_url: "/images/04_betsa_evaggeli.jpg"
 ![](/images/09_kitsiou_dimitra.jpg)
 
 ![](/images/10_betsa_evaggeli.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Dimitra Kitsiou</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/eyaggeli.mpetsa" target="blank">Ευαγγελή Μπέτσα</a>
