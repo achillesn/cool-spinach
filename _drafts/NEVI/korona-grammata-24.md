@@ -16,9 +16,15 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/blue_mg_5971.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
+1.
+
 Εκείνο το διάστημα έπινα συνέχεια μελάνι.  
 Άνοιγα όλα τα στυλό και το ρουφούσα μέχρι την τελευταία σταγόνα.  
 Έτσι τελείωσε το μπλε.  
 Δεν απελπίστηκα όμως,  
 βγήκα από το γραφείο και μπήκα στη φωτογραφία  
-που με δέχτηκε σα φίλη παλιά.
+που με δέχτηκε σα φίλη της παλιά.
+
+2.
