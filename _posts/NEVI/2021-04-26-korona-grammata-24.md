@@ -5,15 +5,15 @@ categories:
 title: Κορώνα - Γράμματα 24
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-04-26 22:00:00 +0000
-thumb_img_path: "/images/blue_mg_5971.jpg"
-content_img_path: "/images/blue_mg_5971.jpg"
+thumb_img_path: "/images/blue2_mg_5971.jpg"
+content_img_path: "/images/blue2_mg_5971.jpg"
 excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα παιχνίδι που επαφίεται αποκλειστικά
   στον θεατή; Παίζει άραγε κάποιο ρόλο η αιτία που σπρώχνει τον φωτογράφο να επιλέξει
   το περιεχόμενο του στιγμιότυπου που απεικονίζεται; \LΘεατής και φωτογράφος συνευρίσκονται
   σ’ ένα δημιουργικό πάρε-δώσε, προσπαθώντας να αποκαλύψουν τον κόσμο που υπάρχει
   μπροστά και πίσω από την εικόνα, προσδιορίζοντας αφαιρετικά το όριο που μπορεί να
   πλανάται μεταξύ φαντασίας και πραγματικότητας."
-canonical_url: "/images/blue_mg_5971.jpg"
+canonical_url: "/images/blue2_mg_5971.jpg"
 
 ---
 Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
