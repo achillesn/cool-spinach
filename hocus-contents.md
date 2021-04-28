@@ -52,27 +52,20 @@ _Visual Poetry_
 \#8. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-8/" target="blank"> Papadopoulos - Nasios</a>  
 \#9. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-9/" target="blank"> Kitsiou - Nasios</a>  
 \#10. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-10/" target="blank"> Theodoropoulou - Nasios</a>  
-\#11. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-11/" target="blank"> Karamouzi - Nasios</a>
-\#12. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-12/" target="blank"> Katsoulaki - Nasios</a>
-\#13. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-13/" target="blank"> Kappatou - Nasios</a>
-\#14. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-14/" target="blank">  Nasios - Papadakis</a>
-\#15. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-15/" target="blank">  Nasios - D.Kalaydjian</a>
-\#16. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-16/" target="blank"> Paraskevopoulou - Nasios</a>
-\#17. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-17/" target="blank"> Vasiliadis - Nasios</a>
+\#11. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-11/" target="blank"> Karamouzi - Nasios</a>  
+\#12. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-12/" target="blank"> Katsoulaki - Nasios</a>   
+\#13. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-13/" target="blank"> Kappatou - Nasios</a>   
+\#14. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-14/" target="blank">  Nasios - Papadakis</a>   
+\#15. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-15/" target="blank">  Nasios - D.Kalaydjian</a>   
+\#16. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-16/" target="blank"> Paraskevopoulou - Nasios</a>   
+\#17. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-17/" target="blank"> Vasiliadis - Nasios</a>   
 \#18. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-18/" target="blank"> Gonis - Nasios</a>
 
 ### ΕΙΚΟΝΟ-ΛΟΓΟΙ
 
 _Image + text (GR)_
 
-<a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a>
-<a href="https://hocusphotus.com/posts/photologoi-11/"> #12.</a>
-<a href="https://hocusphotus.com/posts/photologoi-13/"> #13.</a>
-<a href="https://hocusphotus.com/posts/photologoi-14/"> #14.</a>
-<a href="https://hocusphotus.com/posts/photologoi-15/"> #15.</a>
-<a href="https://hocusphotus.com/posts/photologoi-16/"> #16.</a>
-<a href="https://hocusphotus.com/posts/photologoi-17/"> #17.</a>
-<a href="https://hocusphotus.com/posts/photologoi-18/"> #18.</a>
+<a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #12.</a> <a href="https://hocusphotus.com/posts/photologoi-13/"> #13.</a> <a href="https://hocusphotus.com/posts/photologoi-14/"> #14.</a> <a href="https://hocusphotus.com/posts/photologoi-15/"> #15.</a> <a href="https://hocusphotus.com/posts/photologoi-16/"> #16.</a> <a href="https://hocusphotus.com/posts/photologoi-17/"> #17.</a> <a href="https://hocusphotus.com/posts/photologoi-18/"> #18.</a>
 
 ### Virtual Connections III
 
