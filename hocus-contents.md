@@ -70,6 +70,13 @@ _Visual Poetry_
 _Image + text (GR)_
 
 <a href="https://hocusphotus.com/posts/photologoi-1/"> #1.</a><a href="https://hocusphotus.com/posts/photologoi-2/"> #2.</a><a href="https://hocusphotus.com/posts/photologoi-3/"> #3.</a><a href="https://hocusphotus.com/posts/photologoi-4/"> #4.</a><a href="https://hocusphotus.com/posts/photologoi-5/"> #5.</a><a href="https://hocusphotus.com/posts/photologoi-6/"> #6.</a><a href="https://hocusphotus.com/posts/photologoi-7/"> #7.</a><a href="https://hocusphotus.com/posts/photologoi-8/"> #8.</a><a href="https://hocusphotus.com/posts/photologoi-9/"> #9.</a><a href="https://hocusphotus.com/posts/photologoi-10/"> #10.</a><a href="https://hocusphotus.com/posts/photologoi-11/"> #11.</a>
+<a href="https://hocusphotus.com/posts/photologoi-11/"> #12.</a>
+<a href="https://hocusphotus.com/posts/photologoi-13/"> #13.</a>
+<a href="https://hocusphotus.com/posts/photologoi-14/"> #14.</a>
+<a href="https://hocusphotus.com/posts/photologoi-15/"> #15.</a>
+<a href="https://hocusphotus.com/posts/photologoi-16/"> #16.</a>
+<a href="https://hocusphotus.com/posts/photologoi-17/"> #17.</a>
+<a href="https://hocusphotus.com/posts/photologoi-18/"> #18.</a>
 
 ### Virtual Connections III
 
