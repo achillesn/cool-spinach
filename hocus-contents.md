@@ -22,6 +22,8 @@ pg02.5 - <a href="https://hocusphotus.com/posts/e-photogames-02_5/" target="blan
 pg02.3 - <a href="https://hocusphotus.com/posts/e-photogames-02_3/" target="blank"> Livada-Gonis</a>
 pg02.5 - <a href="https://hocusphotus.com/posts/e-photogames-02_5/" target="blank"> Chronis-Kalaydjian</a>
 pg02.4 - <a href="https://hocusphotus.com/posts/e-photogames-02_4/" target="blank"> Charalambous-Kalpadaki</a>
+pg03.4 - <a href="https://hocusphotus.com/posts/e-photogames-03_4/" target="blank"> Savvidis-Livada</a>
+pg03.6 - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>
 
 ### Παράλληλοι Κόσμοι
 
