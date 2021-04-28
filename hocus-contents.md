@@ -36,6 +36,10 @@ pg05.1 - <a href="https://hocusphotus.com/posts/e-photogames-05_1/" target="blan
 pg05.8 - <a href="https://hocusphotus.com/posts/e-photogames-05_8/" target="blank"> Chronis-Livada</a>
 pg05.4 - <a href="https://hocusphotus.com/posts/e-photogames-05_4/" target="blank"> Bournou-Gonis</a>
 pg06.1 - <a href="https://hocusphotus.com/posts/e-photogames-06_1/" target="blank"> Alexandraki-Papadopoulos</a>
+pg06.9 - <a href="https://hocusphotus.com/posts/e-photogames-06_9/" target="blank"> Kitsiou-Betsa</a>
+pg06.8 - <a href="https://hocusphotus.com/posts/e-photogames-06_8/" target="blank"> G.Kalaydjian-Bournou</a>
+
+
 
 ### Παράλληλοι Κόσμοι
 
