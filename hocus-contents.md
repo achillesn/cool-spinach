@@ -24,6 +24,10 @@ pg02.5 - <a href="https://hocusphotus.com/posts/e-photogames-02_5/" target="blan
 pg02.4 - <a href="https://hocusphotus.com/posts/e-photogames-02_4/" target="blank"> Charalambous-Kalpadaki</a>
 pg03.4 - <a href="https://hocusphotus.com/posts/e-photogames-03_4/" target="blank"> Savvidis-Livada</a>
 pg03.6 - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>
+pg03.3 - <a href="https://hocusphotus.com/posts/e-photogames-03_3/" target="blank"> Katsoulaki-Betsa</a>
+pg03.6 - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>
+pg04.8 - <a href="https://hocusphotus.com/posts/e-photogames-04_8/" target="blank"> Voggli-G.Kalaydjian</a>
+pg04.4 - <a href="https://hocusphotus.com/posts/e-photogames-04_4/" target="blank"> Alexandraki-Rousounelos</a>
 
 ### Παράλληλοι Κόσμοι
 
