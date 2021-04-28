@@ -29,6 +29,8 @@ pg03.6 - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blan
 pg04.8 - <a href="https://hocusphotus.com/posts/e-photogames-04_8/" target="blank"> Voggli-G.Kalaydjian</a>
 pg04.4 - <a href="https://hocusphotus.com/posts/e-photogames-04_4/" target="blank"> Alexandraki-Rousounelos</a>
 pg04.5 - <a href="https://hocusphotus.com/posts/e-photogames-04_5/" target="blank"> Tsoukia-Karamouzi</a>
+pg04.9 - <a href="https://hocusphotus.com/posts/e-photogames-04_9/" target="blank"> Bournou-Makrydaki</a>
+pg04.7 - <a href="https://hocusphotus.com/posts/e-photogames-04_7/" target="blank"> Georgouleas-Livada</a>
 
 ### Παράλληλοι Κόσμοι
 
