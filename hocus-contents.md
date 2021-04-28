@@ -56,6 +56,8 @@ _Visual Poetry_
 \#9. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-9/" target="blank"> Kitsiou - Nasios</a>  
 \#10. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-10/" target="blank"> Theodoropoulou - Nasios</a>  
 \#11. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-11/" target="blank"> Karamouzi - Nasios</a>
+\#12. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-12/" target="blank"> Katsoulaki - Nasios</a>
+\#13. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-13/" target="blank"> Kappatou - Nasios</a>
 
 ### ΕΙΚΟΝΟ-ΛΟΓΟΙ
 
