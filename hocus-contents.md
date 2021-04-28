@@ -62,6 +62,7 @@ _Visual Poetry_
 \#15. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-15/" target="blank">  Nasios - D.Kalaydjian</a>
 \#16. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-16/" target="blank"> Paraskevopoulou - Nasios</a>
 \#17. <a href="https://hocusphotus.com/posts/paralliloi-kosmoi-17/" target="blank"> Vasiliadis - Nasios</a>
+\#18. <a href="https://hocusphotus.com/posts/palalliloi-kosmoi-18/" target="blank"> Gonis - Nasios</a>
 
 
 ### ΕΙΚΟΝΟ-ΛΟΓΟΙ
