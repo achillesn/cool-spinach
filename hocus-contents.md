@@ -33,6 +33,8 @@ pg04.9 - <a href="https://hocusphotus.com/posts/e-photogames-04_9/" target="blan
 pg04.7 - <a href="https://hocusphotus.com/posts/e-photogames-04_7/" target="blank"> Georgouleas-Livada</a>
 pg05.5 - <a href="https://hocusphotus.com/posts/e-photogames-05_5/" target="blank"> Tsoumplekas-Savvidis</a>
 pg05.1 - <a href="https://hocusphotus.com/posts/e-photogames-05_1/" target="blank"> Gkika-Nasios</a>
+pg05.8 - <a href="https://hocusphotus.com/posts/e-photogames-05_8/" target="blank"> Chronis-Livada</a>
+pg05.4 - <a href="https://hocusphotus.com/posts/e-photogames-05_4/" target="blank"> Bournou-Gonis</a>
 
 ### Παράλληλοι Κόσμοι
 
