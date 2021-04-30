@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: PALALLILOI KOSMOI 19
+title: Παράλληλοι Κόσμοι 19
 subtitle: Βιβή Ζάγουρα - Αχιλλέας Νάσιος
 date: 2021-04-29 22:00:00 +0000
 thumb_img_path: "/images/07-137224583_425577035455373_538498863267903455_n.jpg"
