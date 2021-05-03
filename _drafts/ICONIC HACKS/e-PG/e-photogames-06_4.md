@@ -30,3 +30,5 @@ canonical_url: "/images/09_maria_vongli.jpg"
 ![](/images/09_maria_vongli.jpg)
 
 ![](/images/10_grigora_2.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/maria.vongli" target="blank"> Maria Vongli</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/olga.grece" target="blank"> Olga Grigora</a>
