@@ -17,3 +17,27 @@ canonical_url: "/images/200_mg_3373.jpg"
 
 ---
 Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
+1\.
+
+Εκείνο το πρωί πονούσα ολόκληρος και το σώμα μου άλλαζε.  
+Όσο μίκραινα κι έβλεπα τα χέρια μου να γεμίζουν τρίχες τόσο με κοίταζες με αποστροφή.  
+Στο τέλος σου είπα: θα φύγω και πέταξα στο τζάμι.  
+Το παράθυρο ήταν κλειστό.  
+Άρχισα να σου φωνάζω αλλά άκουγες δυνατά μουσική.
+
+"Last thing I remember,   
+I was Running for the door  
+I had to find the passage back  
+To the place I was before  
+"Relax, " said the night man,  
+"We are programmed to receive.  
+You can check-out any time you like,  
+But you can never leave! "
+
+  
+Δεν το πολυσυμπαθούσατο Hotel California  
+το έβαζες όταν φτιάχναμε τσάι  
+κάθε πρωί.  
+Νομίζω ότι θα το ακούμε για πάντα.   
+Δεν υπάρχει διαφυγή.
