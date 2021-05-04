@@ -36,7 +36,7 @@ You can check-out any time you like,
 But you can never leave! "
 
   
-Δεν το πολυσυμπαθούσατο Hotel California  
+Δεν το πολυσυμπαθούσα το Hotel California  
 το έβαζες όταν φτιάχναμε τσάι  
 κάθε πρωί.  
 Νομίζω ότι θα το ακούμε για πάντα.   
