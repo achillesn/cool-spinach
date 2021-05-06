@@ -30,3 +30,5 @@ canonical_url: "/images/02_charalambous_simos.jpg"
 ![](/images/09_tsoukia_ioanna.jpg)
 
 ![](/images/10_charalambous_simos.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/itsoukia" target="blank">Ιωάννα Τσουκιά</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/profile.php?id=563795760" target="blank">Simos Charalambous</a>
