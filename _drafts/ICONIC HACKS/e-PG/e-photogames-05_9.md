@@ -30,3 +30,5 @@ canonical_url: "/images/009_ilias_georgouleas.jpg"
 ![](/images/009_ilias_georgouleas.jpg)
 
 ![](/images/10_vassiloyannis_nassos.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/ilias.georgouleas" target="blank">Ilias Georgouleas</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/ath.vas" target="blank">Ath.Vas</a>
