@@ -40,3 +40,5 @@ canonical_url: "/images/03_kitsiou_dimitra-3.jpg"
 ![](/images/14_tsoumplekas_christos36.jpg)
 
 ![](/images/15_kitsiou_dimitra35.jpg)
+
+Photo-series  1-4-7-10-13 © <a href="https://www.facebook.com/eyaggeli.mpetsa" target="blank"> Ευαγγελή Μπέτσα</a>, 2-5-8-11-14 © <a href="https://www.facebook.com/tsoumplekas" target="blank"> Christos Tsoumplekas</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank"> Dimitra Kitsiou</a>
