@@ -40,8 +40,7 @@ pg06.8 - <a href="https://hocusphotus.com/posts/e-photogames-06_8/" tar_et="blan
 pg06.2 - <a href="https://hocusphotus.com/posts/e-photogames-06_2/" target="blank"> Rousounelos-Giotopoulou</a>  
 pg06.10 - <a href="https://hocusphotus.com/posts/e-photogames-06_10/" target="blank"> Tsoukia -Charalambous</a>  
 pg301.1 - <a href="https://hocusphotus.com/posts/e-photogames-301_1/" target="blank"> Betsa - Tsoumplekas - Kitsiou</a>  
-pg05.9 - <a href="https://hocusphotus.com/posts/e-photogames-05_9/" target="blank"> Georgouleas-Vasilogiannis</a>
-
+pg05.9 - <a href="https://hocusphotus.com/posts/e-photogames-05_9/" target="blank"> Georgouleas-Vasilogiannis</a>  
 pg07.1 - <a href="https://hocusphotus.com/posts/e-photogames-07_1/" target="blank"> D.Kalaydjian - Alexandraki</a>
 
 ### Παράλληλοι Κόσμοι
