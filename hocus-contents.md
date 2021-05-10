@@ -160,6 +160,17 @@ _Image + text (GR)_
 \#33. <a href="https://hocusphotus.com/posts/anodus-33/" target="blank"> Το βάρος των διαπιστώσεων</a>  
 \#34. <a href="https://hocusphotus.com/posts/anodus-34/" target="blank"> Η υπεροψία της άγνοιας</a>  
 \#35. <a href="https://hocusphotus.com/posts/anodus-35/" target="blank"> Η ανικανοποίητη δίψα</a>
+\#36. <a href="https://hocusphotus.com/posts/anodus-36/" target="blank"> Το τέταρτο φύλλο του τριφυλλιού</a>
+\#37. <a href="https://hocusphotus.com/posts/anodus-37/" target="blank"> Η σημασία της σιωπής</a>
+\#38. <a href="https://hocusphotus.com/posts/anodus-38/" target="blank"> Το τέλος της λογικής</a>
+\#39. <a href="https://hocusphotus.com/posts/anodus-39/" target="blank"> Η όψη της ελευθερίας</a>
+\#40. <a href="https://hocusphotus.com/posts/anodus-40/" target="blank"> Η ισχύς της αδυναμίας</a>
+
+
+
+
+
+
 
 ### Συνοδευτική Επιστολή
 
