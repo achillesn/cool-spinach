@@ -159,30 +159,30 @@ _Image + text (GR)_
 \#32. <a href="https://hocusphotus.com/posts/anodus-32/" target="blank"> Η υπεροχή του αγνώστου</a>  
 \#33. <a href="https://hocusphotus.com/posts/anodus-33/" target="blank"> Το βάρος των διαπιστώσεων</a>  
 \#34. <a href="https://hocusphotus.com/posts/anodus-34/" target="blank"> Η υπεροψία της άγνοιας</a>  
-\#35. <a href="https://hocusphotus.com/posts/anodus-35/" target="blank"> Η ανικανοποίητη δίψα</a>
-\#36. <a href="https://hocusphotus.com/posts/anodus-36/" target="blank"> Το τέταρτο φύλλο του τριφυλλιού</a>
-\#37. <a href="https://hocusphotus.com/posts/anodus-37/" target="blank"> Η σημασία της σιωπής</a>
-\#38. <a href="https://hocusphotus.com/posts/anodus-38/" target="blank"> Το τέλος της λογικής</a>
-\#39. <a href="https://hocusphotus.com/posts/anodus-39/" target="blank"> Η όψη της ελευθερίας</a>
-\#40. <a href="https://hocusphotus.com/posts/anodus-40/" target="blank"> Η ισχύς της αδυναμίας</a>
-\#41. <a href="https://hocusphotus.com/posts/anodus-41/" target="blank"> Ο τρόπος των ορίων</a>
-\#42. <a href="https://hocusphotus.com/posts/anodus-42/" target="blank"> Πριν την αρχή</a>
-\#43. <a href="https://hocusphotus.com/posts/anodus-43/" target="blank"> Η ανάσα της αλλαγής</a>
-\#44. <a href="https://hocusphotus.com/posts/anodus-44/" target="blank"> Η αλήθεια της ψυχής</a>
-\#45. <a href="https://hocusphotus.com/posts/anodus-45/" target="blank"> Η συνομωσία της σιωπής</a>
-\#46. <a href="https://hocusphotus.com/posts/anodus-46/" target="blank"> Η προσμονή της στιγμής</a>
-\#47. <a href="https://hocusphotus.com/posts/anodus-47/" target="blank"> Ο καθρέφτης της ευγνωμοσύνης</a>
-\#48. <a href="https://hocusphotus.com/posts/anodus-48/" target="blank"> Το τέλος του δρόμου</a>
-\#49. <a href="https://hocusphotus.com/posts/anodus-49/" target="blank"> Πριν κλείσω τα μάτια</a>
-\#50. <a href="https://hocusphotus.com/posts/anodus-50/" target="blank"> Ανοίγοντας τα μάτια</a>
-\#51. <a href="https://hocusphotus.com/posts/anodus-51/" target="blank"> Η όχθη της προετοιμασίας</a>
-\#52. <a href="https://hocusphotus.com/posts/anodus-52/" target="blank"> Η ταυτοποίηση της εισόδου</a>
-\#53. <a href="https://hocusphotus.com/posts/anodus-53/" target="blank"> Το γέλιο της κάθαρσης</a>
-\#54. <a href="https://hocusphotus.com/posts/anodus-54/" target="blank"> Το κλάμα της χαράς</a>
-\#55. <a href="https://hocusphotus.com/posts/anodus-55/" target="blank"> Η νόηση της αίσθησης</a>
-\#56. <a href="https://hocusphotus.com/posts/anodus-56/" target="blank"> Η αίσθηση της πληρότητας</a>
-\#57. <a href="https://hocusphotus.com/posts/anodus-57/" target="blank"> Ο θυμός της ντροπής</a>
-\#58. <a href="https://hocusphotus.com/posts/anodus-58/" target="blank"> Η απλότητα της αλήθειας</a>
+\#35. <a href="https://hocusphotus.com/posts/anodus-35/" target="blank"> Η ανικανοποίητη δίψα</a>  
+\#36. <a href="https://hocusphotus.com/posts/anodus-36/" target="blank"> Το τέταρτο φύλλο του τριφυλλιού</a>   
+\#37. <a href="https://hocusphotus.com/posts/anodus-37/" target="blank"> Η σημασία της σιωπής</a>   
+\#38. <a href="https://hocusphotus.com/posts/anodus-38/" target="blank"> Το τέλος της λογικής</a>   
+\#39. <a href="https://hocusphotus.com/posts/anodus-39/" target="blank"> Η όψη της ελευθερίας</a>   
+\#40. <a href="https://hocusphotus.com/posts/anodus-40/" target="blank"> Η ισχύς της αδυναμίας</a>   
+\#41. <a href="https://hocusphotus.com/posts/anodus-41/" target="blank"> Ο τρόπος των ορίων</a>   
+\#42. <a href="https://hocusphotus.com/posts/anodus-42/" target="blank"> Πριν την αρχή</a>   
+\#43. <a href="https://hocusphotus.com/posts/anodus-43/" target="blank"> Η ανάσα της αλλαγής</a>   
+\#44. <a href="https://hocusphotus.com/posts/anodus-44/" target="blank"> Η αλήθεια της ψυχής</a>   
+\#45. <a href="https://hocusphotus.com/posts/anodus-45/" target="blank"> Η συνομωσία της σιωπής</a>   
+\#46. <a href="https://hocusphotus.com/posts/anodus-46/" target="blank"> Η προσμονή της στιγμής</a>   
+\#47. <a href="https://hocusphotus.com/posts/anodus-47/" target="blank"> Ο καθρέφτης της ευγνωμοσύνης</a>   
+\#48. <a href="https://hocusphotus.com/posts/anodus-48/" target="blank"> Το τέλος του δρόμου</a>   
+\#49. <a href="https://hocusphotus.com/posts/anodus-49/" target="blank"> Πριν κλείσω τα μάτια</a>   
+\#50. <a href="https://hocusphotus.com/posts/anodus-50/" target="blank"> Ανοίγοντας τα μάτια</a>   
+\#51. <a href="https://hocusphotus.com/posts/anodus-51/" target="blank"> Η όχθη της προετοιμασίας</a>   
+\#52. <a href="https://hocusphotus.com/posts/anodus-52/" target="blank"> Η ταυτοποίηση της εισόδου</a>   
+\#53. <a href="https://hocusphotus.com/posts/anodus-53/" target="blank"> Το γέλιο της κάθαρσης</a>   
+\#54. <a href="https://hocusphotus.com/posts/anodus-54/" target="blank"> Το κλάμα της χαράς</a>   
+\#55. <a href="https://hocusphotus.com/posts/anodus-55/" target="blank"> Η νόηση της αίσθησης</a>   
+\#56. <a href="https://hocusphotus.com/posts/anodus-56/" target="blank"> Η αίσθηση της πληρότητας</a>   
+\#57. <a href="https://hocusphotus.com/posts/anodus-57/" target="blank"> Ο θυμός της ντροπής</a>   
+\#58. <a href="https://hocusphotus.com/posts/anodus-58/" target="blank"> Η απλότητα της αλήθειας</a>   
 \#59. <a href="https://hocusphotus.com/posts/anodus-59/" target="blank"> Το νόημα των λέξεων</a>
 
 ### Συνοδευτική Επιστολή
