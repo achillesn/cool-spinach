@@ -28,3 +28,5 @@ canonical_url: "/images/05_kalaydjian_diran.jpg"
 ![](/images/09_kalaydjian_diran.jpg)
 
 ![](/images/10_alexandraki_areti_.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/diran.kalaydjian" target="blank">Diran Kalaydjian</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/aretialexandraki" target="blank">Areti Alexandraki</a>
