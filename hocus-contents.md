@@ -14,34 +14,7 @@ menu:
 
 _Visual Poetry_
 
-pg01.1 - <a href="https://hocusphotus.com/posts/e-photogames-01.1/" target="blank"> Betsa-Rousounelos</a>  
-pg01.4 - <a href="https://hocusphotus.com/posts/e-photogames-01_4/" target="blank"> Bournou-Alexandraki</a>  
-pg01.5 - <a href="https://hocusphotus.com/posts/e-photogames-01_5/" target="blank"> Karamouzi-Christou</a>  
-pg01.7 - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>  
-pg02.5 - <a href="https://hocusphotus.com/posts/e-photogames-02_5/" target="blank"> Chronis-Kalaydjian</a>  
-pg02.3 - <a href="https://hocusphotus.com/posts/e-photogames-02_3/" target="blank"> Livada-Gonis</a>  
-pg02.4 - <a href="https://hocusphotus.com/posts/e-photogames-02_4/" target="blank"> Charalambous-Kalpadaki</a>  
-pg03.4 - <a href="https://hocusphotus.com/posts/e-photogames-03_4/" target="blank"> Savvidis-Livada</a>  
-pg03.6 - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>  
-pg03.3 - <a href="https://hocusphotus.com/posts/e-photogames-03_3/" target="blank"> Katsoulaki-Betsa</a>  
-pg03.6 - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>  
-pg04.8 - <a href="https://hocusphotus.com/posts/e-photogames-04_8/" target="blank"> Voggli-G.Kalaydjian</a>  
-pg04.4 - <a href="https://hocusphotus.com/posts/e-photogames-04_4/" target="blank"> Alexandraki-Rousounelos</a>  
-pg04.5 - <a href="https://hocusphotus.com/posts/e-photogames-04_5/" target="blank"> Tsoukia-Karamouzi</a>  
-pg04.9 - <a href="https://hocusphotus.com/posts/e-photogames-04_9/" target="blank"> Bournou-Makrydaki</a>  
-pg04.7 - <a href="https://hocusphotus.com/posts/e-photogames-04_7/" target="blank"> Georgouleas-Livada</a>  
-pg05.5 - <a href="https://hocusphotus.com/posts/e-photogames-05_5/" target="blank"> Tsoumplekas-Savvidis</a>  
-pg05.1 - <a href="https://hocusphotus.com/posts/e-photogames-05_1/" target="blank"> Gkika-Nasios</a>  
-pg05.8 - <a href="https://hocusphotus.com/posts/e-photogames-05_8/" target="blank"> Chronis-Livada</a>  
-pg05.4 - <a href="https://hocusphotus.com/posts/e-photogames-05_4/" target="blank"> Bournou-Gonis</a>  
-pg06.1 -_<a href="https://hocusphotus.com/posts/e-photogames-06_1/" target="blank"> Alexandraki-Papadopoulos</a>  
-pg06.9 - <a href="https://hocusphotus.com/posts/e-photogames-06_9/" target="blank"> Kitsiou-Betsa</a>  
-pg06.8 - <a href="https://hocusphotus.com/posts/e-photogames-06_8/" tar_et="blank"> G.Kalaydjian-Bournou</a>  
-pg06.2 - <a href="https://hocusphotus.com/posts/e-photogames-06_2/" target="blank"> Rousounelos-Giotopoulou</a>  
-pg06.10 - <a href="https://hocusphotus.com/posts/e-photogames-06_10/" target="blank"> Tsoukia -Charalambous</a>  
-pg301.1 - <a href="https://hocusphotus.com/posts/e-photogames-301_1/" target="blank"> Betsa - Tsoumplekas - Kitsiou</a>  
-pg05.9 - <a href="https://hocusphotus.com/posts/e-photogames-05_9/" target="blank"> Georgouleas-Vasilogiannis</a>  
-pg07.1 - <a href="https://hocusphotus.com/posts/e-photogames-07_1/" target="blank"> D.Kalaydjian - Alexandraki</a>
+**pg01.1** - <a href="https://hocusphotus.com/posts/e-photogames-01.1/" target="blank"> Betsa-Rousounelos</a>  **pg01.4** - <a href="https://hocusphotus.com/posts/e-photogames-01_4/" target="blank"> Bournou-Alexandraki</a>  **pg01.5** - <a href="https://hocusphotus.com/posts/e-photogames-01_5/" target="blank"> Karamouzi-Christou</a>  **pg01.7** - <a href="https://hocusphotus.com/posts/e-photogames-01.7/" target="blank"> Kalpadaki-Vasiliadis</a>  **pg02.5** - <a href="https://hocusphotus.com/posts/e-photogames-02_5/" target="blank"> Chronis-Kalaydjian</a>    **pg02.3** - <a href="https://hocusphotus.com/posts/e-photogames-02_3/" target="blank"> Livada-Gonis</a>    **pg02.4** - <a href="https://hocusphotus.com/posts/e-photogames-02_4/" target="blank"> Charalambous-Kalpadaki</a>    **pg03.4** - <a href="https://hocusphotus.com/posts/e-photogames-03_4/" target="blank"> Savvidis-Livada</a>  **pg03.6** - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>    **pg03.3** - <a href="https://hocusphotus.com/posts/e-photogames-03_3/" target="blank"> Katsoulaki-Betsa</a>    **pg03.6** - <a href="https://hocusphotus.com/posts/e-photogames-03_6/" target="blank"> Charalambous-Kitsiou</a>    **pg04.8** - <a href="https://hocusphotus.com/posts/e-photogames-04_8/" target="blank"> Voggli-G.Kalaydjian</a>    **pg04.4** - <a href="https://hocusphotus.com/posts/e-photogames-04_4/" target="blank"> Alexandraki-Rousounelos</a>    **pg04.5** - <a href="https://hocusphotus.com/posts/e-photogames-04_5/" target="blank"> Tsoukia-Karamouzi</a>   **pg04.9** - <a href="https://hocusphotus.com/posts/e-photogames-04_9/" target="blank"> Bournou-Makrydaki</a>    **pg04.7** - <a href="https://hocusphotus.com/posts/e-photogames-04_7/" target="blank"> Georgouleas-Livada</a>    **pg05.5** - <a href="https://hocusphotus.com/posts/e-photogames-05_5/" target="blank"> Tsoumplekas-Savvidis</a>    **pg05.1** - <a href="https://hocusphotus.com/posts/e-photogames-05_1/" target="blank"> Gkika-Nasios</a>    **pg05.8** - <a href="https://hocusphotus.com/posts/e-photogames-05_8/" target="blank"> Chronis-Livada</a>    **pg05.4** - <a href="https://hocusphotus.com/posts/e-photogames-05_4/" target="blank"> Bournou-Gonis</a>    **pg06.1** -_<a href="https://hocusphotus.com/posts/e-photogames-06_1/" target="blank"> Alexandraki-Papadopoulos</a>    **pg06.9** - <a href="https://hocusphotus.com/posts/e-photogames-06_9/" target="blank"> Kitsiou-Betsa</a>    **pg06.8** - <a href="https://hocusphotus.com/posts/e-photogames-06_8/" tar_et="blank"> G.Kalaydjian-Bournou</a>    **pg06.2** - <a href="https://hocusphotus.com/posts/e-photogames-06_2/" target="blank"> Rousounelos-Giotopoulou</a>    **pg06.10** - <a href="https://hocusphotus.com/posts/e-photogames-06_10/" target="blank"> Tsoukia -Charalambous</a>    **pg301.1** - <a href="https://hocusphotus.com/posts/e-photogames-301_1/" target="blank"> Betsa - Tsoumplekas - Kitsiou</a>    **pg05.9** - <a href="https://hocusphotus.com/posts/e-photogames-05_9/" target="blank"> Georgouleas-Vasilogiannis</a>    **pg07.1** - <a href="https://hocusphotus.com/posts/e-photogames-07_1/" target="blank"> D.Kalaydjian - Alexandraki</a>
 
 ### Παράλληλοι Κόσμοι
 
