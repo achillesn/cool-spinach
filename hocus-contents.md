@@ -165,12 +165,16 @@ _Image + text (GR)_
 \#38. <a href="https://hocusphotus.com/posts/anodus-38/" target="blank"> Το τέλος της λογικής</a>
 \#39. <a href="https://hocusphotus.com/posts/anodus-39/" target="blank"> Η όψη της ελευθερίας</a>
 \#40. <a href="https://hocusphotus.com/posts/anodus-40/" target="blank"> Η ισχύς της αδυναμίας</a>
-
-
-
-
-
-
+\#41. <a href="https://hocusphotus.com/posts/anodus-41/" target="blank"> Ο τρόπος των ορίων</a>
+\#42. <a href="https://hocusphotus.com/posts/anodus-42/" target="blank"> Πριν την αρχή</a>
+\#43. <a href="https://hocusphotus.com/posts/anodus-43/" target="blank"> Η ανάσα της αλλαγής</a>
+\#44. <a href="https://hocusphotus.com/posts/anodus-44/" target="blank"> Η αλήθεια της ψυχής</a>
+\#45. <a href="https://hocusphotus.com/posts/anodus-45/" target="blank"> Η συνομωσία της σιωπής</a>
+\#46. <a href="https://hocusphotus.com/posts/anodus-46/" target="blank"> Η προσμονή της στιγμής</a>
+\#47. <a href="https://hocusphotus.com/posts/anodus-47/" target="blank"> Ο καθρέφτης της ευγνωμοσύνης</a>
+\#48. <a href="https://hocusphotus.com/posts/anodus-48/" target="blank"> Το τέλος του δρόμου</a>
+\#49. <a href="https://hocusphotus.com/posts/anodus-49/" target="blank"> Πριν κλείσω τα μάτια</a>
+\#50. <a href="https://hocusphotus.com/posts/anodus-50/" target="blank"> Ανοίγοντας τα μάτια</a>
 
 ### Συνοδευτική Επιστολή
 
