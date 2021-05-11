@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 26
+title: Κορώνα - Γράμματα 26
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-05-10 22:00:00 +0000
 thumb_img_path: "/images/201_mg_3403.jpg"
@@ -16,6 +16,8 @@ excerpt: "Είναι άραγε η ανάγνωση της εικόνας ένα
 canonical_url: "/images/201_mg_3403.jpg"
 
 ---
+Text 1 by: <a href="https://www.facebook.com/nevi.kaninia" target="blank">Nevi Kaninia</a> - Photo and text 2 by: <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+
 1\.
 
 Κάθε βράδυ περίμενα πίσω από τα δένδρα να τη δω.  
