@@ -31,4 +31,4 @@ canonical_url: "/images/08_nasios_achilles-1.jpeg"
 
 ![](/images/10_nasios_achilles-1.jpeg)
 
-Photo series:1-3-5-7-9. ©<a href="https://www.facebook.com/ilias.georgouleas" target="blank">Ilias Georgouleas</a>  and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
+Photo series:1-3-5-7-9. ©<a href="https://www.facebook.com/profile.php?id=563795760" target="blank"> Simos Charalambous</a>  and  2-4-6-8-10 © <a href="https://anikon.org/" target="blank">Achilles Nasios</a>
