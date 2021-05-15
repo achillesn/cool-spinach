@@ -31,3 +31,4 @@ canonical_url: "/images/03_makrydaki_eleni.jpg"
 
 ![](/images/10_stella_giotopoulou308-2.jpg)
 
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/eleni.makrydaki" target="blank"> Eleni Makrydaki</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/profile.php?id=100006258585210" target="blank"> Stella Giotopoulou</a>
