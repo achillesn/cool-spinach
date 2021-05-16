@@ -38,3 +38,5 @@ canonical_url: "/images/02_betsa_evaggeli302_2.jpg"
 ![](/images/14_betsa_evaggeli302_2.JPG)
 
 ![](/images/15_kalpadaki_eva302_2.jpg)
+
+Photoseries  1-4-7-10-13 © <a href="https://www.facebook.com/gargaro65" target="blank"> Garo Kalaydjian</a>, 2-5-8-11-14 © <a href="https://www.facebook.com/eyaggeli.mpetsa" target="blank"> Ευαγγελή Μπέτσα</a>, 3-6-9-12-15 © <a href="https://www.bright-on-photography.co.uk/" target="blank"> Eva Kalpadaki</a>
