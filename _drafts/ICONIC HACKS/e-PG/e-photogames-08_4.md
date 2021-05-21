@@ -30,3 +30,5 @@ canonical_url: "/images/02_dimitra_kitsiou.jpg"
 ![](/images/09_rousounelos_yannis208_4.jpg)
 
 ![](/images/10_dimitra_kitsiou208_4.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/yannis.rousounelos" target="blank">Yannis Rousounelos</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/dimitra.kitsiou" target="blank">Dimitra Kitsiou</a>
