@@ -40,3 +40,5 @@ canonical_url: "/images/10_bournou_eirini302_3.jpg"
 ![](/images/14_charalambous_simos302_3.jpg)
 
 ![](/images/15_papadopoulos_christos302_3.jpg)
+
+Photo-series  1-4-7-10-13 © <a href="https://www.facebook.com/eirini.bournou" target="blank"> Eirini Bournou</a>, 2-5-8-11-14 © <a href="https://www.facebook.com/profile.php?id=563795760" target="blank"> Simos Charalambous</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/profile.php?id=100000196118507" target="blank"> CHristos Budha Papadopoulos</a>
