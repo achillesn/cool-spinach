@@ -30,3 +30,5 @@ canonical_url: "/images/08_kritikopoulou_nelli.jpg"
 ![](/images/09_livada.png)
 
 ![](/images/10_kritikopoulou_nelli.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/christina.livada" target="blank">Christina Livada</a> and  2-4-6-8-10 © <a href="https://www.facebook.com/profile.php?id=100008007134922" target="blank">Nelli Kritikopoulou</a>
