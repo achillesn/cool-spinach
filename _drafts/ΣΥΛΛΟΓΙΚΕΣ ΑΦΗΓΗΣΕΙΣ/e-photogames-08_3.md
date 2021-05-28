@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: e-photogames 08_3
-subtitle: Μαρία Βόνγκλη - Θάνος Σαββίδης
+subtitle: Μαρία Βόγγλη - Θάνος Σαββίδης
 date: 2021-05-27 22:00:00 +0000
 thumb_img_path: "/images/09_maria_vongli208_3.jpg"
 content_img_path: ''
@@ -30,3 +30,5 @@ canonical_url: "/images/09_maria_vongli208_3.jpg"
 ![](/images/09_maria_vongli208_3.jpg)
 
 ![](/images/10_savvidis_thanos208_3_.jpg)
+
+Photo series:1-3-5-7-9. © <a href="https://www.facebook.com/maria.vongli" target="blank">Maria Vongli</a>   and  2-4-6-8-10  © <a href="https://www.facebook.com/ThanosSa" target="blank">Thanos Savvidis</a>
