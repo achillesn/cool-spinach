@@ -40,3 +40,5 @@ canonical_url: "/images/12-bournoue303_1.jpg"
 ![](/images/14_vasiliadisg303_1.JPG)
 
 ![](/images/15-bournoue303_1.jpg)
+
+Photo-series  1-4-7-10-13 <a href="https://www.facebook.com/tsoumplekas" target="blank"> Christos Tsoumplekas</a> © , 2-5-8-11-14 © <a href="https://www.facebook.com/gvasiliadis" target="blank"> George Vasiliadis</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/eirini.bournou" target="blank"> Eirini Bournou</a>
