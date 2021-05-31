@@ -30,3 +30,5 @@ canonical_url: "/images/05_kesisoglou_ilias208_1.jpg"
 ![](/images/09_kesisoglou_ilias208_1.jpg)
 
 ![](/images/10_alexandraki_areti208_1.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/iliaskes" target="blank">Ilias Kesisioglou</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/aretialexandraki" target="blank">Areti Alexandraki</a>
