@@ -2,7 +2,7 @@
 layout: post
 categories:
 - News
-title: korona-grammata 29
+title: Κορώνα - Γράμματα 29
 subtitle: Δυο κείμενα για μια φωτογραφία.
 date: 2021-05-31 22:00:00 +0000
 thumb_img_path: "/images/205_mg_4413.jpg"
