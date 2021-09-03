@@ -15,7 +15,7 @@ canonical_url: "/images/hocus-photus.jpg"
 ---
 <iframe src="https://player.vimeo.com/video/597326754?h=a5b6edc42c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-Το Δίκτυο Τεχνών και επιστημών **Hocus Photus** ιδρύθηκε με την πεποίθηση ότι η Τέχνη λειτουργεί ενωτικά για τους ανθρώπους.
+Το Δίκτυο Τεχνών και επιστημών <a href="https://www.facebook.com/hocusphotus" target="blank">**Hocus Photus**</a> ιδρύθηκε με την πεποίθηση ότι η Τέχνη λειτουργεί ενωτικά για τους ανθρώπους.
 
 Στόχος μας είναι η σταδιακή συνένωση και **σύμπραξη** καλλιτεχνών, ερασιτεχνών και επιστημόνων.
 
