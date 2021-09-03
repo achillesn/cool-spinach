@@ -27,8 +27,7 @@ canonical_url: "/images/hocus-photus.jpg"
 
 Για να αρχίσει το όραμα να παίρνει μορφή, είναι απαραίτητη η **συμμετοχή** όσων ενδιαφέρονται για κάτι τέτοιο.
 
-Ακολουθήστε μας στο <a href="https://hocusphotus.com" target="blank">**Hocus Photus blog**</a>
-
-στο  <a href="https://www.facebook.com/hocusphotus" target="blank">**facebook**</a>
-
-και στο <a href=" https://www.instagram.com/hocus_photus/" target="blank"> **instagram**</a>
+Ελάτε μαζί μας. Ακολουθήστε μας:  
+<a href="https://photogames.us18.list-manage.com/subscribe?u=b93eeb446f58622e32bc10a23&id=ef5d0e680b" target="blank">**Hocus Photus blog**</a>  
+<a href="https://www.facebook.com/hocusphotus" target="blank">**Facebook**</a>  
+<a href=" https://www.instagram.com/hocus_photus/" target="blank">**Instagram**</a>
