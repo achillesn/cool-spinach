@@ -1,10 +1,9 @@
 ---
 layout: post
-categories:
-- StudiUm
+categories: []
 title: 'Iconic Hack #9'
 subtitle: Photo and text by Achilles Nasios
-date: 2020-01-25 23:00:00 +0000
+date: 2020-01-25T23:00:00.000+00:00
 thumb_img_path: "/images/07.jpg"
 content_img_path: "/images/07.jpg"
 excerpt: Listen to presences inside poems. Let them take you where they will. Follow
