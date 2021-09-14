@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-- News
+- StudiUm
 title: 'Iconic Hack #9'
 subtitle: Photo and text by Achilles Nasios
 date: 2020-01-25 23:00:00 +0000
