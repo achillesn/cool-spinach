@@ -1,9 +1,11 @@
 ---
-layout: studium
+layout: page
 title: StudiUm
 subtitle: ''
 img_path: ''
-published: false
+menu:
+  main:
+    weight: 7
 
 ---
 **ΤΟ ΖΕΝ ΚΑΙ Η TEXNH ΤΗΣ ΦΩΤΟΓΡΑΦΙΑΣ**
