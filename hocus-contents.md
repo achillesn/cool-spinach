@@ -5,7 +5,7 @@ subtitle: ''
 img_path: "/images/c1_mg_6023.jpg"
 menu:
   main:
-    weight: 4
+    weight: 6
 
 ---
 ![](/images/bwok-2.jpg)

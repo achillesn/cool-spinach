@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 6
+    weight: 4
 
 ---
 **ΤΟ ΖΕΝ ΚΑΙ Η TEXNH ΤΗΣ ΦΩΤΟΓΡΑΦΙΑΣ**
