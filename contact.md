@@ -5,7 +5,7 @@ subtitle: ''
 img_path: "/images/contactluna.jpg"
 menu:
   main:
-    weight: 6
+    weight: 7
 
 ---
 To get in touch fill the form below.
