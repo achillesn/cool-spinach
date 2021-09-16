@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: []
-title: eikona kai soma
-subtitle: ''
+title: Η Εικόνα και το Σώμα
+subtitle: Φωτογραφικό Παιχνίδι με τον Άκη Χρήστου
 date: 2021-09-09 22:00:00 +0000
 thumb_img_path: "/images/diptych.jpg"
 content_img_path: "/images/diptych.jpg"
