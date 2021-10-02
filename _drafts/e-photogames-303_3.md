@@ -7,7 +7,8 @@ subtitle: Ilias Georgouleas - Garo Kalaydjian - Achilles Nasios
 date: 2021-10-02 22:00:00 +0000
 thumb_img_path: "/images/09-nasiosa303_3.jpeg"
 content_img_path: ''
-excerpt: ''
+excerpt: 3 παίκτες. 5 φωτογραφίες ο καθένας. Η πρόκληση είναι να δημιουργηθεί σταδιακά
+  μια οπτική αφήγηση.
 canonical_url: "/images/09-nasiosa303_3.jpeg"
 
 ---
