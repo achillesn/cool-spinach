@@ -4,10 +4,10 @@ categories: []
 title: e-photogames 307_1
 subtitle: Vasiliadis - Livada - Vasilogiannis
 date: 2021-10-28 22:00:00 +0000
-thumb_img_path: ''
+thumb_img_path: "/images/15-vassiloyannisn307_1.jpg"
 content_img_path: ''
 excerpt: ''
-canonical_url: ''
+canonical_url: "/images/15-vassiloyannisn307_1.jpg"
 
 ---
 ![](/images/01_vasiliadisg_307_1.jpg)
