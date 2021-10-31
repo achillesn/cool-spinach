@@ -65,4 +65,4 @@ In the exhibition, there are also some images of the whole complete buildings bu
 
 For more info about the exhibition visit:
 
-https://www.royalacademy.org.uk/exhibition/helene-binet
+<a href="https://www.royalacademy.org.uk/exhibition/helene-binet" target="blank"> Helene Binet exhibition</a>
