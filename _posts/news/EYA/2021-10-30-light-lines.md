@@ -31,9 +31,7 @@ canonical_url: "/images/01-binet.jpg"
 
 Για περισσότερες πληροφορίες σχετικά με την έκθεση επισκεφτείτε τον ακόλουθο σύνδεσμο:
 
-[https://www.royalacademy.org.uk/exhibition/helene-binet](https://www.royalacademy.org.uk/exhibition/helene-binet "https://www.royalacademy.org.uk/exhibition/helene-binet")
-
-https://www.royalacademy.org.uk/exhibition/helene-binet
+<a href="https://www.royalacademy.org.uk/exhibition/helene-binet" target="blank"> Helene Binet exhibition</a>
 
 ![](/images/08-binet.jpg)
 
