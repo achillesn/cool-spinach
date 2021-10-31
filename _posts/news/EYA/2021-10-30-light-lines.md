@@ -31,7 +31,7 @@ canonical_url: "/images/01-binet.jpg"
 
 Για περισσότερες πληροφορίες σχετικά με την έκθεση επισκεφτείτε τον ακόλουθο σύνδεσμο:
 
-https://www.royalacademy.org.uk/exhibition/helene-binet
+[https://www.royalacademy.org.uk/exhibition/helene-binet](https://www.royalacademy.org.uk/exhibition/helene-binet "https://www.royalacademy.org.uk/exhibition/helene-binet")
 
 https://www.royalacademy.org.uk/exhibition/helene-binet
 
@@ -48,6 +48,12 @@ _Έκανε τη διδακτορική της διατριβή με αντικ�
 _Aπό το 2009 ζει και εργάζεται στο Brighton ως ελεύθερη επαγγελματίας φωτογράφος και διδάκτωρ φωτογραφίας._
 
 _Εχει εκθέσει το φωτογραφικό της έργο σε ατομικές και ομαδικές εκθέσεις στην Ελλάδα, την Αγγλία και σε άλλες χώρες και έχει επιμεληθεί φωτογραφικές εκθέσεις στο Brighton Photo Fringe festival._
+
+<a href="https://www.evakalpadaki.co.uk/" target="blank"> Περισσότερες πληροφορίες</a>
+
+<a href="https://www.bright-on-photography.co.uk/" target="blank"> Company website</a>
+
+<a href="https://www.instagram.com/eva_kalpadaki/" target="blank"> Instagram</a>
 
 ![](/images/bwok-2.jpg)
 
