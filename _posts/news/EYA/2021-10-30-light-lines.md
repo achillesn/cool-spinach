@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: Light Lines
-subtitle: 'Ανταπόκριση: Εύα Καλπαδάκη'
+subtitle: 'Ανταπόκριση από το Λονδίνο: Εύα Καλπαδάκη'
 date: 2021-10-30 22:00:00 +0000
 thumb_img_path: "/images/01-binet.jpg"
 content_img_path: "/images/01-binet.jpg"
@@ -32,3 +32,7 @@ canonical_url: "/images/01-binet.jpg"
 Για περισσότερες πληροφορίες σχετικά με την έκθεση επισκεφτείτε τον ακόλουθο σύνδεσμο:
 
 https://www.royalacademy.org.uk/exhibition/helene-binet
+
+![](/images/08-binet.jpg)
+
+![](/images/11-binet.jpg)
