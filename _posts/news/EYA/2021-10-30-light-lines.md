@@ -15,7 +15,7 @@ canonical_url: "/images/01-binet.jpg"
 
 ![](/images/02-binet.jpg)
 
-Από την πρώτη στιγμή που μπήκα στην αίθουσα όπου γίνονταν η έκθεση, σαγηνεύτηκα άμεσα από τη φόρμα και το φως. Αν και τα ονόματα των κτιρίων που απεικονίζονται αναγράφονταν στους τίτλους, το μόνο που με ενδιέφερε ήταν να βυθιστώ και να αφεθώ στον γεμάτο από φως, γραμμές, υφές και φόρμα, κόσμο τους.
+Από την πρώτη στιγμή που μπήκα στην αίθουσα όπου γινόταν η έκθεση, σαγηνεύτηκα άμεσα από τη φόρμα και το φως. Αν και τα ονόματα των κτιρίων που απεικονίζονται αναγράφονταν στους τίτλους, το μόνο που με ενδιέφερε ήταν να βυθιστώ και να αφεθώ στον γεμάτο από φως, γραμμές, υφές και φόρμα, κόσμο τους.
 
 ![](/images/03-binet.jpg)
 
@@ -55,7 +55,7 @@ _Εχει εκθέσει το φωτογραφικό της έργο σε ατο
 
 ![](/images/bwok-2.jpg)
 
-Text by Dr Eva Kalpadaki 
+Text by Dr Eva Kalpadaki
 
 **Light Lines:** The Architectural Photographs of Hélène Binet are currently on show at the Royal Academy of Arts in London. Binet is a London-based Swiss-French photographer who has collaborated with a number of famous architects over the last 35 years and has photographed their unique creations. She loves to work with analogue film and strongly believes that ‘the soul of photography is its relationship with the instant’.
 
