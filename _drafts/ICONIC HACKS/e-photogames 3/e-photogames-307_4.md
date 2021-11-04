@@ -42,3 +42,5 @@ canonical_url: "/images/01-savvidist307_4.jpg"
 ![](/images/14_kesisoglou_307_4.jpg)
 
 ![](/images/15_budah307_4.jpg)
+
+Photos  1-4-7-10-13 <a href="https://www.facebook.com/ThanosSa" target="blank"> Thanos Savvidis</a> © , 2-5-8-11-14 © <a href="https://www.facebook.com/iliaskes" target="blank"> Ilias Kessisoglou</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/profile.php?id=100000196118507" target="blank"> Christos Budah Papadopoulos</a>
