@@ -7,7 +7,9 @@ subtitle: Savvidis - Kessisoglou - Papadopoulos
 date: 2021-11-04 23:00:00 +0000
 thumb_img_path: "/images/01-savvidist307_4.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Θάνοσ Σαββίδης, Ηλίας Κεσσίσογλου, Χρήστος Παπαδόπουλος. 3 παίκτες. Μια
+  συλλογική ανάπτυξη. Μια συζήτηση με εικόνες. 5 φωτογραφίες ο καθένας. Το ζητούμενο:
+  Η επίτευξη μιας οπτικής αφήγησης.'
 canonical_url: "/images/01-savvidist307_4.jpg"
 
 ---
