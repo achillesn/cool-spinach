@@ -3,7 +3,7 @@ layout: post
 categories:
 - News
 title: e-photogames 306_3
-subtitle: Alexandraki-Charalambous-Betsa
+subtitle: Alexandraki-Charalambous-Mpetsa
 date: 2021-11-20 23:00:00 +0000
 thumb_img_path: "/images/01-alexandrakia_306_3.jpg"
 content_img_path: ''
@@ -42,3 +42,5 @@ canonical_url: "/images/01-alexandrakia_306_3.jpg"
 ![](/images/14charalambouss306_3.jpg)
 
 ![](/images/15-betsae306_3.jpg)
+
+Photos  1-4-7-10-13 <a href="https://www.facebook.com/aretialexandraki" target="blank"> Ilias Georgouleas</a> © , 2-5-8-11-14 © <a href="https://www.facebook.com/profile.php?id=563795760" target="blank"> Garo Kalaydjian</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/eyaggeli.mpetsa" target="blank"> Achilles Nasios</a>
