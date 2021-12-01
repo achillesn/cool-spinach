@@ -6,7 +6,9 @@ subtitle: Bournou - Kitsiou - Gonis
 date: 2021-12-01 23:00:00 +0000
 thumb_img_path: "/images/01-bournoue307_3.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Αρετή Αλεξανδράκη, Σύμος Χαραλάμπους, Ευαγγελή Μπέτσα. 3 παίκτες. Μια συλλογική
+  ανάπτυξη. Μια συζήτηση με εικόνες. 5 φωτογραφίες ο καθένας. Το ζητούμενο: Η επίτευξη
+  μιας οπτικής αφήγησης.'
 canonical_url: "/images/01-bournoue307_3.jpg"
 
 ---
