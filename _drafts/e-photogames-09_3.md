@@ -32,3 +32,5 @@ canonical_url: "/images/07-rousounelosy209_3.jpg"
 ![](/images/09-rousounelosy209_3.jpg)
 
 ![](/images/10-vonglim209_3.jpg)
+
+Photo series:1-3-5-7-9.© <a href="https://www.facebook.com/yannis.rousounelos" target="blank"> Yannis Rousounelos</a>  and  2-4-6-8-10  © <a href="https://www.facebook.com/maria.vongli" target="blank"> Maria Vongli</a>
