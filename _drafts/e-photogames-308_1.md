@@ -42,3 +42,5 @@ canonical_url: "/images/04_gkoniss308_1.jpg"
 ![](/images/14charalambouss308_1-jpg.JPG)
 
 ![](/images/15_livadac308_1.JPG)
+
+Photos  1-4-7-10-13 © <a href="https://www.facebook.com/profile.php?id=550912249" target="blank"> Sotiris Gonis</a> © , 2-5-8-11-14 © <a href="https://www.facebook.com/profile.php?id=563795760" target="blank"> Simos Charalambous</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/christina.livada" target="blank"> Christina Livada</a>
