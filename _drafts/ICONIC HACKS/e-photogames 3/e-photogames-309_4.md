@@ -7,7 +7,9 @@ subtitle: Savvidis-Kitsiou-Vongli
 date: 2022-02-15 23:00:00 +0000
 thumb_img_path: "/images/12-vonglim309_4.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Θάνος Σαββίδης - Δήμητρα Κίτσιου - Μαρία Βόγγλη. 3 παίκτες. Μια συλλογική
+  ανάπτυξη. Μια συζήτηση με εικόνες. 5 φωτογραφίες ο καθένας. Το ζητούμενο: Η επίτευξη
+  μιας οπτικής αφήγησης.'
 canonical_url: "/images/12-vonglim309_4.jpg"
 
 ---
