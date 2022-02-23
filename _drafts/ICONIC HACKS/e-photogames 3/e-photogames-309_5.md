@@ -40,3 +40,5 @@ canonical_url: "/images/01charalambouss_3_09_5.jpg"
 ![](/images/14_dkalaydijan_309_5.jpg)
 
 ![](/images/15_gkoniss309_5.jpg)
+
+Photos  1-4-7-10-13 <a href="https://www.facebook.com/profile.php?id=563795760" target="blank"> Simos Charalambous</a> © , 2-5-8-11-14 © <a href="https://www.facebook.com/diran.kalaydjian" target="blank"> Diran Kalaydjian</a>, 3-6-9-12-15 © <a href="https://www.facebook.com/profile.php?id=550912249" target="blank"> Sotiris Gonis</a>
