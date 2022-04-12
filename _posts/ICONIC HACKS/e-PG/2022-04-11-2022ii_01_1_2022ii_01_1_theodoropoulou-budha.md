@@ -7,7 +7,9 @@ subtitle: Theodoropoulou-Papadopoulos
 date: 2022-04-11 21:00:00 +0000
 thumb_img_path: "/images/08_budhach_2022ii_01_1.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Ρούλα Θεοδωροπούλου/Χρήστος Παπαδόπουλος. 2 παίκτες. Μια συλλογική ανάπτυξη.
+  Μια συζήτηση με εικόνες. 5 φωτογραφίες ο καθένας. Το ζητούμενο: Η επίτευξη μιας
+  οπτικής αφήγησης.'
 canonical_url: "/images/08_budhach_2022ii_01_1.jpg"
 
 ---
