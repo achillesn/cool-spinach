@@ -4,7 +4,7 @@ categories:
 - StudiUm
 title: Η Εικόνα και το Σώμα
 subtitle: Φωτογραφικές περιπλανήσεις με τον Άκη Χρήστου
-date: 2021-09-09 22:00:00 +0000
+date: 2022-09-19 22:00:00 +0000
 thumb_img_path: "/images/diptych.jpg"
 content_img_path: "/images/diptych.jpg"
 excerpt: Φωτογραφικές Περιπλανήσεις με τον Άκη Χρήστου.  Συναντήσεις με την φωτογραφία
@@ -26,11 +26,7 @@ canonical_url: "/images/diptych.jpg"
 
 Επιλογή από τα έργα των συμμετεχόντων πρόκειται να προβάλλεται μέσω του Δικτύου <a href="https://hocusphotus.com/blog" target="blank"> Hocus Photus</a> με ενδεχόμενο την έκθεση του τελικού έργου μετά την ολοκλήρωση των σεμιναρίων.
 
-<a href="https://hocusphotus.com/contact/" target="blank"> Περισσότερες πληροφορίες</a>
-
-Είσαστε ευπρόσδεκτοι σε μια πιο **αναλυτική παρουσίαση** του σκεπτικού και τον τρόπου διεξαγωγής των σεμιναρίων, την **Δευτέρα 27 Σεπτεμβρίου** στις **20:30** μέσω της πλατφόρμας zoom.
-
-Για να συμμετέχετε<a href="https://us02web.zoom.us/j/82659738867?pwd=RllwcEt6ZTZ4bkJZbDVrdU5PY0d2UT09" target="blank"> **συνδεθείτε εδώ**</a>
+<a href="https://hocusphotus.com/contact/" target="blank">**e-mail** για περισσότερες πληροφορίες</a>
 
 ![](/images/bwok-2.jpg)
 
