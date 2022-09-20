@@ -26,7 +26,7 @@ canonical_url: "/images/diptych.jpg"
 
 Επιλογή από τα έργα των συμμετεχόντων πρόκειται να προβάλλεται μέσω του Δικτύου <a href="https://hocusphotus.com/blog" target="blank"> Hocus Photus</a> με ενδεχόμενο την έκθεση του τελικού έργου μετά την ολοκλήρωση των σεμιναρίων.
 
-<a href="https://hocusphotus.com/contact/" target="blank">Εκδήλωση ενδιαφέροντος για περισσότερες πληροφορίες</a>
+<a href="https://hocusphotus.com/contact/" target="blank">**Εκδήλωση ενδιαφέροντος για περισσότερες πληροφορίες**</a>
 
 ![](/images/bwok-2.jpg)
 
