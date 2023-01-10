@@ -1,6 +1,6 @@
 [build]
 publish = "_site"
-command = “jekyll build”
+command = "jekyll build"
 environment = { JEKYLL_ENV = “netlify” }
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
