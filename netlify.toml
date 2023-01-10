@@ -1,3 +1,7 @@
 [build]
 publish = "_site"
-command = ".CI= npm run build"
+# Default build command.
+command = "echo 'default context'"
+[[plugins]]
+  # Installs the Lighthouse Build Plugin for all deploy contexts
+  package = "@netlify/plugin-lighthouse"
