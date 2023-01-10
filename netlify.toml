@@ -1,7 +1,7 @@
 [build]
 publish = "_site"
-# Default build command.
-command = "echo 'default context'"
+command = “jekyll build”
+environment = { JEKYLL_ENV = “netlify” }
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
   package = "@netlify/plugin-lighthouse"
