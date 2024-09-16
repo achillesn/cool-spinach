@@ -33,3 +33,5 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
         bundle exec jekyll serve
 
 1. Browse to [http://localhost:4000](http://localhost:4000)
+
+2. [![Netlify Status](https://api.netlify.com/api/v1/badges/276ed1c0-e6c7-468a-b093-34588e734127/deploy-status)](https://app.netlify.com/sites/cool-spinach-98452/deploys)
