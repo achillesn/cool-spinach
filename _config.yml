@@ -23,6 +23,15 @@ sass:
   precision: 10
 plugins:
 - jekyll-menus
+menus:
+  main:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Blog"
+      url: "/blog/"
+
 exclude:
 - Gemfile
 - Gemfile.lock
