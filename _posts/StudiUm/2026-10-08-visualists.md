@@ -4,7 +4,10 @@ subtitle: On-line meetings με τον Αχιλλέα Νάσιο
 date: 2026-10-08T02:08:00
 thumb_img_path: /images/on-line meetings.jpeg
 content_img_path: ''
-excerpt: ''
+excerpt: |-
+  Διαδικτυακές συναντήσεις με τον Αχιλλέα Νάσιο για την οπτικοποίηση θεμάτων.
+  Πώς μπορεί μια ιδέα, μια σκέψη, ένα συναίσθημα ή ένα θέμα να αποκτήσει δική του οπτική μορφή;
+  Στόχος η δημιουργία των έργων που θα διαμορφώσουν την ετήσια έκθεση του Δικτύου Hocus Photus.
 canonical_url: ''
 categories:
   - StudiUm
