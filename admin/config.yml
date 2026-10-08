@@ -128,3 +128,28 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
+
+      - name: pages
+    label: Σελίδες
+    files:
+      - name: about
+        label: About
+        file: about.md
+        fields: &page_fields
+          - { label: Title, name: title, widget: string }
+          - { label: Subtitle, name: subtitle, widget: string, required: false }
+          - { label: Image, name: img_path, widget: image, required: false }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Κείμενο, name: body, widget: markdown }
+      - name: hocus_contents
+        label: Hocus Contents
+        file: hocus-contents.md
+        fields: *page_fields
+      - name: studium
+        label: StudiUm
+        file: studium.md
+        fields: *page_fields
+      - name: style_guide
+        label: Style Guide
+        file: style-guide.md
+        fields: *page_fields
