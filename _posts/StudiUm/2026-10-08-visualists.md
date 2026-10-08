@@ -40,9 +40,7 @@ _Πώς μπορεί μια ιδέα, μια σκέψη, ένα συναίσθη
 
 Οι συμμετέχοντες συναντιώνται on-line, κάθε Δευτέρα σε εβδομαδιαίες δίωρες συναντήσεις και αναπτύσσουν τα έργα τους σταδιακά.
 
-
-[![ΣΥμΠΛΕΓΜΑΤΑ - T.A.F - The Art Foundation, Athens](/images/02_symplegmata.jpg)](https://hocusphotus.godaddysites.com/f/symplegmata)
-
+[![](/images/02_symplegmata.jpg "ΣΥμΠΛΕΓΜΑΤΑ - T.A.F - The Art Foundation, Athens")](https://hocusphotus.godaddysites.com/f/symplegmata)
 
 Τα έργα που θα δημιουργηθούν κατά τη διάρκεια των συναντήσεων παρουσιάζονται μέσα από τις διαδικτυακές πλατφόρμες του Hocus Photus και διαμορφώνουν την ετήσια έκθεση του Δικτύου.
 
