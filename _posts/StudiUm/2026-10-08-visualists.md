@@ -6,7 +6,8 @@ thumb_img_path: /images/on-line meetings.jpeg
 content_img_path: ''
 excerpt: ''
 canonical_url: ''
-categories: []
+categories:
+  - StudiUm
 layout: post
 ---
 
