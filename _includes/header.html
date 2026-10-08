@@ -32,7 +32,7 @@
             <ul class="menu">
               {% for item in site.menus.main %}
               <li class="menu-item {% if page.url == item.url %} current-menu-item{% endif %}">
-                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              <a href="{{ item.url | relative_url }}"{% if item.url contains '://' %} target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a>
               </li>
               {% endfor %}
             </ul><!-- .menu -->
