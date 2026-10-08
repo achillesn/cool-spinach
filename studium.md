@@ -8,4 +8,4 @@ menu:
     weight: 4
 ---
 
-Hej
+Hej χ
