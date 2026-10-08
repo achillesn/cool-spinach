@@ -87,7 +87,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
-  - name: studium
+  - name: studium_posts
     label: StudiUm
     folder: _posts/StudiUm
     create: true
@@ -129,7 +129,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
-      - name: pages
+  - name: pages
     label: Σελίδες
     files:
       - name: about
@@ -145,7 +145,7 @@ collections:
         label: Hocus Contents
         file: hocus-contents.md
         fields: *page_fields
-      - name: studium
+      - name: studium_page
         label: StudiUm
         file: studium.md
         fields: *page_fields
