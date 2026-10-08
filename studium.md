@@ -1,5 +1,5 @@
 ---
-title: Meetings on-line
+title: Upcoming Events
 subtitle: ''
 img_path: ''
 layout: studium
