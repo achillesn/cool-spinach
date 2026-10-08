@@ -1,7 +1,7 @@
 ---
 title: VISUALISTS
 subtitle: On-line meetings με τον Αχιλλέα Νάσιο
-date: 2026-10-09T02:08:00
+date: 2026-10-08T02:08:00
 thumb_img_path: /images/on-line meetings.jpeg
 content_img_path: ''
 excerpt: ''
