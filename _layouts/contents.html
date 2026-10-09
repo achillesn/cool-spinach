@@ -97,7 +97,7 @@ layout: body
           {% assign elist = entries | split: ';;;' | sort %}
           {% if elist.size > 0 %}
           <details class="contents-theme">
-            <summary>{{ t }} <span class="contents-count">({{ elist.size }})</span></summary>
+            <summary>{{ t }} <span class="contents-count">({{ elist.size }})</span>{% if site.data.themes[t] %} <span class="contents-desc">· {{ site.data.themes[t] }}</span>{% endif %}</summary>
             <ul>
               {% for e in elist %}
                 {% assign f = e | split: '|||' %}
@@ -108,7 +108,7 @@ layout: body
           {% endif %}
         {% endfor %}
       </details>
-    {% endfor %}
+        {% endfor %}
   </div>
 </article>
 <style>
@@ -118,4 +118,5 @@ layout: body
   .contents-theme > summary { cursor: pointer; font-size: 1.1em; font-weight: 700; padding: .2em 0; }
   .contents-theme ul { margin: .4em 0 .8em; }
   .contents-count { font-weight: 400; opacity: .6; font-size: .85em; }
+  .contents-desc { font-weight: 400; font-style: italic; opacity: .65; font-size: .85em; }
 </style>
