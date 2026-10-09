@@ -12,13 +12,22 @@ layout: body
     {{ content }}
 
     {% capture rules_raw %}
+    anodus/2022-=Το καπάκι της Αβύσσου;
+    αναζητώντας τη χαμένη μαγεία=Το καπάκι της Αβύσσου;
     e-photogame=e-PhotoGames;
     /2022ii=e-PhotoGames;
+    2022ii_=e-PhotoGames;
+    photologoi=Εικονολόγοι;
+    εικονολογοι=Εικονολόγοι;
+    εικονο-λογοι=Εικονολόγοι;
+    korona-grammata=Κορώνα - Γράμματα;
+    κορώνα=Κορώνα - Γράμματα;
     kosmoi=Παράλληλοι Κόσμοι;
-    photologoi=Εικονο-λόγοι;
+    παράλληλοι κόσμοι=Παράλληλοι Κόσμοι;
     virtual connections iii=Virtual Connections III;
     virtual-connection-iii=Virtual Connections III;
     virtual-connections-iii=Virtual Connections III;
+    virtual-connection-3-=Virtual Connections III;
     virtual-connection=Virtual Connections;
     virtuala-connection=Virtual Connections;
     common-developments=Virtual Connections;
@@ -26,13 +35,12 @@ layout: body
     anodus=Η Ελεγεία της Ανόδου;
     synodeftiki-epistoli=Συνοδευτική Επιστολή;
     cover-letter=Συνοδευτική Επιστολή;
-    korona-grammata=Κορωνο-γράμματα;
     mati-tou-ky=Το Μάτι του Κύκλωπα;
     cyclop=Το Μάτι του Κύκλωπα;
     sti-rogmi-tou-chronou=Στη Ρωγμή του Χρόνου;
     syso=Sing Your Soul Out;
     iconic-hack=Iconic Hacks;
-    _posts/news/=News;
+    _posts/news/=Φωτογραφικά Παιχνίδια;
     {% endcapture %}
     {% assign rules = rules_raw | split: ';' %}
 
@@ -45,7 +53,8 @@ layout: body
       {% endif %}
     {% endfor %}
     {% for cat in site.categories %}
-      {% unless cat[0] == "Post" or cat[0] == "post" %}
+      {% assign cl = cat[0] | downcase %}
+      {% unless cl == "post" or cl == "news" %}
         {% capture tok %};;{{ cat[0] }};;{% endcapture %}
         {% unless themes contains tok %}{% assign themes = themes | append: tok %}{% endunless %}
       {% endunless %}
@@ -55,37 +64,46 @@ layout: body
 
     {% assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
     {% for y in years %}
-      {% assign yposts = y.items | reverse %}
       <details class="contents-year">
         <summary>{{ y.name }} <span class="contents-count">({{ y.items.size }})</span></summary>
         {% for t in theme_list %}
           {% if t == "" %}{% continue %}{% endif %}
-          {% assign n = 0 %}
-          {% capture items %}
-            {% for p in yposts %}
-              {% assign theme = "" %}
-              {% for c in p.categories %}
-                {% unless c == "Post" or c == "post" %}{% assign theme = c %}{% break %}{% endunless %}
-              {% endfor %}
-              {% if theme == "" %}
-                {% capture hay %}{{ p.path }} {{ p.url }}{% endcapture %}
-                {% assign hay = hay | downcase %}
-                {% for r in rules %}
-                  {% assign parts = r | strip | split: '=' %}
-                  {% if parts.size == 2 and hay contains parts[0] %}{% assign theme = parts[1] %}{% break %}{% endif %}
-                {% endfor %}
-              {% endif %}
-              {% if theme == "" %}{% assign theme = "Διάφορα" %}{% endif %}
-              {% if theme == t %}
-                {% assign n = n | plus: 1 %}
-                <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-              {% endif %}
+          {% assign entries = "" %}
+          {% for p in y.items %}
+            {% assign theme = "" %}
+            {% capture hay %}{{ p.path }} {{ p.url }} {{ p.title }}{% endcapture %}
+            {% assign hay = hay | downcase %}
+            {% for r in rules %}
+              {% assign parts = r | strip | split: '=' %}
+              {% if parts.size == 2 and hay contains parts[0] %}{% assign theme = parts[1] %}{% break %}{% endif %}
             {% endfor %}
-          {% endcapture %}
-          {% if n > 0 %}
+            {% if theme == "" %}
+              {% for c in p.categories %}
+                {% assign cl = c | downcase %}
+                {% unless cl == "post" or cl == "news" %}{% assign theme = c %}{% break %}{% endunless %}
+              {% endfor %}
+            {% endif %}
+            {% if theme == "" %}{% assign theme = "Διάφορα" %}{% endif %}
+            {% if theme == t %}
+              {% if t == "e-PhotoGames" %}
+                {% assign key = p.title | downcase | replace: '.', '_' | replace: ' ', '' %}
+              {% else %}
+                {% assign key = p.date | date: '%Y%m%d%H%M%S' %}
+              {% endif %}
+              {% assign purl = p.url | relative_url %}
+              {% assign entries = entries | append: key | append: '|||' | append: purl | append: '|||' | append: p.title | append: ';;;' %}
+            {% endif %}
+          {% endfor %}
+          {% assign elist = entries | split: ';;;' | sort %}
+          {% if elist.size > 0 %}
           <details class="contents-theme">
-            <summary>{{ t }} <span class="contents-count">({{ n }})</span></summary>
-            <ul>{{ items }}</ul>
+            <summary>{{ t }} <span class="contents-count">({{ elist.size }})</span></summary>
+            <ul>
+              {% for e in elist %}
+                {% assign f = e | split: '|||' %}
+                <li><a href="{{ f[1] }}">{{ f[2] }}</a></li>
+              {% endfor %}
+            </ul>
           </details>
           {% endif %}
         {% endfor %}
