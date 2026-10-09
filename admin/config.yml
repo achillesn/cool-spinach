@@ -141,5 +141,5 @@ collections:
           - { label: Image, name: img_path, widget: image, required: false }
           - { label: Layout, name: layout, widget: hidden, default: page }
           - { label: Κείμενο, name: body, widget: markdown }
-      - name: hocus_contents
-        label: Hocus Contents
+      - { name: hocus_contents, label: Hocus Contents, file: hocus-contents.md, fields: *page_fields }
+      - { name: studium_page, label: Upcoming Events, file: studium.md, fields: *page_fields }
