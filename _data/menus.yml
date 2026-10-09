@@ -6,6 +6,4 @@ main:
 - weight: 5.5
   url: https://hocusphotus.godaddysites.com/
   title: HOCUS PHOTUS ’24-‘26
-- weight: 30
-  url: https://hocusphotus-com.translate.goog/?_x_tr_sl=el&_x_tr_tl=en&_x_tr_hl=en
-  title: English
+
