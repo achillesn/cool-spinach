@@ -94,3 +94,10 @@ EMAIL info@hocusphotus.com (Οκτώβριος 2026)
 - Επιτρέπεται ΜΟΝΟ μία εγγραφή v=spf1. Νέες υπηρεσίες προστίθενται
   ως include: στην ίδια γραμμή.
 - Smtp.gmail.com ΔΕΝ αρκεί: η Yahoo απορρίπτει χωρίς DKIM του domain.
+
+- - Yahoo: info@ προστέθηκε ως "Send-only email address"
+  (Yahoo Mail → Settings → Mailboxes). Στέλνει από διακομιστές Yahoo,
+  χωρίς DKIM του domain. Αν αρχίσουν προβλήματα παράδοσης,
+  στέλνε από το Gmail (μέσω Brevo).
+- Gmail φίλτρο: To: info@hocusphotus.com → Never send to Spam.
+  (Χωρίς αυτό, η επιβεβαίωση του Yahoo είχε πάει στα Spam.)
