@@ -121,3 +121,7 @@ EMAIL info@hocusphotus.com (Οκτώβριος 2026)
 - Κουμπί EN/ΕΛ πάνω δεξιά (Google Translate): στην αρχή του header
   στο _includes. Στο base.html: lang="el", αφαιρέθηκε το notranslate.
 - Νέα εξωτερικά links στο μενού: _data/menus.yml (weight = σειρά).
+
+- - Τα παλιά links photogames.tk μέσα στα άρθρα μετατρέπονται αυτόματα
+  σε photogames.eu κατά το build: _layouts/body.html →
+  {{ content | replace: 'photogames.tk', 'photogames.eu' }}
