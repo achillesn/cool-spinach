@@ -7,6 +7,57 @@ media_folder: images
 public_folder: /images
 
 collections:
+  - name: home
+    label: Αρχική σελίδα
+    files:
+      - name: home_page
+        label: Hocus Domus (Αρχική)
+        file: index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Layout, name: layout, widget: hidden, default: home }
+          - label: Ενότητες
+            name: sections
+            widget: list
+            types:
+              - label: Κείμενο με εικόνα
+                name: contentblock
+                widget: object
+                fields:
+                  - { label: Template, name: template, widget: hidden, default: contentblock }
+                  - { label: Component, name: component, widget: hidden, default: content_block.html }
+                  - { label: Τίτλος, name: title, widget: string, required: false }
+                  - { label: Section ID, name: section_id, widget: string, required: false }
+                  - { label: Κείμενο, name: content, widget: markdown, required: false }
+                  - { label: Εικόνα, name: image, widget: image, required: false }
+                  - label: Κουμπιά
+                    name: actions
+                    widget: list
+                    required: false
+                    fields: &action_fields
+                      - { label: Κείμενο κουμπιού, name: label, widget: string }
+                      - { label: Διεύθυνση, name: url, widget: string }
+              - label: Λίστα άρθρων
+                name: postsblock
+                widget: object
+                fields:
+                  - { label: Template, name: template, widget: hidden, default: postsblock }
+                  - { label: Component, name: component, widget: hidden, default: posts_block.html }
+                  - { label: Τίτλος, name: title, widget: string, required: false }
+                  - { label: Section ID, name: section_id, widget: string, required: false }
+                  - { label: Πόσα άρθρα να δείχνει, name: num_posts_displayed, widget: number, value_type: int, required: false }
+                  - { label: Κουμπιά, name: actions, widget: list, required: false, fields: *action_fields }
+              - label: Hero (μεγάλη επικεφαλίδα)
+                name: heroblock
+                widget: object
+                fields:
+                  - { label: Template, name: template, widget: hidden, default: heroblock }
+                  - { label: Component, name: component, widget: hidden, default: hero_block.html }
+                  - { label: Τίτλος, name: title, widget: string, required: false }
+                  - { label: Section ID, name: section_id, widget: string, required: false }
+                  - { label: Κείμενο, name: content, widget: markdown, required: false }
+                  - { label: Κουμπιά, name: actions, widget: list, required: false, fields: *action_fields }
+
   - name: posts_root
     label: Άρθρα (γενικά)
     folder: _posts
@@ -19,137 +70,4 @@ collections:
       - { label: Featured Image, name: thumb_img_path, widget: image, required: false }
       - { label: Alternative Featured Image, name: content_img_path, widget: image, required: false }
       - { label: Excerpt, name: excerpt, widget: text, required: false }
-      - { label: Canonical URL, name: canonical_url, widget: string, required: false }
-      - { label: Category, name: categories, widget: list, required: false }
-      - { label: Layout, name: layout, widget: hidden, default: post }
-      - { label: Κείμενο, name: body, widget: markdown }
-
-  - name: iconic_hacks
-    label: ICONIC HACKS
-    folder: _posts/ICONIC HACKS
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: paralliloi_kosmoi
-    label: ICONIC HACKS / Παράλληλοι Κόσμοι
-    folder: _posts/ICONIC HACKS/PARALLILOI KOSMOI
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: virtual_connections
-    label: ICONIC HACKS / Virtual Connections III
-    folder: _posts/ICONIC HACKS/Virtual Connections III
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: epg
-    label: ICONIC HACKS / e-PG
-    folder: _posts/ICONIC HACKS/e-PG
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: ephotogames3
-    label: ICONIC HACKS / e-photogames 3
-    folder: _posts/ICONIC HACKS/e-photogames 3
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: photologoi
-    label: ICONIC HACKS / Photologoi
-    folder: _posts/ICONIC HACKS/photologoi
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: nevi
-    label: NEVI
-    folder: _posts/NEVI
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: nena
-    label: NEVI / NENA
-    folder: _posts/NEVI/NENA
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: random
-    label: RANDOM
-    folder: _posts/RANDOM
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: studium_posts
-    label: StudiUm
-    folder: _posts/StudiUm
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: cyclops_eye
-    label: THE CYCLOP's EYE
-    folder: _posts/THE CYCLOP's EYE
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: anodus
-    label: THE CYCLOP's EYE / ANODUS
-    folder: _posts/THE CYCLOP's EYE/ANODUS
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: news
-    label: News
-    folder: _posts/news
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: news_eya
-    label: News / EYA
-    folder: _posts/news/EYA
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: syllogikes
-    label: ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ
-    folder: _posts/ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: *post_fields
-
-  - name: pages
-    label: Σελίδες
-    files:
-      - name: about
-        label: About
-        file: about.md
-        fields: &page_fields
-          - { label: Title, name: title, widget: string }
-          - { label: Subtitle, name: subtitle, widget: string, required: false }
-          - { label: Image, name: img_path, widget: image, required: false }
-          - { label: Layout, name: layout, widget: hidden, default: page }
-          - { label: Κείμενο, name: body, widget: markdown }
-      - name: hocus_contents
-        label: Hocus Contents
-        file: hocus-contents.md
-        fields: *page_fields
-      - name: studium_page
-        label: StudiUm
-        file: studium.md
-        fields: *page_fields
-      - name: style_guide
-        label: Style Guide
-        file: style-guide.md
-        fields: *page_fields
+      - { label: Canonical URL, name: canonical_url, widget: string,
