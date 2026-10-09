@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contents
 title: Blogus Contentus
 subtitle: ''
 img_path: "/images/c1_mg_6023.jpg"
