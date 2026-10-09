@@ -74,3 +74,23 @@
 - Contact, μενού, social, author: εκτός CMS, αλλάζουν από το GitHub.
 - Canonical URL: σε κάποια άρθρα έχει τιμή μια εικόνα. Καλό είναι να αδειάσει.
 - Παλιά links photogames.tk μέσα σε άρθρα.
+
+EMAIL info@hocusphotus.com (Οκτώβριος 2026)
+- DNS: στο Netlify (Domain management → hocusphotus.com → DNS).
+  Οι εγγραφές δεν επεξεργάζονται, μόνο Delete και Add new record.
+  ΜΗΝ σβήσεις τις 2 εγγραφές τύπου NETLIFY (είναι το site).
+- Λήψη: ImprovMX (δωρεάν), alias info@ → προσωπικό Gmail.
+  MX: mx1.improvmx.com (10), mx2.improvmx.com (20)
+- Αποστολή: Gmail "Send mail as" μέσω Brevo (δωρεάν, 300/ημέρα)
+  SMTP: smtp-relay.brevo.com, port 587, TLS
+  Username: το SMTP Login του Brevo (...@smtp-brevo.com)
+  Password: SMTP key (Brevo → SMTP & API → SMTP). Αν χαθεί, φτιάχνεις νέο.
+- Λοιπές εγγραφές DNS:
+  TXT  @        v=spf1 include:spf.improvmx.com include:spf.brevo.com include:_spf.google.com ~all
+  TXT  @        brevo-code:84fe9d2d162bda343ea1f6649d567bf3
+  CNAME brevo1._domainkey → b1.hocusphotus-com.dkim.brevo.com
+  CNAME brevo2._domainkey → b2.hocusphotus-com.dkim.brevo.com
+  TXT  _dmarc   v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com
+- Επιτρέπεται ΜΟΝΟ μία εγγραφή v=spf1. Νέες υπηρεσίες προστίθενται
+  ως include: στην ίδια γραμμή.
+- Smtp.gmail.com ΔΕΝ αρκεί: η Yahoo απορρίπτει χωρίς DKIM του domain.
