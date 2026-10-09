@@ -30,10 +30,34 @@
         <div class="site-nav-wrap">
           <div class="site-nav-inside">
             <ul class="menu">
-              <li class="menu-item notranslate" translate="no">
+              <div id="lang-switch-box" class="notranslate" translate="no">
   <a id="lang-switch" href="https://hocusphotus-com.translate.goog/?_x_tr_sl=el&_x_tr_tl=en&_x_tr_hl=en">English</a>
-</li>
+</div>
+<style>
+  #lang-switch-box { position: fixed; top: 16px; right: 16px; z-index: 1000; }
+  #lang-switch-box a {
+    display: inline-block; padding: 6px 14px; border-radius: 20px;
+    background: #fff; color: #222; font-size: 14px; font-weight: 700;
+    text-decoration: none; box-shadow: 0 1px 4px rgba(0,0,0,.25);
+  }
+  #lang-switch-box a:hover { background: #f0f0f0; }
+  @media (max-width: 800px) {
+    #lang-switch-box { top: auto; bottom: 16px; }
+  }
+</style>
 <script>
+(function () {
+  var a = document.getElementById('lang-switch');
+  if (!a) return;
+  var path = location.pathname;
+  if (location.hostname.indexOf('translate.goog') !== -1) {
+    a.textContent = 'Ελληνικά';
+    a.href = 'https://hocusphotus.com' + path;
+  } else {
+    a.href = 'https://hocusphotus-com.translate.goog' + path + '?_x_tr_sl=el&_x_tr_tl=en&_x_tr_hl=en';
+  }
+})();
+</script>
 (function () {
   var a = document.getElementById('lang-switch');
   if (!a) return;
