@@ -11,8 +11,6 @@ layout: body
   <div class="post-content">
     {{ content }}
 
-    {% assign posts_asc = site.posts | reverse %}
-
     {% capture rules_raw %}
     e-photogame=e-PhotoGames;
     /2022ii=e-PhotoGames;
@@ -52,83 +50,54 @@ layout: body
         {% unless themes contains tok %}{% assign themes = themes | append: tok %}{% endunless %}
       {% endunless %}
     {% endfor %}
-    {% assign themes = themes | append: ";;Χωρίς θεματική;;" %}
+    {% assign themes = themes | append: ";;Διάφορα;;" %}
     {% assign theme_list = themes | split: ';;' %}
 
-    <div class="contents-tabs">
-      <button type="button" class="contents-tab-btn active" data-tab="themes">Ανά θεματική</button>
-      <button type="button" class="contents-tab-btn" data-tab="years">Ανά χρονιά</button>
-    </div>
-
-    <div class="contents-tab" id="tab-themes">
-      {% for t in theme_list %}
-        {% if t == "" %}{% continue %}{% endif %}
-        {% assign n = 0 %}
-        {% capture items %}
-          {% for p in posts_asc %}
-            {% assign theme = "" %}
-            {% for c in p.categories %}
-              {% unless c == "Post" or c == "post" %}{% assign theme = c %}{% break %}{% endunless %}
-            {% endfor %}
-            {% if theme == "" %}
-              {% capture hay %}{{ p.path }} {{ p.url }}{% endcapture %}
-              {% assign hay = hay | downcase %}
-              {% for r in rules %}
-                {% assign parts = r | strip | split: '=' %}
-                {% if parts.size == 2 and hay contains parts[0] %}{% assign theme = parts[1] %}{% break %}{% endif %}
-              {% endfor %}
-            {% endif %}
-            {% if theme == "" %}{% assign theme = "Χωρίς θεματική" %}{% endif %}
-            {% if theme == t %}
-              {% assign n = n | plus: 1 %}
-              <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        {% endcapture %}
-        {% if n > 0 %}
-        <details class="contents-series">
-          <summary><strong>{{ t }}</strong> ({{ n }})</summary>
-          <ul>{{ items }}</ul>
-        </details>
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <div class="contents-tab" id="tab-years" hidden>
-      {% assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
-      {% for y in years %}
-        {% assign yposts = y.items | reverse %}
-        <details class="contents-series">
-          <summary><strong>{{ y.name }}</strong> ({{ y.items.size }})</summary>
-          <ul>
+    {% assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
+    {% for y in years %}
+      {% assign yposts = y.items | reverse %}
+      <details class="contents-year">
+        <summary>{{ y.name }} <span class="contents-count">({{ y.items.size }})</span></summary>
+        {% for t in theme_list %}
+          {% if t == "" %}{% continue %}{% endif %}
+          {% assign n = 0 %}
+          {% capture items %}
             {% for p in yposts %}
-            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+              {% assign theme = "" %}
+              {% for c in p.categories %}
+                {% unless c == "Post" or c == "post" %}{% assign theme = c %}{% break %}{% endunless %}
+              {% endfor %}
+              {% if theme == "" %}
+                {% capture hay %}{{ p.path }} {{ p.url }}{% endcapture %}
+                {% assign hay = hay | downcase %}
+                {% for r in rules %}
+                  {% assign parts = r | strip | split: '=' %}
+                  {% if parts.size == 2 and hay contains parts[0] %}{% assign theme = parts[1] %}{% break %}{% endif %}
+                {% endfor %}
+              {% endif %}
+              {% if theme == "" %}{% assign theme = "Διάφορα" %}{% endif %}
+              {% if theme == t %}
+                {% assign n = n | plus: 1 %}
+                <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+              {% endif %}
             {% endfor %}
-          </ul>
-        </details>
-      {% endfor %}
-    </div>
+          {% endcapture %}
+          {% if n > 0 %}
+          <details class="contents-theme">
+            <summary>{{ t }} <span class="contents-count">({{ n }})</span></summary>
+            <ul>{{ items }}</ul>
+          </details>
+          {% endif %}
+        {% endfor %}
+      </details>
+    {% endfor %}
   </div>
 </article>
 <style>
-  .contents-tabs { display: flex; gap: .5em; margin: 1.5em 0 1em; flex-wrap: wrap; }
-  .contents-tab-btn { padding: .5em 1.2em; border: 1px solid #ccc; border-radius: 20px; background: #fff; cursor: pointer; font-size: 1em; }
-  .contents-tab-btn.active { background: #222; color: #fff; border-color: #222; }
-  .contents-series { margin: 0 0 1em; }
-  .contents-series summary { cursor: pointer; font-size: 1.1em; padding: .3em 0; }
-  .contents-series ul { margin-top: .5em; }
+  .contents-year { margin: 0 0 1em; }
+  .contents-year > summary { cursor: pointer; font-size: 1.4em; font-weight: 700; padding: .3em 0; }
+  .contents-theme { margin: .3em 0 .6em 1.2em; }
+  .contents-theme > summary { cursor: pointer; font-size: 1.1em; font-weight: 700; padding: .2em 0; }
+  .contents-theme ul { margin: .4em 0 .8em; }
+  .contents-count { font-weight: 400; opacity: .6; font-size: .85em; }
 </style>
-<script>
-  (function () {
-    var btns = document.querySelectorAll('.contents-tab-btn');
-    for (var i = 0; i < btns.length; i++) {
-      btns[i].addEventListener('click', function () {
-        for (var j = 0; j < btns.length; j++) { btns[j].classList.remove('active'); }
-        this.classList.add('active');
-        var tab = this.getAttribute('data-tab');
-        document.getElementById('tab-themes').hidden = (tab !== 'themes');
-        document.getElementById('tab-years').hidden = (tab !== 'years');
-      });
-    }
-  })();
-</script>
