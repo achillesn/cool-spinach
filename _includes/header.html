@@ -2,7 +2,8 @@
   <a id="lang-switch" href="https://hocusphotus-com.translate.goog/?_x_tr_sl=el&_x_tr_tl=en&_x_tr_hl=en">EN</a>
 </div>
 <style>
-  #lang-switch-box { position: fixed; top: 16px; right: 16px; z-index: 1000; }
+  #lang-switch-box { position: fixed; top: 16px; right: 16px; z-index: 2147483647; }
+  #lang-switch-box.on-translate { top: 80px; }
   #lang-switch-box a {
     display: inline-block; padding: 6px 12px; border-radius: 20px;
     background: #fff; color: #222; font-size: 14px; font-weight: 700;
@@ -10,17 +11,19 @@
   }
   #lang-switch-box a:hover { background: #f0f0f0; }
   @media (max-width: 800px) {
-    #lang-switch-box { top: auto; bottom: 16px; }
+    #lang-switch-box, #lang-switch-box.on-translate { top: auto; bottom: 16px; }
   }
 </style>
 <script>
 (function () {
+  var box = document.getElementById('lang-switch-box');
   var a = document.getElementById('lang-switch');
-  if (!a) return;
+  if (!a || !box) return;
   var path = location.pathname;
   if (location.hostname.indexOf('translate.goog') !== -1) {
     a.textContent = 'ΕΛ';
     a.href = 'https://hocusphotus.com' + path;
+    box.className += ' on-translate';
   } else {
     a.textContent = 'EN';
     a.href = 'https://hocusphotus-com.translate.goog' + path + '?_x_tr_sl=el&_x_tr_tl=en&_x_tr_hl=en';
