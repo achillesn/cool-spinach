@@ -101,3 +101,23 @@ EMAIL info@hocusphotus.com (Οκτώβριος 2026)
   στέλνε από το Gmail (μέσω Brevo).
 - Gmail φίλτρο: To: info@hocusphotus.com → Never send to Spam.
   (Χωρίς αυτό, η επιβεβαίωση του Yahoo είχε πάει στα Spam.)
+
+  NEWSLETTER (Mailchimp)
+- Domain hocusphotus.com επαληθευμένο (Authenticated) στο Mailchimp.
+  DNS: CNAME k2._domainkey → dkim2.mcsv.net
+       CNAME k3._domainkey → dkim3.mcsv.net
+  (το DMARC υπάρχει ήδη, ΜΗΝ προστεθεί δεύτερο)
+- Αποστολέας καμπανιών: Hocus Photus <info@hocusphotus.com>
+- Footer & permission reminder (δίγλωσσο): Audience → More options →
+  Audience settings → Required email footer content
+
+ΣΤΑΤΙΣΤΙΚΑ (GoatCounter)
+- https://hocusphotus.goatcounter.com (δωρεάν, χωρίς cookies)
+- Κώδικας: τελευταία γραμμή πριν το </body> στο _layouts/base.html
+- Ο παλιός κώδικας Google Analytics (UA) αφαιρέθηκε (δεν λειτουργούσε από 2023).
+
+ΑΛΛΕΣ ΑΛΛΑΓΕΣ ΣΤΟ SITE
+- Tagline κάτω από το logo: _config.yml → header → tagline
+- Κουμπί EN/ΕΛ πάνω δεξιά (Google Translate): στην αρχή του header
+  στο _includes. Στο base.html: lang="el", αφαιρέθηκε το notranslate.
+- Νέα εξωτερικά links στο μενού: _data/menus.yml (weight = σειρά).
