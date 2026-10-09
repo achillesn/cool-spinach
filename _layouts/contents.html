@@ -1,0 +1,48 @@
+---
+layout: body
+---
+<article class="post page post-full">
+  <header class="post-header">
+    <h1 class="post-title underline">{{ page.title }}</h1>
+  </header>
+  {% if page.subtitle and page.subtitle != '' %}
+  <div class="post-subtitle">{{ page.subtitle }}</div>
+  {% endif %}
+  <div class="post-content">
+    {{ content }}
+
+    <h2>Ανά θεματική</h2>
+    {% assign cats = site.categories | sort %}
+    {% for cat in cats %}
+      {% assign cname = cat[0] %}
+      {% if cname == "Post" or cname == "post" %}{% continue %}{% endif %}
+      {% assign cposts = cat[1] | reverse %}
+      <details class="contents-series">
+        <summary><strong>{{ cname }}</strong> ({{ cposts.size }})</summary>
+        <ul>
+          {% for p in cposts %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a> <small>({{ p.date | date: "%d/%m/%Y" }})</small></li>
+          {% endfor %}
+        </ul>
+      </details>
+    {% endfor %}
+
+    <h2>Ανά χρονιά</h2>
+    {% assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
+    {% for y in years %}
+      <details class="contents-series">
+        <summary><strong>{{ y.name }}</strong> ({{ y.items.size }})</summary>
+        <ul>
+          {% for p in y.items %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a> <small>({{ p.date | date: "%d/%m/%Y" }})</small></li>
+          {% endfor %}
+        </ul>
+      </details>
+    {% endfor %}
+  </div>
+</article>
+<style>
+  .contents-series { margin: 0 0 1em; }
+  .contents-series summary { cursor: pointer; font-size: 1.1em; padding: .3em 0; }
+  .contents-series ul { margin-top: .5em; }
+</style>
