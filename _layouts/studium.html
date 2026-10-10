@@ -3,11 +3,18 @@ layout: body
 ---
 
   {% assign page_text = content | strip %}
-  {% if page_text != "" %}
+  {% assign has_img = false %}
+  {% if page.img_path and page.img_path != "" %}{% assign has_img = true %}{% endif %}
+  {% if page_text != "" or has_img %}
   <article class="post page post-full">
+    {% if has_img %}
+    <div class="post-thumbnail"><img class="thumbnail" src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" /></div>
+    {% endif %}
+    {% if page_text != "" %}
     <div class="post-content">
       {{ content }}
     </div>
+    {% endif %}
   </article>
   {% endif %}
 
