@@ -8,7 +8,7 @@ public_folder: /images
 
 collections:
   - name: posts_root
-    label: Άρθρα (γενικά)
+    label: Γενικά (διάφορα)
     folder: _posts
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -20,110 +20,110 @@ collections:
       - { label: Alternative Featured Image, name: content_img_path, widget: image, required: false }
       - { label: Excerpt, name: excerpt, widget: text, required: false }
       - { label: Canonical URL, name: canonical_url, widget: string, required: false }
-      - { label: Category, name: categories, widget: select, multiple: true, required: false, options: ["Αναζητώντας τη χαμένη Μαγεία", "e-PhotoGames", "Παράλληλοι Κόσμοι", "ΕΙΚΟΝΟΛΟΓΟΙ", "Virtual Connections III", "Virtual Connections", "Ελεγεία της Ανόδου", "Συνοδευτική Επιστολή", "Το Μάτι του Κύκλωπα", "Στη Ρωγμή του Χρόνου", "Iconic Hacks", "Movies", "Το καπάκι της Αβύσσου", "Music", "Κορώνα - Γράμματα", "Sing Your Soul Out", "Εκθέσεις", "Φωτογραφικά Παιχνίδια", "studium", "News", "Post"] }
+      - { label: Category, name: categories, widget: list, required: false }
       - { label: Layout, name: layout, widget: hidden, default: post }
       - { label: Κείμενο, name: body, widget: markdown }
 
   - name: iconic_hacks
-    label: ICONIC HACKS
+    label: Iconic Hacks
     folder: _posts/ICONIC HACKS
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: paralliloi_kosmoi
-    label: ICONIC HACKS / Παράλληλοι Κόσμοι
+    label: Παράλληλοι Κόσμοι
     folder: _posts/ICONIC HACKS/PARALLILOI KOSMOI
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: virtual_connections
-    label: ICONIC HACKS / Virtual Connections III
+    label: Virtual Connections III
     folder: _posts/ICONIC HACKS/Virtual Connections III
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: epg
-    label: ICONIC HACKS / e-PG
+    label: e-PhotoGames (2021)
     folder: _posts/ICONIC HACKS/e-PG
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: ephotogames3
-    label: ICONIC HACKS / e-photogames 3
+    label: e-PhotoGames 3 & 2022
     folder: _posts/ICONIC HACKS/e-photogames 3
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: photologoi
-    label: ICONIC HACKS / Photologoi
+    label: ΕΙΚΟΝΟΛΟΓΟΙ
     folder: _posts/ICONIC HACKS/photologoi
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: nevi
-    label: NEVI
+    label: Συνοδευτική Επιστολή & Κορώνα-Γράμματα
     folder: _posts/NEVI
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: nena
-    label: NEVI / NENA
+    label: Στη Ρωγμή του Χρόνου
     folder: _posts/NEVI/NENA
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: random
-    label: RANDOM
+    label: Ελεγεία της Ανόδου, Movies, Music, Κείμενα
     folder: _posts/RANDOM
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: studium_posts
-    label: StudiUm
+    label: Upcoming Events (StudiUm)
     folder: _posts/StudiUm
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: cyclops_eye
-    label: THE CYCLOP's EYE
+    label: Το Μάτι του Κύκλωπα
     folder: _posts/THE CYCLOP's EYE
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: anodus
-    label: THE CYCLOP's EYE / ANODUS
+    label: Αναζητώντας τη χαμένη Μαγεία
     folder: _posts/THE CYCLOP's EYE/ANODUS
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: news
-    label: News
+    label: Φωτογραφικά Παιχνίδια
     folder: _posts/news
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: news_eya
-    label: News / EYA
+    label: Εκθέσεις & EYA
     folder: _posts/news/EYA
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
   - name: syllogikes
-    label: ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ
+    label: Virtual Connections & λοιπά
     folder: _posts/ΣΥΛΛΟΓΙΚΕΣ ΑΦΗΓΗΣΕΙΣ
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
