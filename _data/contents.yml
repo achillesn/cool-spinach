@@ -1,3 +1,4 @@
+- { name: "Νέα Σειρά", desc: "poetry", match: "", sort: date, numbered: true }
 - { name: "Αναζητώντας τη χαμένη Μαγεία", desc: "", match: "αναζητώντας τη χαμένη μαγεία,anodus/2022-", sort: date, numbered: false }
 - { name: "e-PhotoGames", desc: "photo-games", match: "e-photogame,/2022ii,2022ii_", sort: title, numbered: false }
 - { name: "Παράλληλοι Κόσμοι", desc: "photo-games", match: "kosmoi,παράλληλοι κόσμοι", sort: date, numbered: false }
@@ -6,7 +7,7 @@
 - { name: "Virtual Connections", desc: "photo-games", match: "virtual-connection,virtuala-connection,common-developments,syllogikes-anaptyxeis,συλλογικές-αναπτύξεις", sort: date, numbered: true }
 - { name: "Ελεγεία της Ανόδου", desc: "literature", match: "anodus,i-giorti-tis-anasas,i-siopi-tis-prosmonis,i-simasia-tis-siopis", sort: date, numbered: true }
 - { name: "Συνοδευτική Επιστολή", desc: "poetry+photo", match: "synodeftiki-epistoli,cover-letter,συνοδευτική-επιστολή", sort: date, numbered: true }
-- { name: "Το Μάτι του Κύκλωπα", desc: "photo theory", match: "mati-tou-ky,the-cyclop-s-eye,το-μάτι-του-κύκλωπα,h-anapofefkti-prothesi,anagnorizontas-ton-kodika,i-simasia-tis-apodoxis,diloseis-kai-symparadiloseis", sort: date, numbered: true }
+- { name: "Το Μάτι του Κύκλωπα", desc: "photo theory ", match: "mati-tou-ky,the-cyclop-s-eye,το-μάτι-του-κύκλωπα,h-anapofefkti-prothesi,anagnorizontas-ton-kodika,i-simasia-tis-apodoxis,diloseis-kai-symparadiloseis", sort: date, numbered: true }
 - { name: "Στη Ρωγμή του Χρόνου", desc: "poetry", match: "sti-rogmi-tou-chronou", sort: date, numbered: true }
 - { name: "Iconic Hacks", desc: "photo quotes", match: "iconic-hack", sort: date, numbered: true }
 - { name: "Movies", desc: "video-art", match: "/posts/time/,reversed-town,soundcheck-movie,mad-or-bad,dervishe-s-dance,antimatter,happy-fields,air-and-fire,cross-covariances,today-s-yesterday,krisimi-kampi,geografies,/posts/4/,apotypoma-dexiou-deikti,afypnisis,come-closer", sort: date, numbered: false }
