@@ -1,5 +1,5 @@
 ---
-title: The Playroom exhibition
+title: The Playroom exhibition -2025
 subtitle: Έκθεση Φωτογραφίας στη Θεσσαλονίκη
 date: 2025-04-24T19:39:00
 thumb_img_path: /images/playroom ex.webp
