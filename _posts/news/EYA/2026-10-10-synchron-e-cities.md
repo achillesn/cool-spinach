@@ -6,7 +6,9 @@ thumb_img_path: /images/SYNCHRONeCITIES.webp
 content_img_path: ''
 excerpt: Το Δίκτυο Hocus Photus  παρουσίασε την ομαδική έκθεση “SYNCHRON-e-CITIES”, ιστον εκθεσιακό χώρο του T.A.F. / the art foundation, από τις 22.05. - 08.06.2025. Η έκθεση φιλοξένησε τα έργα 21 σύχρονων καλλιτεχνών φωτογράφων και την επιμελήθηκε ο Αχιλλέας Νάσιος.
 canonical_url: ''
-categories: []
+categories:
+  - Post
+  - Εκθέσεις
 layout: post
 ---
 
