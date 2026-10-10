@@ -87,7 +87,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
 
-  - name: studium_posts
+  - name: StudiUm_posts
     label: StudiUm
     folder: _posts/StudiUm
     create: true
