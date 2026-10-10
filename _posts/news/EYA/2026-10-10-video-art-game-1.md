@@ -7,8 +7,8 @@ content_img_path: /images/Screenshot 2026-10-10 at 18.18.40.jpg
 excerpt: 'Το Video-Art Game #1 σχεδιάστηκε για να κάνει πρεμιέρα στο Athens Digital Arts Festival 2025 που είναι αφιερωμένο στη συνθήκη Simulacra, η οποία έχει έναν επιδραστικό ρόλο στην σημερινή εποχή.'
 canonical_url: ''
 categories:
-  - Φωτογραφικά Παιχνίδια - Live
   - Post
+  - Φωτογραφικά Παιχνίδια - Live
 layout: post
 ---
 
