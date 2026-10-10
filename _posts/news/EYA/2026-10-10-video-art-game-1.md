@@ -8,6 +8,7 @@ excerpt: 'Το Video-Art Game #1 σχεδιάστηκε για να κάνει �
 canonical_url: ''
 categories:
   - Φωτογραφικά Παιχνίδια - Live
+  - Post
 layout: post
 ---
 
