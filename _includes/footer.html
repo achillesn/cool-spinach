@@ -1,6 +1,6 @@
 <footer id="colophon" class="site-footer">
   <p class="site-info">
-    {{ site.footer.content }}
+    &copy; {{ 'now' | date: '%Y' }} - Hocus Photus. All rights reserved.
     &nbsp;
     {% for link in site.footer.links %}
     <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
