@@ -10,7 +10,7 @@
 - { name: "Στη Ρωγμή του Χρόνου", desc: "poetry", match: "sti-rogmi-tou-chronou", sort: date, numbered: true }
 - { name: "Iconic Hacks", desc: "photo quotes", match: "iconic-hack", sort: date, numbered: true }
 - { name: "Movies", desc: "video-art", match: "/posts/time/,reversed-town,soundcheck-movie,mad-or-bad,dervishe-s-dance,antimatter,happy-fields,air-and-fire,cross-covariances,today-s-yesterday,krisimi-kampi", sort: date, numbered: false }
-- { name: "Το καπάκι της Αβύσσου", desc: "", match: "το καπάκι της αβύσσου,πεντάμορφη,στα-ίχνη-της-φαντασίας,osa-fernei-i-ora,μνήμες-από-την,to-dakry-tis-eftyxias,stin-aggalia-tis-amnisias,ermaio-sta-xnaria,stin-epikrateia-tou-vlematos,sta-dyxtia-tis-afairesis,i-siopi-tis-armonias,to-preloudio-tou-skotadiou", sort: date, numbered: false }
+- { name: "Το καπάκι της Αβύσσου", desc: "", match: "το καπάκι της αβύσσου,πεντάμορφη,στα-ίχνη-της-φαντασίας,osa-fernei-i-ora,μνήμες-από-την,to-dakry-tis-eftyxias,stin-aggalia-tis-amnisias,ermaio-sta-xnaria,stin-epikrateia-tou-vlematos,sta-dyxtia-tis-afairesis,i-siopi-tis-armonias,to-preloudio-tou-skotadiou,o-syllektis-tis-elpidas,sta-dontia-ton-allagon,ισχυρότερη-επαφή,anasainontas-ti-mnimi,erevnontas-tin-armonia,to-aggigma-tou-tipota", sort: date, numbered: false }
 - { name: "Music", desc: "music videos", match: "2ω-και-26λ,to-lefko-fanelaki,me-parea-to-thanasi,o-apoxeraitismos-tou-thanou,gia-to-thano,kenkeliba,elafi-tou-vorra", sort: date, numbered: false }
 - { name: "Κορώνα - Γράμματα", desc: "", match: "korona-grammata,κορώνα", sort: date, numbered: false }
 - { name: "Sing Your Soul Out", desc: "", match: "syso", sort: date, numbered: false }
