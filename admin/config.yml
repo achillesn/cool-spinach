@@ -20,7 +20,7 @@ collections:
       - { label: Alternative Featured Image, name: content_img_path, widget: image, required: false }
       - { label: Excerpt, name: excerpt, widget: text, required: false }
       - { label: Canonical URL, name: canonical_url, widget: string, required: false }
-      - { label: Category, name: categories, widget: select, multiple: true, required: false, options: ["Φωτογραφικά Παιχνίδια - Live", "Εκθέσεις", "e-PhotoGames", "Παράλληλοι Κόσμοι", "Virtual Connections", "Virtual Connections III", "ΕΙΚΟΝΟΛΟΓΟΙ", "Ελεγεία της Ανόδου", "Συνοδευτική Επιστολή", "Στη Ρωγμή του Χρόνου", "Το καπάκι της Αβύσσου", "Κορώνα - Γράμματα", "Αναζητώντας τη χαμένη Μαγεία", "Το Μάτι του Κύκλωπα", "Iconic Hacks", "Movies", "Music", "Sing Your Soul Out", "StudiUm", "News", "Post"] }
+      - { label: Category, name: categories, widget: relation, collection: categories, file: contents, value_field: "groups.*.name", search_fields: ["groups.*.name"], display_fields: ["groups.*.name"], multiple: true, required: false }
       - { label: Layout, name: layout, widget: hidden, default: post }
       - { label: Κείμενο, name: body, widget: markdown }
 
@@ -109,7 +109,7 @@ collections:
     fields: *post_fields
 
   - name: news
-    label: "Φωτογραφικά Παιχνίδια-Live"
+    label: Φωτογραφικά Παιχνίδια
     folder: _posts/news
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -128,6 +128,26 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields: *post_fields
+
+  - name: categories
+    label: Κατηγορίες (Blogus Contentus)
+    files:
+      - name: contents
+        label: Λίστα κατηγοριών
+        file: _data/contents.yml
+        fields:
+          - name: groups
+            label: Κατηγορίες
+            widget: list
+            summary: '{{fields.pos}} · {{fields.name}}'
+            fields:
+              - { label: Όνομα, name: name, widget: string }
+              - { label: Θέση στη σελίδα, name: pos, widget: number, value_type: float, hint: "1 = πρώτη. Για ανάμεσα σε δύο, π.χ. 5.5" }
+              - { label: Περιγραφή, name: desc, widget: string, required: false, hint: "π.χ. Hocus PoetUs" }
+              - { label: Αυτόματη αναγνώριση (προαιρετικό), name: match, widget: string, required: false, hint: "Λέξεις από τίτλο ή διεύθυνση, χωρισμένες με κόμμα. Για νέες κατηγορίες άφησέ το κενό." }
+              - { label: Ταξινόμηση, name: sort, widget: select, options: ["date", "title"], default: "date" }
+              - { label: Αρίθμηση άρθρων, name: numbered, widget: boolean, default: false }
+              - { label: Κρυφή (δεν εμφανίζεται στο Contents), name: hidden, widget: boolean, default: false }
 
   - name: pages
     label: Σελίδες
