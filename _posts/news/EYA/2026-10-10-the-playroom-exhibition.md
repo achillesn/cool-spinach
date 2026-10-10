@@ -1,6 +1,6 @@
 ---
-title: The Playroom exhibition -2025
-subtitle: Έκθεση Φωτογραφίας στη Θεσσαλονίκη
+title: The Playroom exhibition
+subtitle: Έκθεση Φωτογραφίας στη Θεσσαλονίκη, 16-25 Απρ. ’26
 date: 2025-04-24T19:39:00
 thumb_img_path: /images/playroom ex.webp
 content_img_path: /images/playroom ex.webp
