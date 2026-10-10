@@ -5,8 +5,13 @@ layout: body
   {% assign page_text = content | strip %}
   {% assign has_img = false %}
   {% if page.img_path and page.img_path != "" %}{% assign has_img = true %}{% endif %}
-  {% if page_text != "" or has_img %}
   <article class="post page post-full">
+    <header class="post-header">
+      <h1 class="post-title underline">{{ page.title }}</h1>
+    </header>
+    {% if page.subtitle and page.subtitle != "" %}
+    <div class="post-subtitle">{{ page.subtitle }}</div>
+    {% endif %}
     {% if has_img %}
     <div class="post-thumbnail"><img class="thumbnail" src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" /></div>
     {% endif %}
@@ -16,7 +21,6 @@ layout: body
     </div>
     {% endif %}
   </article>
-  {% endif %}
 
   <div class="post-feed">
 
