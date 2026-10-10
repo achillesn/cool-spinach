@@ -21,6 +21,8 @@ layout: post
 
 Περισσότερα από τη δράση του Δικτύου **Hocus Photus**  στα link που ακολουθούν:
 
-[View Video](https://www.youtube.com/watch?v=gn92k6Jgbqw)
+[Video-art Game #1 - Video](https://www.youtube.com/watch?v=gn92k6Jgbqw)
+
+[Video-art Game #1 - Kids](https://www.youtube.com/watch?v=RhHr7jHW56U)
 
 [Athens Digital Arts Festival 2025](https://2025.adaf.gr/artworks/video-art-game/)
