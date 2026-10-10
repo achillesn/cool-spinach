@@ -6,6 +6,7 @@ layout: studium
 menu:
   main:
     weight: 4
+    title: UPCOMING EVENTUS
 ---
 
 h
