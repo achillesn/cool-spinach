@@ -3,7 +3,7 @@ title: Mobile PhotoGame
 subtitle: Στα πλαίσια των SYNCHRON-e-CITIES
 date: 2025-06-05T19:05:00
 thumb_img_path: /images/mobile photogame.webp
-content_img_path: ''
+content_img_path: /images/mobile photogame.webp
 excerpt: Το Mobile Photo Game ήταν ένα εισαγωγικό παιχνίδι που έγινε στα πλαίσια των δράσεων του Δικτύου Hocus Photus, κατά τη διάρκεια της έκθεσης SYNCHRON-e-CITIES στο TAF The Art Foundation. 05.06.´25
 canonical_url: ''
 categories:
