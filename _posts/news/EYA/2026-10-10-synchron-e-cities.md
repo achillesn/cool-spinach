@@ -17,3 +17,7 @@ layout: post
 Η έκθεση περιλαμβάνει τα έργα ατόμων που εργάστηκαν επάνω σε θέματα κοινά, τα οποία στο τέλος συνδέθηκαν έτσι, ώστε στο σύνολο τους να αποτελέσουν ένα συλλογικό έργο. Δημιουργήθηκε σταδιακά καθώς οι συμμετέχοντες είχαν την ευκαιρία να βουτήξουν στα έγκατα του εαυτού τους και αξιοποιώντας την δυνατότητα που προσφέρει το φωτογραφικό μέσο προσπάθησαν να “οπτικοποιήσουν” την ουσία. Έτσι το έργο του καθενός προέρχεται από μια εκτενέστερη, ρυθμικά επαναλαμβανόμενη δράση, δημιουργική τόσο, όσο και επιμορφωτική. 
 
 Το τελικό αποτέλεσμα συγκροτεί ένα “παζλ” καμωμένο από εικόνες που απηχούν τη βαθύτερη εσωτερική αναζήτησή του κάθε φωτογράφου. Πρόκειται για μια προσέγγιση η οποία, στο σύνολο της, προσδοκά να εναρμονίσει τις διαφορετικές εκφράσεις των ατομικών προσπαθειών, αναδεικνύοντας ταυτόχρονα τις διάφορες τάσεις της σύγχρονης φωτογραφίας.
+
+**Artists:** _Areti Alexandraki, Nasos Vasilogiannis, Lazaros Vassos, Elena Vrysi, Elias Georgouleas, Elena Gountara, Eva Kalpadaki, Christina Karamanli, Elias Kessisoglou, Dimitra Kitsiou, George Koutsouvelis, Nelli Kritikopoulou, Dimitris Liofis, Nikos Mitrias, Evangeli Betsa, Katerina Bonou, Efi Papargyriou, Faye Pitta, Yannis Rousounelos, Panagiotis Sarmas, George Floros_
+
+**Curator:** _Achilles Nasios_
