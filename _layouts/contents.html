@@ -5,6 +5,9 @@ layout: body
   <header class="post-header">
     <h1 class="post-title underline">{{ page.title }}</h1>
   </header>
+  {% if page.subtitle and page.subtitle != '' %}
+  <div class="post-subtitle">{{ page.subtitle }}</div>
+  {% endif %}
   {% if page.img_path and page.img_path != '' %}
   <div class="post-thumbnail"><img class="thumbnail" src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" /></div>
   {% endif %}
@@ -21,7 +24,7 @@ layout: body
         {% for g in groups %}
           {% assign gl = g.name | downcase %}
           {% if cl == gl %}
-            {% assign idx = forloop.index | prepend: '000' | slice: -3, 3 %}
+            {% assign idx = g.pos | prepend: '000' | slice: -3, 3 %}
             {% assign gsort = g.sort %}
             {% break %}
           {% endif %}
@@ -37,7 +40,7 @@ layout: body
             {% for pt in pats %}
               {% assign ps = pt | strip | downcase %}
               {% if ps != "" and hay contains ps %}
-                {% assign idx = forloop.parentloop.index | prepend: '000' | slice: -3, 3 %}
+                {% assign idx = g.pos | prepend: '000' | slice: -3, 3 %}
                 {% assign gsort = g.sort %}
                 {% break %}
               {% endif %}
@@ -62,7 +65,11 @@ layout: body
       {% assign f = e | split: '|||' %}
       {% if f.size < 4 %}{% continue %}{% endif %}
       {% if f[0] != cur and cur != "" %}
-        {% if cur == "999" %}{% assign bname = "Διάφορα" %}{% assign bdesc = "" %}{% assign bnum = false %}{% else %}{% assign bi = cur | plus: 0 | minus: 1 %}{% assign bname = groups[bi].name %}{% assign bdesc = groups[bi].desc %}{% assign bnum = groups[bi].numbered %}{% endif %}
+        {% assign bname = "Διάφορα" %}{% assign bdesc = "Hocus RantomUs" %}{% assign bnum = false %}
+        {% for g in groups %}
+          {% assign gp = g.pos | prepend: '000' | slice: -3, 3 %}
+          {% if gp == cur %}{% assign bname = g.name %}{% assign bdesc = g.desc %}{% assign bnum = g.numbered %}{% break %}{% endif %}
+        {% endfor %}
         <details class="contents-theme">
           <summary>{{ bname }} <span class="contents-count">({{ n }})</span>{% if bdesc and bdesc != "" %} <span class="contents-desc">· {{ bdesc }}</span>{% endif %}</summary>
           {% if bnum %}<ol>{{ items }}</ol>{% else %}<ul>{{ items }}</ul>{% endif %}
@@ -75,7 +82,11 @@ layout: body
       {% assign items = items | append: li %}
     {% endfor %}
     {% if cur != "" %}
-      {% if cur == "999" %}{% assign bname = "Διάφορα" %}{% assign bdesc = "" %}{% assign bnum = false %}{% else %}{% assign bi = cur | plus: 0 | minus: 1 %}{% assign bname = groups[bi].name %}{% assign bdesc = groups[bi].desc %}{% assign bnum = groups[bi].numbered %}{% endif %}
+      {% assign bname = "Διάφορα" %}{% assign bdesc = "Hocus RantomUs" %}{% assign bnum = false %}
+      {% for g in groups %}
+        {% assign gp = g.pos | prepend: '000' | slice: -3, 3 %}
+        {% if gp == cur %}{% assign bname = g.name %}{% assign bdesc = g.desc %}{% assign bnum = g.numbered %}{% break %}{% endif %}
+      {% endfor %}
       <details class="contents-theme">
         <summary>{{ bname }} <span class="contents-count">({{ n }})</span>{% if bdesc and bdesc != "" %} <span class="contents-desc">· {{ bdesc }}</span>{% endif %}</summary>
         {% if bnum %}<ol>{{ items }}</ol>{% else %}<ul>{{ items }}</ul>{% endif %}
