@@ -1,5 +1,5 @@
 ---
-title: SYmPLEGMATA
+title: ΣΥμΠΛΕΓΜΑΤΑ
 subtitle: Μια συνάντηση διαφορετικών βλεμμάτων
 date: 2026-09-24T20:01:00
 thumb_img_path: /images/SYmPLEGMATA.webp
