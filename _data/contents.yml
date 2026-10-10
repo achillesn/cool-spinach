@@ -1,18 +1,22 @@
-- { name: "Αναζητώντας τη χαμένη Μαγεία", pos: 13, desc: "Hocus IntellectUs", match: "αναζητώντας τη χαμένη μαγεία,anodus/2022-", sort: date, numbered: false }
-- { name: "e-PhotoGames", pos: 3, desc: "Hocus PhotUs", match: "e-photogame,/2022ii,2022ii_", sort: title, numbered: false }
-- { name: "Παράλληλοι Κόσμοι", pos: 4, desc: "Hocus PhotUs", match: "kosmoi,παράλληλοι κόσμοι", sort: date, numbered: false }
-- { name: "ΕΙΚΟΝΟΛΟΓΟΙ", pos: 7, desc: "Hocus LiterarUs", match: "photologoi,εικονολογοι,εικονο-λογοι", sort: date, numbered: false }
-- { name: "Virtual Connections III", pos: 6, desc: "Hocus PhotUs", match: "virtual connections iii/2020-1,virtual connections iii/2021,virtual-connection-iii,virtual-connections-iii,virtual-connection-3-,virtual-connection-22", sort: date, numbered: true }
-- { name: "Virtual Connections", pos: 5, desc: "Hocus PhotUs", match: "virtual-connection,virtuala-connection,common-developments,syllogikes-anaptyxeis,συλλογικές-αναπτύξεις", sort: date, numbered: true }
-- { name: "Ελεγεία της Ανόδου", pos: 8, desc: "Hocus LiterarUs", match: "anodus,i-giorti-tis-anasas,i-siopi-tis-prosmonis,i-simasia-tis-siopis", sort: date, numbered: true }
-- { name: "Συνοδευτική Επιστολή", pos: 9, desc: "Hocus PoetUs", match: "synodeftiki-epistoli,cover-letter,συνοδευτική-επιστολή", sort: date, numbered: true }
-- { name: "Το Μάτι του Κύκλωπα", pos: 14, desc: "Hocus IntellectUs", match: "mati-tou-ky,the-cyclop-s-eye,το-μάτι-του-κύκλωπα,h-anapofefkti-prothesi,anagnorizontas-ton-kodika,i-simasia-tis-apodoxis,diloseis-kai-symparadiloseis", sort: date, numbered: true }
-- { name: "Στη Ρωγμή του Χρόνου", pos: 10, desc: "Hocus PoetUs", match: "sti-rogmi-tou-chronou", sort: date, numbered: true }
-- { name: "Iconic Hacks", pos: 15, desc: "Photus QuotUs", match: "iconic-hack", sort: date, numbered: true }
-- { name: "Movies", pos: 16, desc: "Hocus VideUs", match: "/posts/time/,reversed-town,soundcheck-movie,mad-or-bad,dervishe-s-dance,antimatter,happy-fields,air-and-fire,cross-covariances,today-s-yesterday,krisimi-kampi,geografies,/posts/4/,apotypoma-dexiou-deikti,afypnisis,come-closer", sort: date, numbered: false }
-- { name: "Το καπάκι της Αβύσσου", pos: 11, desc: "Hocus PoetUs", match: "το καπάκι της αβύσσου,πεντάμορφη,στα-ίχνη-της-φαντασίας,osa-fernei-i-ora,μνήμες-από-την,to-dakry-tis-eftyxias,stin-aggalia-tis-amnisias,ermaio-sta-xnaria,stin-epikrateia-tou-vlematos,sta-dyxtia-tis-afairesis,i-siopi-tis-armonias,to-preloudio-tou-skotadiou,o-syllektis-tis-elpidas,sta-dontia-ton-allagon,ισχυρότερη-επαφή,anasainontas-ti-mnimi,erevnontas-tin-armonia,to-aggigma-tou-tipota", sort: date, numbered: false }
-- { name: "Music", pos: 17, desc: "Hocus MusicaliUs", match: "2ω-και-26λ,to-lefko-fanelaki,me-parea-to-thanasi,o-apoxeraitismos-tou-thanou,gia-to-thano,kenkeliba,elafi-tou-vorra,antidote,ατελής-ταυτότητα", sort: date, numbered: false }
-- { name: "Κορώνα - Γράμματα", pos: 12, desc: "Hocus PoetUs", match: "korona-grammata,κορώνα", sort: date, numbered: false }
-- { name: "Sing Your Soul Out", pos: 18, desc: "Hocus SongUs", match: "syso", sort: date, numbered: false }
-- { name: "Εκθέσεις", pos: 2, desc: "Hocus PhotUs", match: "/posts/inside-out/,τελευταίο παιχνίδι", sort: date, numbered: false }
-- { name: "Φωτογραφικά Παιχνίδια - Live", pos: 1, desc: "Hocus DocumentUs", match: "_posts/news/,φωτογραφικό παιχνίδι,photo game", sort: date, numbered: false }
+groups:
+- { name: "Αναζητώντας τη χαμένη Μαγεία", pos: 13, desc: "Hocus IntellectUs", match: "αναζητώντας τη χαμένη μαγεία,anodus/2022-", sort: date, numbered: false, hidden: false }
+- { name: "e-PhotoGames", pos: 3, desc: "Hocus PhotUs", match: "e-photogame,/2022ii,2022ii_", sort: title, numbered: false, hidden: false }
+- { name: "Παράλληλοι Κόσμοι", pos: 4, desc: "Hocus PhotUs", match: "kosmoi,παράλληλοι κόσμοι", sort: date, numbered: false, hidden: false }
+- { name: "ΕΙΚΟΝΟΛΟΓΟΙ", pos: 7, desc: "Hocus LiterarUs", match: "photologoi,εικονολογοι,εικονο-λογοι", sort: date, numbered: false, hidden: false }
+- { name: "Virtual Connections III", pos: 6, desc: "Hocus PhotUs", match: "virtual connections iii/2020-1,virtual connections iii/2021,virtual-connection-iii,virtual-connections-iii,virtual-connection-3-,virtual-connection-22", sort: date, numbered: true, hidden: false }
+- { name: "Virtual Connections", pos: 5, desc: "Hocus PhotUs", match: "virtual-connection,virtuala-connection,common-developments,syllogikes-anaptyxeis,συλλογικές-αναπτύξεις", sort: date, numbered: true, hidden: false }
+- { name: "Ελεγεία της Ανόδου", pos: 8, desc: "Hocus LiterarUs", match: "anodus,i-giorti-tis-anasas,i-siopi-tis-prosmonis,i-simasia-tis-siopis", sort: date, numbered: true, hidden: false }
+- { name: "Συνοδευτική Επιστολή", pos: 9, desc: "Hocus PoetUs", match: "synodeftiki-epistoli,cover-letter,συνοδευτική-επιστολή", sort: date, numbered: true, hidden: false }
+- { name: "Το Μάτι του Κύκλωπα", pos: 14, desc: "Hocus IntellectUs", match: "mati-tou-ky,the-cyclop-s-eye,το-μάτι-του-κύκλωπα,h-anapofefkti-prothesi,anagnorizontas-ton-kodika,i-simasia-tis-apodoxis,diloseis-kai-symparadiloseis", sort: date, numbered: true, hidden: false }
+- { name: "Στη Ρωγμή του Χρόνου", pos: 10, desc: "Hocus PoetUs", match: "sti-rogmi-tou-chronou", sort: date, numbered: true, hidden: false }
+- { name: "Iconic Hacks", pos: 15, desc: "Photus QuotUs", match: "iconic-hack", sort: date, numbered: true, hidden: false }
+- { name: "Movies", pos: 16, desc: "Hocus VideUs", match: "/posts/time/,reversed-town,soundcheck-movie,mad-or-bad,dervishe-s-dance,antimatter,happy-fields,air-and-fire,cross-covariances,today-s-yesterday,krisimi-kampi,geografies,/posts/4/,apotypoma-dexiou-deikti,afypnisis,come-closer", sort: date, numbered: false, hidden: false }
+- { name: "Το καπάκι της Αβύσσου", pos: 11, desc: "Hocus PoetUs", match: "το καπάκι της αβύσσου,πεντάμορφη,στα-ίχνη-της-φαντασίας,osa-fernei-i-ora,μνήμες-από-την,to-dakry-tis-eftyxias,stin-aggalia-tis-amnisias,ermaio-sta-xnaria,stin-epikrateia-tou-vlematos,sta-dyxtia-tis-afairesis,i-siopi-tis-armonias,to-preloudio-tou-skotadiou,o-syllektis-tis-elpidas,sta-dontia-ton-allagon,ισχυρότερη-επαφή,anasainontas-ti-mnimi,erevnontas-tin-armonia,to-aggigma-tou-tipota", sort: date, numbered: false, hidden: false }
+- { name: "Music", pos: 17, desc: "Hocus MusicaliUs", match: "2ω-και-26λ,to-lefko-fanelaki,me-parea-to-thanasi,o-apoxeraitismos-tou-thanou,gia-to-thano,kenkeliba,elafi-tou-vorra,antidote,ατελής-ταυτότητα", sort: date, numbered: false, hidden: false }
+- { name: "Κορώνα - Γράμματα", pos: 12, desc: "Hocus PoetUs", match: "korona-grammata,κορώνα", sort: date, numbered: false, hidden: false }
+- { name: "Sing Your Soul Out", pos: 18, desc: "Hocus SongUs", match: "syso", sort: date, numbered: false, hidden: false }
+- { name: "Εκθέσεις", pos: 2, desc: "Hocus PhotUs", match: "/posts/inside-out/,τελευταίο παιχνίδι", sort: date, numbered: false, hidden: false }
+- { name: "Φωτογραφικά Παιχνίδια - Live", pos: 1, desc: "Hocus DocumentUs", match: "_posts/news/,φωτογραφικό παιχνίδι,photo game", sort: date, numbered: false, hidden: false }
+- { name: "StudiUm", pos: 900, desc: "Upcoming Events", match: "", sort: date, numbered: false, hidden: true }
+- { name: "News", pos: 901, desc: "", match: "", sort: date, numbered: false, hidden: true }
+- { name: "Post", pos: 902, desc: "", match: "", sort: date, numbered: false, hidden: true }
