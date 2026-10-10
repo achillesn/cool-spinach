@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: UpComing EventUs
 subtitle: ''
 img_path: ''
 layout: studium
@@ -8,4 +8,4 @@ menu:
     weight: 4
 ---
 
-Hej χ
+h
