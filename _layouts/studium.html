@@ -2,9 +2,17 @@
 layout: body
 ---
 
+  {% assign page_text = content | strip %}
+  {% if page_text != "" %}
+  <article class="post page post-full">
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </article>
+  {% endif %}
+
   <div class="post-feed">
 
-    {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% for post in site.categories.StudiUm %}
     <article class="post">
       <div class="post-inside">
@@ -29,12 +37,4 @@ layout: body
     {% endfor %}
 
   </div><!-- .post-feed -->
-
-  <!-- Pagination TBD -->
-  <!--
-  <nav class="pagination">
-    <a class="older-posts button circle" href="#"><span class="icon-arrow-left" aria-hidden="true"></span><span class="screen-reader-text">Older posts</span></a>
-    <span class="page-number">Page X of Y</span>
-    <a class="newer-posts button circle" href="#"><span class="screen-reader-text">Newer posts</span><span class="icon-arrow-right" aria-hidden="true"></span></a>
-  </nav>
-  -->
+  
