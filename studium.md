@@ -5,7 +5,7 @@ img_path: /images/hocus eventus.jpg
 layout: studium
 menu:
   main:
-    title: UPCOMING EVENTUS
+    title: HOCUS MEETUS
     weight: 4
 ---
 
