@@ -1,7 +1,7 @@
 ---
 title: UpComing EventUs
 subtitle: ''
-img_path: /images/02_mg_7390.jpg
+img_path: /images/hocus eventus.jpg
 layout: studium
 menu:
   main:
