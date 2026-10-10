@@ -1,5 +1,5 @@
 ---
-title: UpComing EventUs
+title: Hocus MeetUs
 subtitle: ''
 img_path: /images/hocus eventus.jpg
 layout: studium
