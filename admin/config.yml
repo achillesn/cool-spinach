@@ -109,7 +109,7 @@ collections:
     fields: *post_fields
 
   - name: news
-    label: Φωτογραφικά Παιχνίδια
+    label: "Φωτογραφικά Παιχνίδια-Live"
     folder: _posts/news
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
