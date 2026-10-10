@@ -14,7 +14,7 @@ layout: body
   <div class="post-content">
     {{ content }}
 
-    {% assign groups = site.data.contents %}
+    {% assign groups = site.data.contents.groups %}
     {% assign entries = "" %}
     {% for p in site.posts %}
       {% assign idx = "" %}
@@ -22,9 +22,10 @@ layout: body
       {% for c in p.categories %}
         {% assign cl = c | downcase %}
         {% for g in groups %}
+          {% if g.hidden %}{% continue %}{% endif %}
           {% assign gl = g.name | downcase %}
           {% if cl == gl %}
-            {% assign idx = g.pos | prepend: '000' | slice: -3, 3 %}
+            {% assign idx = g.pos | times: 10 | round | prepend: '0000' | slice: -4, 4 %}
             {% assign gsort = g.sort %}
             {% break %}
           {% endif %}
@@ -35,12 +36,13 @@ layout: body
         {% capture hay %}{{ p.path }} {{ p.url }} {{ p.title }}{% endcapture %}
         {% assign hay = hay | downcase %}
         {% for g in groups %}
+          {% if g.hidden %}{% continue %}{% endif %}
           {% if g.match and g.match != "" %}
             {% assign pats = g.match | split: ',' %}
             {% for pt in pats %}
               {% assign ps = pt | strip | downcase %}
               {% if ps != "" and hay contains ps %}
-                {% assign idx = g.pos | prepend: '000' | slice: -3, 3 %}
+                {% assign idx = g.pos | times: 10 | round | prepend: '0000' | slice: -4, 4 %}
                 {% assign gsort = g.sort %}
                 {% break %}
               {% endif %}
@@ -49,7 +51,7 @@ layout: body
           {% endif %}
         {% endfor %}
       {% endif %}
-      {% if idx == "" %}{% assign idx = "999" %}{% assign gsort = "date" %}{% endif %}
+      {% if idx == "" %}{% assign idx = "9999" %}{% assign gsort = "date" %}{% endif %}
       {% if gsort == "title" %}
         {% assign key = p.title | downcase | replace: '.', '_' | replace: ' ', '' %}
       {% else %}
@@ -67,7 +69,7 @@ layout: body
       {% if f[0] != cur and cur != "" %}
         {% assign bname = "Διάφορα" %}{% assign bdesc = "Hocus RantomUs" %}{% assign bnum = false %}
         {% for g in groups %}
-          {% assign gp = g.pos | prepend: '000' | slice: -3, 3 %}
+          {% assign gp = g.pos | times: 10 | round | prepend: '0000' | slice: -4, 4 %}
           {% if gp == cur %}{% assign bname = g.name %}{% assign bdesc = g.desc %}{% assign bnum = g.numbered %}{% break %}{% endif %}
         {% endfor %}
         <details class="contents-theme">
@@ -84,7 +86,7 @@ layout: body
     {% if cur != "" %}
       {% assign bname = "Διάφορα" %}{% assign bdesc = "Hocus RantomUs" %}{% assign bnum = false %}
       {% for g in groups %}
-        {% assign gp = g.pos | prepend: '000' | slice: -3, 3 %}
+        {% assign gp = g.pos | times: 10 | round | prepend: '0000' | slice: -4, 4 %}
         {% if gp == cur %}{% assign bname = g.name %}{% assign bdesc = g.desc %}{% assign bnum = g.numbered %}{% break %}{% endif %}
       {% endfor %}
       <details class="contents-theme">
