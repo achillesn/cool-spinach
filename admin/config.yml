@@ -20,7 +20,7 @@ collections:
       - { label: Alternative Featured Image, name: content_img_path, widget: image, required: false }
       - { label: Excerpt, name: excerpt, widget: text, required: false }
       - { label: Canonical URL, name: canonical_url, widget: string, required: false }
-      - { label: Category, name: categories, widget: list, required: false }
+      - { label: Category, name: categories, widget: select, multiple: true, required: false, options: ["Αναζητώντας τη χαμένη Μαγεία", "e-PhotoGames", "Παράλληλοι Κόσμοι", "ΕΙΚΟΝΟΛΟΓΟΙ", "Virtual Connections III", "Virtual Connections", "Ελεγεία της Ανόδου", "Συνοδευτική Επιστολή", "Το Μάτι του Κύκλωπα", "Στη Ρωγμή του Χρόνου", "Iconic Hacks", "Movies", "Το καπάκι της Αβύσσου", "Music", "Κορώνα - Γράμματα", "Sing Your Soul Out", "Εκθέσεις", "Φωτογραφικά Παιχνίδια", "StudiUm", "News", "Post"] }
       - { label: Layout, name: layout, widget: hidden, default: post }
       - { label: Κείμενο, name: body, widget: markdown }
 
