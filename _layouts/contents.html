@@ -5,8 +5,8 @@ layout: body
   <header class="post-header">
     <h1 class="post-title underline">{{ page.title }}</h1>
   </header>
-  {% if page.subtitle and page.subtitle != '' %}
-  <div class="post-subtitle">{{ page.subtitle }}</div>
+  {% if page.img_path and page.img_path != '' %}
+  <div class="post-thumbnail"><img class="thumbnail" src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" /></div>
   {% endif %}
   <div class="post-content">
     {{ content }}
