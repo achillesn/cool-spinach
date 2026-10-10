@@ -1,6 +1,6 @@
 ---
 title: ΣΥμΠΛΕΓΜΑΤΑ
-subtitle: Μια συνάντηση διαφορετικών βλεμμάτων. 24.09-4.10.2026
+subtitle: Μια συνάντηση διαφορετικών βλεμμάτων. (24.09-4.10.2026). Athens, Greece
 date: 2026-09-24T20:01:00
 thumb_img_path: /images/SYmPLEGMATA.webp
 content_img_path: /images/SYmPLEGMATA.webp
