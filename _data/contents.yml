@@ -14,4 +14,4 @@
 - { name: "Music", desc: "music videos", match: "2ω-και-26λ,to-lefko-fanelaki,me-parea-to-thanasi,o-apoxeraitismos-tou-thanou,gia-to-thano,kenkeliba,elafi-tou-vorra", sort: date, numbered: false }
 - { name: "Κορώνα - Γράμματα", desc: "", match: "korona-grammata,κορώνα", sort: date, numbered: false }
 - { name: "Sing Your Soul Out", desc: "", match: "syso", sort: date, numbered: false }
-- { name: "Φωτογραφικά Παιχνίδια", desc: "", match: "_posts/news/", sort: date, numbered: false }
+- { name: "Φωτογραφικά Παιχνίδια", desc: "", match: "_posts/news/,φωτογραφικό παιχνίδι,photo game,τελευταίο παιχνίδι", sort: date, numbered: false }
